@@ -1,0 +1,2539 @@
+[
+ {
+  "acc": "PXD030742",
+  "n_rows": 170,
+  "n_sdrf_files": 170,
+  "n_pride_files": 182,
+  "categories": {
+   "RAW": 170,
+   "FASTA": 6,
+   "SEARCH": 2,
+   "OTHER": 3,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=q exactive hf;AC=MS:1002523"
+  ],
+  "pride_instruments": [
+   "Q Exactive HF"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": [
+   "MS1 intensity based label-free quantification method"
+  ]
+ },
+ {
+  "acc": "PXD084238",
+  "n_rows": 45,
+  "n_sdrf_files": 45,
+  "n_pride_files": 49,
+  "categories": {
+   "RAW": 45,
+   "SEARCH": 1,
+   "OTHER": 1,
+   "FASTA": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Q Exactive HF-X;AC=MS:1002877"
+  ],
+  "pride_instruments": [
+   "Q Exactive HF-X"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "label free sample"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD026196",
+  "n_rows": 15,
+  "n_sdrf_files": 15,
+  "n_pride_files": 19,
+  "categories": {
+   "RAW": 15,
+   "OTHER": 2,
+   "SEARCH": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 2,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Orbitrap Fusion Lumos;AC=MS:1002732"
+  ],
+  "pride_instruments": [
+   "Orbitrap Fusion Lumos"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "AC=MS:1002038;NT=label free sample"
+  ],
+  "pride_quant": [
+   "TMT"
+  ]
+ },
+ {
+  "acc": "PXD010788",
+  "n_rows": 10,
+  "n_sdrf_files": 10,
+  "n_pride_files": 13,
+  "categories": {
+   "RAW": 10,
+   "SEARCH": 1,
+   "OTHER": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Q Exactive HF;AC=MS:1002523"
+  ],
+  "pride_instruments": [
+   "Q Exactive HF"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD004009",
+  "n_rows": 86,
+  "n_sdrf_files": 86,
+  "n_pride_files": 165,
+  "categories": {
+   "SEARCH": 22,
+   "RAW": 142,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Orbitrap Fusion;AC=MS:1002416"
+  ],
+  "pride_instruments": [
+   "Orbitrap Fusion"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "AC=MS:1002038;NT=label free sample"
+  ],
+  "pride_quant": [
+   "MS1 intensity based label-free quantification method",
+   "SILAC"
+  ]
+ },
+ {
+  "acc": "PXD009523",
+  "n_rows": 18,
+  "n_sdrf_files": 18,
+  "n_pride_files": 21,
+  "categories": {
+   "RAW": 18,
+   "SEARCH": 1,
+   "PEAK": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Q Exactive;AC=MS:1001911"
+  ],
+  "pride_instruments": [
+   "Q Exactive"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": [
+   "Gel-free quantification method"
+  ]
+ },
+ {
+  "acc": "PXD017007",
+  "n_rows": 99,
+  "n_sdrf_files": 99,
+  "n_pride_files": 235,
+  "categories": {
+   "RAW": 230,
+   "SEARCH": 2,
+   "OTHER": 2,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=LTQ Orbitrap Velos;AC=MS:1001742"
+  ],
+  "pride_instruments": [
+   "LTQ Orbitrap Velos"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": [
+   "Label free"
+  ]
+ },
+ {
+  "acc": "PXD054415",
+  "n_rows": 72,
+  "n_sdrf_files": 72,
+  "n_pride_files": 119,
+  "categories": {
+   "RAW": 72,
+   "OTHER": 36,
+   "SEARCH": 9,
+   "EXPERIMENTAL DESIGN": 2
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 9,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Orbitrap eclipse;AC=MS:1003029"
+  ],
+  "pride_instruments": [
+   "Orbitrap Fusion",
+   "Orbitrap Eclipse",
+   "Q Exactive"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": [
+   "Spectrum counting"
+  ]
+ },
+ {
+  "acc": "PXD059724",
+  "n_rows": 12,
+  "n_sdrf_files": 12,
+  "n_pride_files": 15,
+  "categories": {
+   "RAW": 12,
+   "RESULT": 1,
+   "PEAK": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 1,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 1,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": true,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Orbitrap Exploris 480;AC=MS:1003028"
+  ],
+  "pride_instruments": [
+   "Orbitrap Exploris 480"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD025688",
+  "n_rows": 220,
+  "n_sdrf_files": 20,
+  "n_pride_files": 23,
+  "categories": {
+   "RAW": 20,
+   "OTHER": 1,
+   "SEARCH": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 1,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Orbitrap Fusion;AC=MS:1002416"
+  ],
+  "pride_instruments": [
+   "Orbitrap Fusion"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "TMT126",
+   "TMT127C",
+   "TMT127N",
+   "TMT128C",
+   "TMT128N",
+   "TMT129C",
+   "TMT129N",
+   "TMT130C",
+   "TMT130N",
+   "TMT131C",
+   "TMT131N"
+  ],
+  "pride_quant": [
+   "TMT"
+  ]
+ },
+ {
+  "acc": "PXD076304",
+  "n_rows": 2,
+  "n_sdrf_files": 2,
+  "n_pride_files": 10,
+  "categories": {
+   "PEAK": 2,
+   "SEARCH": 2,
+   "RAW": 2,
+   "FASTA": 3,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 2
+  },
+  "has_peaklist": true,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Q Exactive;AC=MS:1001911"
+  ],
+  "pride_instruments": [
+   "Q Exactive"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD026884",
+  "n_rows": 15,
+  "n_sdrf_files": 15,
+  "n_pride_files": 18,
+  "categories": {
+   "RAW": 15,
+   "OTHER": 1,
+   "SEARCH": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 1,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=mass spectrometer;AC=MS:1000031"
+  ],
+  "pride_instruments": [
+   "timsTOF Pro"
+  ],
+  "instrument_agree": false,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD018714",
+  "n_rows": 6,
+  "n_sdrf_files": 6,
+  "n_pride_files": 38,
+  "categories": {
+   "PEAK": 12,
+   "RAW": 6,
+   "RESULT": 6,
+   "OTHER": 13,
+   "FASTA": 1
+  },
+  "found": {
+   "mzid": 6,
+   "mztab": 6,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 12,
+   "mzxml": 0
+  },
+  "has_peaklist": true,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Q Exactive Plus;AC=MS:1002634"
+  ],
+  "pride_instruments": [
+   "Q Exactive"
+  ],
+  "instrument_agree": false,
+  "labels": [
+   "label free sample"
+  ],
+  "pride_quant": [
+   "TIC"
+  ]
+ },
+ {
+  "acc": "PXD012660",
+  "n_rows": 3,
+  "n_sdrf_files": 3,
+  "n_pride_files": 10,
+  "categories": {
+   "SEARCH": 6,
+   "RAW": 3,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 6,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Orbitrap Fusion Lumos;AC=MS:1002732"
+  ],
+  "pride_instruments": [
+   "Orbitrap Fusion Lumos"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD005719",
+  "n_rows": 18,
+  "n_sdrf_files": 18,
+  "n_pride_files": 37,
+  "categories": {
+   "SEARCH": 18,
+   "RAW": 18,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=LTQ Orbitrap Velos;AC=MS:1001742"
+  ],
+  "pride_instruments": [
+   "LTQ Orbitrap Velos"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": [
+   "Spectrum counting"
+  ]
+ },
+ {
+  "acc": "PXD012850",
+  "n_rows": 72,
+  "n_sdrf_files": 72,
+  "n_pride_files": 145,
+  "categories": {
+   "RAW": 72,
+   "SEARCH": 72,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=synapt ms;AC=MS:1001782"
+  ],
+  "pride_instruments": [
+   "Synapt MS"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": [
+   "Label free"
+  ]
+ },
+ {
+  "acc": "PXD033027",
+  "n_rows": 103,
+  "n_sdrf_files": 103,
+  "n_pride_files": 107,
+  "categories": {
+   "RAW": 103,
+   "OTHER": 2,
+   "SEARCH": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Q Exactive HF-X;AC=MS:1002877"
+  ],
+  "pride_instruments": [
+   "Q Exactive HF"
+  ],
+  "instrument_agree": false,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD048844",
+  "n_rows": 15,
+  "n_sdrf_files": 15,
+  "n_pride_files": 19,
+  "categories": {
+   "RAW": 15,
+   "PEAK": 1,
+   "RESULT": 1,
+   "SEARCH": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 1,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 1,
+   "mzml": 1,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": true,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Orbitrap Eclipse;AC=MS:1003029"
+  ],
+  "pride_instruments": [
+   "Orbitrap Eclipse"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD014030",
+  "n_rows": 12,
+  "n_sdrf_files": 12,
+  "n_pride_files": 14,
+  "categories": {
+   "RAW": 12,
+   "SEARCH": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Q Exactive;AC=MS:1001911"
+  ],
+  "pride_instruments": [
+   "Q Exactive"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": [
+   "Label free"
+  ]
+ },
+ {
+  "acc": "PXD047410",
+  "n_rows": 100,
+  "n_sdrf_files": 100,
+  "n_pride_files": 308,
+  "categories": {
+   "RAW": 291,
+   "SEARCH": 16,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 16,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Orbitrap Exploris 480;AC=MS:1003028"
+  ],
+  "pride_instruments": [
+   "Orbitrap Exploris 480"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD063859",
+  "n_rows": 2,
+  "n_sdrf_files": 2,
+  "n_pride_files": 4,
+  "categories": {
+   "RAW": 2,
+   "SEARCH": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 1,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Orbitrap Astral;AC=MS:1003378"
+  ],
+  "pride_instruments": [
+   "Orbitrap Astral"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD067347",
+  "n_rows": 9,
+  "n_sdrf_files": 9,
+  "n_pride_files": 11,
+  "categories": {
+   "RAW": 9,
+   "SEARCH": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Q Exactive HF;AC=MS:1002523"
+  ],
+  "pride_instruments": [
+   "Q Exactive HF"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD050380",
+  "n_rows": 7,
+  "n_sdrf_files": 7,
+  "n_pride_files": 9,
+  "categories": {
+   "RAW": 7,
+   "SEARCH": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Orbitrap Fusion Lumos;AC=MS:1002732"
+  ],
+  "pride_instruments": [
+   "Orbitrap Fusion Lumos"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD056217",
+  "n_rows": 4,
+  "n_sdrf_files": 4,
+  "n_pride_files": 6,
+  "categories": {
+   "SEARCH": 1,
+   "RAW": 4,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Orbitrap Exploris 480;AC=MS:1003028"
+  ],
+  "pride_instruments": [
+   "Orbitrap Exploris 480"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD046741",
+  "n_rows": 6,
+  "n_sdrf_files": 6,
+  "n_pride_files": 8,
+  "categories": {
+   "RAW": 6,
+   "SEARCH": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Q Exactive HF;AC=MS:1002523"
+  ],
+  "pride_instruments": [
+   "Q Exactive HF"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD023604",
+  "n_rows": 36,
+  "n_sdrf_files": 36,
+  "n_pride_files": 40,
+  "categories": {
+   "SEARCH": 1,
+   "RAW": 36,
+   "OTHER": 1,
+   "FASTA": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Orbitrap Elite;AC=MS:1001910"
+  ],
+  "pride_instruments": [
+   "LTQ Orbitrap Elite"
+  ],
+  "instrument_agree": false,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD012987",
+  "n_rows": 78,
+  "n_sdrf_files": 78,
+  "n_pride_files": 401,
+  "categories": {
+   "SEARCH": 78,
+   "PEAK": 156,
+   "RAW": 78,
+   "RESULT": 78,
+   "OTHER": 9,
+   "FASTA": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 78,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 78,
+   "mzml": 78,
+   "mgf": 78,
+   "mzxml": 0
+  },
+  "has_peaklist": true,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Q Exactive HF;AC=MS:1002523"
+  ],
+  "pride_instruments": [
+   "Q Exactive HF"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD061911",
+  "n_rows": 6,
+  "n_sdrf_files": 6,
+  "n_pride_files": 8,
+  "categories": {
+   "RAW": 6,
+   "SEARCH": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Q Exactive;AC=MS:1001911"
+  ],
+  "pride_instruments": [
+   "Q Exactive"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": [
+   "Label free"
+  ]
+ },
+ {
+  "acc": "PXD081626",
+  "n_rows": 4,
+  "n_sdrf_files": 4,
+  "n_pride_files": 5,
+  "categories": {
+   "RAW": 4,
+   "SEARCH": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=timsTOF Pro 2;AC=MS:1003230"
+  ],
+  "pride_instruments": [
+   "timsTOF Pro 2"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD040864",
+  "n_rows": 16,
+  "n_sdrf_files": 16,
+  "n_pride_files": 33,
+  "categories": {
+   "RAW": 16,
+   "SEARCH": 16,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 16,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Q Exactive;AC=MS:1001911"
+  ],
+  "pride_instruments": [
+   "Q Exactive"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "AC=MS:1002038;NT=label free sample"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD050139",
+  "n_rows": 4,
+  "n_sdrf_files": 4,
+  "n_pride_files": 6,
+  "categories": {
+   "RAW": 4,
+   "SEARCH": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Orbitrap Exploris 480;AC=MS:1003028"
+  ],
+  "pride_instruments": [
+   "Orbitrap Exploris 480"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD038691",
+  "n_rows": 489,
+  "n_sdrf_files": 489,
+  "n_pride_files": 621,
+  "categories": {
+   "RAW": 489,
+   "SEARCH": 131,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 131,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Orbitrap Fusion Lumos;AC=MS:1002732"
+  ],
+  "pride_instruments": [
+   "Orbitrap Fusion Lumos"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD052400",
+  "n_rows": 3,
+  "n_sdrf_files": 3,
+  "n_pride_files": 7,
+  "categories": {
+   "RAW": 3,
+   "SEARCH": 3,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=LTQ Orbitrap Elite;AC=MS:1001910"
+  ],
+  "pride_instruments": [
+   "LTQ Orbitrap Elite"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD020761",
+  "n_rows": 26,
+  "n_sdrf_files": 26,
+  "n_pride_files": 83,
+  "categories": {
+   "RAW": 52,
+   "OTHER": 27,
+   "SEARCH": 3,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 2,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=tripletof 6600;AC=MS:1002533"
+  ],
+  "pride_instruments": [
+   "TripleTOF 6600"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD055535",
+  "n_rows": 18,
+  "n_sdrf_files": 18,
+  "n_pride_files": 34,
+  "categories": {
+   "SEARCH": 9,
+   "OTHER": 6,
+   "RAW": 18,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 6,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Orbitrap Exploris 480;AC=MS:1003028"
+  ],
+  "pride_instruments": [
+   "Orbitrap Exploris 480"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD014016",
+  "n_rows": 96,
+  "n_sdrf_files": 96,
+  "n_pride_files": 99,
+  "categories": {
+   "RAW": 96,
+   "OTHER": 1,
+   "SEARCH": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=LTQ Orbitrap;AC=MS:1000449"
+  ],
+  "pride_instruments": [
+   "LTQ Orbitrap"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD015687",
+  "n_rows": 275,
+  "n_sdrf_files": 275,
+  "n_pride_files": 368,
+  "categories": {
+   "RAW": 355,
+   "OTHER": 7,
+   "SEARCH": 4,
+   "FASTA": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 2,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=ltq orbitrap xl;AC=MS:1000556",
+   "NT=orbitrap elite;AC=MS:1001910",
+   "NT=orbitrap fusion lumos;AC=MS:1002732",
+   "NT=tripletof 6600;AC=MS:1002533"
+  ],
+  "pride_instruments": [
+   "Orbitrap Fusion Lumos",
+   "TripleTOF 6600",
+   "LTQ Orbitrap Elite",
+   "LTQ Orbitrap XL"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": [
+   "SWATH MS",
+   "Parallel Reaction Monitoring (PRM)"
+  ]
+ },
+ {
+  "acc": "PXD060960",
+  "n_rows": 4,
+  "n_sdrf_files": 4,
+  "n_pride_files": 15,
+  "categories": {
+   "OTHER": 5,
+   "RAW": 4,
+   "SEARCH": 4,
+   "FASTA": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 9,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Orbitrap Exploris 480;AC=MS:1003028"
+  ],
+  "pride_instruments": [
+   "Orbitrap Exploris 480"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": [
+   "MS1 intensity based label-free quantification method"
+  ]
+ },
+ {
+  "acc": "PXD000938",
+  "n_rows": 100,
+  "n_sdrf_files": 100,
+  "n_pride_files": 117,
+  "categories": {
+   "SEARCH": 52,
+   "RAW": 52,
+   "PEAK": 12,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 26,
+   "spectronaut": 0,
+   "pd": 13,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=LTQ Orbitrap Velos;AC=MS:1001742"
+  ],
+  "pride_instruments": [
+   "LTQ Orbitrap",
+   "LTQ Orbitrap Velos",
+   "Q Exactive"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD049301",
+  "n_rows": 2,
+  "n_sdrf_files": 2,
+  "n_pride_files": 9,
+  "categories": {
+   "RAW": 2,
+   "SEARCH": 2,
+   "OTHER": 2,
+   "PEAK": 2,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 2,
+   "mzxml": 0
+  },
+  "has_peaklist": true,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Q Exactive Plus;AC=MS:1002634"
+  ],
+  "pride_instruments": [
+   "Q Exactive"
+  ],
+  "instrument_agree": false,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD031164",
+  "n_rows": 12,
+  "n_sdrf_files": 12,
+  "n_pride_files": 241,
+  "categories": {
+   "PEAK": 220,
+   "RESULT": 1,
+   "RAW": 12,
+   "OTHER": 3,
+   "FASTA": 3,
+   "SEARCH": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 1,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=q exactive hf-x;AC=MS:1002877"
+  ],
+  "pride_instruments": [
+   "Q Exactive HF-X"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": [
+   "MS1 intensity based label-free quantification method"
+  ]
+ },
+ {
+  "acc": "PXD059598",
+  "n_rows": 47,
+  "n_sdrf_files": 46,
+  "n_pride_files": 112,
+  "categories": {
+   "SEARCH": 54,
+   "RAW": 54,
+   "OTHER": 2,
+   "FASTA": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 1,
+   "pepxml": 54,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=orbitrap exploris 240;AC=MS:1003094"
+  ],
+  "pride_instruments": [
+   "Orbitrap Exploris 240"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": [
+   "label-free quantification"
+  ]
+ },
+ {
+  "acc": "PXD003152",
+  "n_rows": 126,
+  "n_sdrf_files": 126,
+  "n_pride_files": 254,
+  "categories": {
+   "RAW": 126,
+   "SEARCH": 126,
+   "OTHER": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=LTQ Orbitrap Velos;AC=MS:1001742"
+  ],
+  "pride_instruments": [
+   "LTQ Orbitrap Velos"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "label free sample"
+  ],
+  "pride_quant": [
+   "Spectrum counting"
+  ]
+ },
+ {
+  "acc": "PXD070627",
+  "n_rows": 32,
+  "n_sdrf_files": 32,
+  "n_pride_files": 70,
+  "categories": {
+   "RAW": 32,
+   "PEAK": 32,
+   "SEARCH": 3,
+   "EXPERIMENTAL DESIGN": 2,
+   "OTHER": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 2,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 32,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": true,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Orbitrap Astral"
+  ],
+  "pride_instruments": [
+   "Orbitrap Astral"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "AC=MS:1002038;NT=label free sample"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD010660",
+  "n_rows": 4,
+  "n_sdrf_files": 4,
+  "n_pride_files": 7,
+  "categories": {
+   "RAW": 4,
+   "SEARCH": 1,
+   "PEAK": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 1,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Q Exactive;AC=MS:1001911"
+  ],
+  "pride_instruments": [
+   "Q Exactive"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": [
+   "SILAC"
+  ]
+ },
+ {
+  "acc": "PXD013064",
+  "n_rows": 11,
+  "n_sdrf_files": 11,
+  "n_pride_files": 38,
+  "categories": {
+   "OTHER": 1,
+   "RAW": 11,
+   "PEAK": 24,
+   "RESULT": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 1,
+   "mztab": 1,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 24,
+   "mzxml": 0
+  },
+  "has_peaklist": true,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Orbitrap Fusion Lumos;AC=MS:1002732"
+  ],
+  "pride_instruments": [
+   "Orbitrap Fusion Lumos"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD026728",
+  "n_rows": 6,
+  "n_sdrf_files": 6,
+  "n_pride_files": 8,
+  "categories": {
+   "RAW": 6,
+   "SEARCH": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=LTQ Orbitrap Elite;AC=MS:1001910"
+  ],
+  "pride_instruments": [
+   "LTQ Orbitrap Elite"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": [
+   "SILAC"
+  ]
+ },
+ {
+  "acc": "PXD052356",
+  "n_rows": 1,
+  "n_sdrf_files": 1,
+  "n_pride_files": 11,
+  "categories": {
+   "OTHER": 6,
+   "PEAK": 1,
+   "RAW": 1,
+   "SEARCH": 1,
+   "RESULT": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 1,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 2,
+   "mzml": 1,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": true,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Q Exactive Plus;AC=MS:1002634"
+  ],
+  "pride_instruments": [
+   "Q Exactive"
+  ],
+  "instrument_agree": false,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD034434",
+  "n_rows": 1,
+  "n_sdrf_files": 1,
+  "n_pride_files": 3,
+  "categories": {
+   "SEARCH": 1,
+   "RAW": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Q Exactive HF;AC=MS:1002523"
+  ],
+  "pride_instruments": [
+   "Q Exactive HF"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD032278",
+  "n_rows": 11,
+  "n_sdrf_files": 11,
+  "n_pride_files": 12,
+  "categories": {
+   "RAW": 8,
+   "SEARCH": 3,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 2,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Q Exactive HF;AC=MS:1002523"
+  ],
+  "pride_instruments": [
+   "Q Exactive HF"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD069492",
+  "n_rows": 6,
+  "n_sdrf_files": 6,
+  "n_pride_files": 7,
+  "categories": {
+   "RAW": 5,
+   "SEARCH": 1,
+   "OTHER": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=timsTOF Pro;AC=MS:1003005"
+  ],
+  "pride_instruments": [
+   "Bruker Daltonics timsTOF series"
+  ],
+  "instrument_agree": false,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD034916",
+  "n_rows": 18,
+  "n_sdrf_files": 18,
+  "n_pride_files": 22,
+  "categories": {
+   "RAW": 18,
+   "FASTA": 1,
+   "OTHER": 1,
+   "SEARCH": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Orbitrap Fusion;AC=MS:1002416"
+  ],
+  "pride_instruments": [
+   "Orbitrap Fusion"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ },
+ {
+  "acc": "PXD010689",
+  "n_rows": 80,
+  "n_sdrf_files": 80,
+  "n_pride_files": 84,
+  "categories": {
+   "RAW": 80,
+   "OTHER": 1,
+   "SEARCH": 2,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=LTQ Orbitrap Velos;AC=MS:1001742"
+  ],
+  "pride_instruments": [
+   "LTQ Orbitrap Velos"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": [
+   "MS1 intensity based label-free quantification method"
+  ]
+ },
+ {
+  "acc": "PXD015272",
+  "n_rows": 8,
+  "n_sdrf_files": 8,
+  "n_pride_files": 11,
+  "categories": {
+   "RAW": 8,
+   "SEARCH": 2,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Orbitrap Fusion Lumos;AC=MS:1002732"
+  ],
+  "pride_instruments": [
+   "Orbitrap Fusion Lumos"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": [
+   "SILAC"
+  ]
+ },
+ {
+  "acc": "PXD008112",
+  "n_rows": 192,
+  "n_sdrf_files": 192,
+  "n_pride_files": 194,
+  "categories": {
+   "RAW": 192,
+   "SEARCH": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 1,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": true,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=ltq orbitrap velos;AC=MS:1001742"
+  ],
+  "pride_instruments": [
+   "LTQ Orbitrap Velos"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": [
+   "Label free"
+  ]
+ },
+ {
+  "acc": "PXD059969",
+  "n_rows": 1,
+  "n_sdrf_files": 1,
+  "n_pride_files": 4,
+  "categories": {
+   "RAW": 1,
+   "OTHER": 1,
+   "SEARCH": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Orbitrap Exploris 480;AC=MS:1003028"
+  ],
+  "pride_instruments": [
+   "Q Exactive Plus"
+  ],
+  "instrument_agree": false,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": [
+   "ultra-performance liquid chromatography-mass spectrometry"
+  ]
+ },
+ {
+  "acc": "PXD063448",
+  "n_rows": 95,
+  "n_sdrf_files": 95,
+  "n_pride_files": 192,
+  "categories": {
+   "OTHER": 95,
+   "RAW": 95,
+   "SEARCH": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=q exactive hf;AC=MS:1002523"
+  ],
+  "pride_instruments": [
+   "Q Exactive HF"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": [
+   "Spectrum counting"
+  ]
+ },
+ {
+  "acc": "PXD069096",
+  "n_rows": 37,
+  "n_sdrf_files": 37,
+  "n_pride_files": 39,
+  "categories": {
+   "RAW": 37,
+   "SEARCH": 1,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Orbitrap Fusion Lumos;AC=MS:1002732"
+  ],
+  "pride_instruments": [
+   "Orbitrap Fusion Lumos"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "label free sample"
+  ],
+  "pride_quant": [
+   "Label free"
+  ]
+ },
+ {
+  "acc": "PXD048644",
+  "n_rows": 1123,
+  "n_sdrf_files": 1123,
+  "n_pride_files": 1141,
+  "categories": {
+   "RAW": 1123,
+   "SEARCH": 17,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=orbitrap elite;AC=MS:1001910",
+   "NT=orbitrap exploris 480;AC=MS:1003028",
+   "NT=orbitrap fusion;AC=MS:1002416",
+   "NT=q exactive hf-x;AC=MS:1002877"
+  ],
+  "pride_instruments": [
+   "Q Exactive HF-X",
+   "LTQ Orbitrap Elite",
+   "Orbitrap Fusion",
+   "Orbitrap Exploris 480"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=isotope labeling;AC=PRIDE:0000310"
+  ],
+  "pride_quant": [
+   "Label free",
+   "Dimethyl Labeling",
+   "Parallel Reaction Monitoring (PRM)"
+  ]
+ },
+ {
+  "acc": "PXD010751",
+  "n_rows": 18,
+  "n_sdrf_files": 18,
+  "n_pride_files": 22,
+  "categories": {
+   "RAW": 18,
+   "FASTA": 1,
+   "SEARCH": 2,
+   "EXPERIMENTAL DESIGN": 1
+  },
+  "found": {
+   "mzid": 0,
+   "mztab": 0,
+   "maxquant": 0,
+   "diann": 0,
+   "fragpipe": 0,
+   "pepxml": 0,
+   "spectronaut": 0,
+   "pd": 0,
+   "mzml": 0,
+   "mgf": 0,
+   "mzxml": 0
+  },
+  "has_peaklist": false,
+  "has_results": false,
+  "missing_exact": 0,
+  "missing_after_ext_norm": [],
+  "n_missing_after_ext_norm": 0,
+  "sdrf_instruments": [
+   "NT=Q Exactive Plus;AC=MS:1002634"
+  ],
+  "pride_instruments": [
+   "Q Exactive Plus"
+  ],
+  "instrument_agree": true,
+  "labels": [
+   "NT=label free sample;AC=MS:1002038"
+  ],
+  "pride_quant": []
+ }
+]
