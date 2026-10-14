@@ -54,8 +54,10 @@ def cmd_labels(args: argparse.Namespace) -> int:
     from dataclasses import asdict
 
     from .labels import check_labels, read_sdrf
+    from .rawheader import RawHeaderCache, evidence_from_header
 
     client = PrideClient(args.cache)
+    raw_cache = RawHeaderCache(args.raw_cache) if args.raw_cache else None
     corpus = Path(args.corpus)
     accs = args.accessions or corpus_accessions(corpus)
     out = Path(args.out)
@@ -78,9 +80,13 @@ def cmd_labels(args: argparse.Namespace) -> int:
                 claims.append(read_sdrf(path))
             except Exception as e:  # malformed file: report, don't crash the run
                 skipped[f"{acc}:{path.name}"] = f"unreadable: {e}"
+        extra = []
+        header = raw_cache.get(acc) if raw_cache else None
+        if header and header.get("status") == "ok":
+            extra = evidence_from_header(header, header["file"])
         for claim in claims:
             siblings = {c.kind for c in claims if c is not claim}
-            found = check_labels(acc, claim, project, names, siblings)
+            found = check_labels(acc, claim, project, names, siblings, extra)
             findings.extend(found)
             audited.append({"accession": acc, "sdrf": Path(claim.path).name, "claimed": claim.kind,
                             "n_rows": claim.n_rows, "n_findings": len(found)})
@@ -106,6 +112,38 @@ def cmd_labels(args: argparse.Namespace) -> int:
     return 0
 
 
+def cmd_rawheaders(args: argparse.Namespace) -> int:
+    import json
+
+    from .labels import read_sdrf
+    from .rawheader import RawHeaderCache
+
+    client = PrideClient(args.cache)
+    raw_cache = RawHeaderCache(args.raw_cache)
+    corpus = Path(args.corpus)
+    accs = list(args.accessions)
+    if args.from_findings:
+        flagged = json.loads(Path(args.from_findings).read_text())
+        accs += sorted({f["accession"] for f in flagged if f["rule"] in args.rules})
+    accs = list(dict.fromkeys(accs))
+
+    def fetch(acc: str) -> str:
+        try:
+            files = client.files(acc)
+        except NotFound:
+            return "not_in_pride"
+        prefer = [f for p in (corpus / "datasets" / acc).glob("*.sdrf*") for f in read_sdrf(p).data_files]
+        return raw_cache.fetch(acc, files, prefer)["status"]
+
+    counts: dict[str, int] = {}
+    with ThreadPoolExecutor(max_workers=args.workers) as pool:
+        for i, status in enumerate(pool.map(fetch, accs), 1):
+            counts[status] = counts.get(status, 0) + 1
+            if i % 200 == 0 or i == len(accs):
+                print(f"{i}/{len(accs)} {counts}", flush=True)
+    return 0
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(prog="sdrf-audit")
     sub = parser.add_subparsers(dest="command", required=True)
@@ -124,7 +162,18 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--cache", default="cache/pride")
     p.add_argument("--out", default="results/labels")
     p.add_argument("--offline", action="store_true", help="only audit accessions already cached")
+    p.add_argument("--raw-cache", help="directory of cached raw-file headers to use as extra evidence")
     p.set_defaults(func=cmd_labels)
+
+    p = sub.add_parser("rawheaders", help="read and cache Thermo .raw headers over HTTP range requests")
+    p.add_argument("corpus", help="path to a sdrf-annotated-datasets checkout")
+    p.add_argument("accessions", nargs="*")
+    p.add_argument("--cache", default="cache/pride")
+    p.add_argument("--raw-cache", default="cache/rawheaders")
+    p.add_argument("--from-findings", help="also fetch every accession flagged in this findings.json")
+    p.add_argument("--rules", nargs="+", default=["labelled-annotated-as-label-free"])
+    p.add_argument("--workers", type=int, default=3)
+    p.set_defaults(func=cmd_rawheaders)
 
     args = parser.parse_args(argv)
     return args.func(args)

@@ -111,3 +111,37 @@ def test_correct_tmt_sdrf_is_clean(tmp_path):
     claim = read_sdrf(write_sdrf(tmp_path, rows))
     project = {"quantificationMethods": [{"name": "TMT"}]}
     assert check_labels("PXD1", claim, project, []) == []
+
+
+def utf16(*strings: str) -> bytes:
+    return b"\x00\x00".join(s.encode("utf-16-le") for s in strings)
+
+
+def test_parse_header_finds_model_method_and_label():
+    from sdrf_audit.rawheader import parse_header
+    data = utf16("Finnigan", "Orbitrap Fusion Lumos",
+                 "C:\\Xcalibur\\methods\\TMTpro_2e5MS1_MS3_120min.meth", "D:\\Data\\run01.raw")
+    parsed = parse_header(data)
+    assert parsed["models"] == ["Orbitrap Fusion Lumos"]
+    assert parsed["methods"] == ["C:\\Xcalibur\\methods\\TMTpro_2e5MS1_MS3_120min.meth"]
+    assert list(parsed["labels"]) == [TMT]
+
+
+def test_parse_header_ignores_words_containing_tmt():
+    from sdrf_audit.rawheader import parse_header
+    assert parse_header(utf16("D:\\methods\\HTMT_treatment_global.meth"))["labels"] == {}
+
+
+def test_raw_header_evidence_alone_is_probable(tmp_path):
+    from sdrf_audit.labels import Evidence
+    extra = [Evidence("raw_header", TMT, "run01.raw: TMTpro_MS3.meth")]
+    (f,) = check_labels("PXD1", lf_sdrf(tmp_path), {}, [], extra_evidence=extra)
+    assert f.confidence == "probable"
+
+
+def test_raw_header_plus_protocol_is_strong(tmp_path):
+    from sdrf_audit.labels import Evidence
+    extra = [Evidence("raw_header", TMT, "run01.raw: TMTpro_MS3.meth")]
+    project = {"sampleProcessingProtocol": "Peptides were labelled with TMTpro reagents."}
+    (f,) = check_labels("PXD1", lf_sdrf(tmp_path), project, [], extra_evidence=extra)
+    assert f.confidence == "strong"

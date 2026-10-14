@@ -156,7 +156,7 @@ _FILENAME_PATTERNS = [
 
 @dataclass
 class Evidence:
-    source: str  # quant_field | ptm | protocol | file_names | sdrf_mods
+    source: str  # quant_field | ptm | protocol | file_names | sdrf_mods | raw_header
     kind: str
     detail: str
 
@@ -231,12 +231,13 @@ def _sources(ev: list[Evidence]) -> set[str]:
 
 def _confidence(support: list[Evidence]) -> str:
     """strong: two independent sources, or the protocol states it in both protocol fields.
-    probable: an explicit protocol statement only. weak: a single non-protocol hint."""
+    probable: an explicit protocol statement or a label in the raw file's method or sample
+    name, alone. weak: a single indirect hint."""
     sources = _sources(support)
     protocol_fields = {e.detail.split(":", 1)[0] for e in support if e.source == "protocol"}
     if (len(sources) >= 2 and sources - {"sdrf_mods"}) or len(protocol_fields) >= 2:
         return "strong"
-    if "protocol" in sources:
+    if sources & {"protocol", "raw_header"}:
         return "probable"
     return "weak"
 
@@ -247,13 +248,15 @@ def check_labels(
     project: dict,
     file_names: list[str],
     sibling_kinds: set[str] | None = None,
+    extra_evidence: list[Evidence] | None = None,
 ) -> list[Finding]:
     """Compare one SDRF's label claim with the deposit's evidence.
 
     ``sibling_kinds`` are the label kinds claimed by other SDRFs of the same accession. A
     label-free SDRF in a project whose other SDRF covers the labelled part is not an error.
+    ``extra_evidence`` adds evidence gathered elsewhere, such as raw-file headers.
     """
-    ev = collect_evidence(project, file_names, claim)
+    ev = collect_evidence(project, file_names, claim) + list(extra_evidence or [])
     labelled_ev = [e for e in ev if e.kind in LABELLED]
     lf_ev = [e for e in ev if e.kind == LABEL_FREE]
     evidenced_kinds = sorted({e.kind for e in labelled_ev})
