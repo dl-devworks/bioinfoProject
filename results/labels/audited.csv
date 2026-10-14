@@ -1544,7 +1544,7 @@ PXD006914,PXD006914.sdrf.tsv,label-free,24,0
 PXD006915,PXD006915.sdrf.tsv,SILAC,54,0
 PXD006921,PXD006921.sdrf.tsv,label-free,180,0
 PXD006928,PXD006928.sdrf.tsv,label-free,1,0
-PXD006938,PXD006938.sdrf.tsv,label-free,1,0
+PXD006938,PXD006938.sdrf.tsv,label-free,1,1
 PXD006939,PXD006939-celllines.sdrf.tsv,label-free,71,0
 PXD006939,PXD006939-proteome.sdrf.tsv,label-free,24,0
 PXD006939,PXD006939-tissues.sdrf.tsv,label-free,26,0
@@ -2285,7 +2285,7 @@ PXD010820,PXD010820.sdrf.tsv,label-free,12,0
 PXD010827,PXD010827.sdrf.tsv,label-free,1,0
 PXD010828,PXD010828.sdrf.tsv,label-free,95,0
 PXD010837,PXD010837.sdrf.tsv,label-free,42,0
-PXD010845,PXD010845.sdrf.tsv,label-free,10,0
+PXD010845,PXD010845.sdrf.tsv,label-free,10,1
 PXD010847,PXD010847.sdrf.tsv,label-free,561,0
 PXD010849,PXD010849.sdrf.tsv,label-free,9,0
 PXD010858,PXD010858.sdrf.tsv,label-free,45,0

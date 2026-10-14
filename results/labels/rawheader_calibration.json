@@ -1,0 +1,4113 @@
+{
+"label_free_controls": {
+"PXD011981": {
+"status": "ok",
+"file": "160226_1126_KaLangenbeck_1_212min_01.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\Analysis_160226_50cm_212min_56ef2b78-51fd-49cc-bf8a-7b3c6f7e5c5d..meth",
+"C:\\Xcalibur\\methods\\Analysis_160226_50cm_212min.meth"
+],
+"labels": {}
+},
+"PXD043192": {
+"status": "ok",
+"file": "QEp17-2052_Takahashi_TMEM106B_KO.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\042817_Top20_140minNoEq_330nlm_FFM100.meth",
+"D:\\DATA\\042817_Top20_140minNoEq_330nlm_FFM100_ae4c424c-7b0d-4283-87b3-7bf1c8793769..meth"
+],
+"labels": {}
+},
+"PXD046730": {
+"status": "no_thermo_raw"
+},
+"PXD042821": {
+"status": "ok",
+"file": "2023LZ009_SBNA_001_01_10pto.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 30K"
+],
+"methods": [
+"D:\\Xcalibur\\Data\\EXP-L1-DDA-90min-TSP-HCD-OT_max2ul_1345c52b-0fe9-433d-9bd1-82899a64f819.meth",
+"D:\\Xcalibur\\methods\\EXP\\EXP-L1-DDA-90min-TSP-HCD-OT_max2ul.meth"
+],
+"labels": {}
+},
+"PXD010872": {
+"status": "ok",
+"file": "P01YellowINOstem.raw",
+"models": [
+"Orbitrap Elite",
+"Orbitrap Elite MS"
+],
+"methods": [
+"Lpickup.meth",
+"Lpickup_83cd356d-78d6-477d-8279-0a9420f6cb71..meth"
+],
+"labels": {}
+},
+"PXD030857": {
+"status": "ok",
+"file": "1_Unstable_plaque-Intraplaque_heamorrhage_20150402VS03_21.raw",
+"models": [
+"Orbitrap Velos Pro MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\March2015\\20150403_480mingradient_top10HCD_SteppedUp_30Kres_threshold10K_5aba8884-ec5a-4772-a978-d39017ffe097..meth",
+"C:\\Xcalibur\\methods\\Vikram\\20150403_480mingradient_top10HCD_SteppedUp_30Kres_threshold10K.meth"
+],
+"labels": {}
+},
+"PXD010480": {
+"status": "ok",
+"file": "012218-EV1-phospho.raw",
+"models": [
+"LTQ Orbitrap Velos",
+"Orbitrap Velos Pro MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\Anton\\60min-top15-650bar-040317-4ul_f7af640f-c6c0-4b9f-8a1e-4bd49a4f8e4f..meth",
+"C:\\Xcalibur\\methods\\Anton\\60min-top15-650bar-040317-4ul.meth"
+],
+"labels": {}
+},
+"PXD015371": {
+"status": "ok",
+"file": "jm_201501118_LinJin_IgG1.raw",
+"models": [
+"Orbitrap Velos Pro MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Mobley_nanopump\\mobley_agilent_90min_stdrd.meth",
+"F:\\Data\\Kyoko\\20151118 - LinJin\\mobley_agilent_90min_stdrd_e05de2e4-66da-401f-828a-42f6b24b186d..meth"
+],
+"labels": {}
+},
+"PXD046417": {
+"status": "ok",
+"file": "20230803_AST1_Neo1_UHG_7min_DIA_RR_1_4th_001.raw",
+"models": [
+"Orbitrap Astral"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\UHG\\4Th_2ms_HighThroughput_TnE_CycleTime06_8min_150u_v7_nce25.meth",
+"D:\\4Th_2ms_HighThroughput_TnE_CycleTime06_8min_150u_v7_nce25_6ad20e80-68c3-4ce7-ae1a-b08695eb4901.meth"
+],
+"labels": {}
+},
+"PXD031437": {
+"status": "no_thermo_raw"
+},
+"PXD018762": {
+"status": "ok",
+"file": "20181217_GrantC_KershawC_01.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\2018_Current_QE_methods_SW\\5 uL loop\\60min_1900V_LoopOut_5uL_loop_1uL_load_5min.meth",
+"D:\\DATA\\60min_1900V_LoopOut_5uL_loop_1uL_load_5min_88771a8d-1c7a-4431-bff1-601626dec837.meth"
+],
+"labels": {}
+},
+"PXD019121": {
+"status": "ok",
+"file": "MS-19-041-1.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\standard_top10_90min_LC2_mod_nanoViper_uppdated20180508.meth",
+"D:\\Alexander\\2019-10-04\\standard_top10_90min_LC2_mod_nanoViper_uppdated20180508_f95215d7-e353-498a-bf44-86b4b3288ca5..meth"
+],
+"labels": {}
+},
+"PXD000378": {
+"status": "ok",
+"file": "120608_o1_04_ph120606_ot_Tau_1.RAW",
+"models": [
+"LTQ Orbitrap XL",
+"LTQ Orbitrap XL MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\method_June2010\\140min_FT_5ITMSMS01_high_targ_val.meth"
+],
+"labels": {}
+},
+"PXD029727": {
+"status": "no_thermo_raw"
+},
+"PXD060410": {
+"status": "ok",
+"file": "180905_CAA4_P11_05_SCAA_11_08.raw",
+"models": [
+"Q Exactive - Orbitrap MS",
+"Q Exactive 1"
+],
+"methods": [
+"D:\\Data\\Eleni\\180905_Brain_Abeta_beasic_CAA3\\180905_abeta_basic_inclusion_NCE25_fbfaa51e-ff49-4d07-a16a-e5de7e41d36e.meth",
+"D:\\Methods\\Eleni\\180905_abeta_basic_inclusion_NCE25.meth"
+],
+"labels": {}
+},
+"PXD010154": {
+"status": "ok",
+"file": "01075_A01_P010693_S00_N01_R1.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\140718_110min_nanoLC415_top20_2hgradient_optim_f0ec6df2-246b-4290-a5f2-4229a8033cc2..meth",
+"C:\\Xcalibur\\methods\\current\\140718_110min_nanoLC415_top20_2hgradient_optim.meth"
+],
+"labels": {}
+},
+"PXD043768": {
+"status": "ok",
+"file": "1.raw",
+"models": [
+"Orbitrap Fusion"
+],
+"methods": [
+"C:\\Fusion_methods\\120min\\120min_2000V_OT-120K_HCD_IT_Petrak.meth",
+"D:\\Data_2021\\20210716_Petrak\\120min_2000V_OT-120K_HCD_IT_Petrak_32f2d005-32cf-4816-b9b9-56615cd6f628.meth"
+],
+"labels": {}
+},
+"PXD026838": {
+"status": "ok",
+"file": "P1800820003_F10_1.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"D:\\MSDATA\\2018\\SEASON2\\20180411_F17HTSECKF3563_006_ID\\Sample_60min_ID_d9cdd38c-3519-4f5f-962f-de4fac27438b..meth",
+"D:\\Method\\production_methods\\Sample_60min_ID.meth"
+],
+"labels": {}
+},
+"PXD022244": {
+"status": "ok",
+"file": "17-2208_Gallardo_MT_1_ORBI4172.raw",
+"models": [
+"LTQ Orbitrap Velos MS",
+"LTQ VELOS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\Collaboration_2017\\Aout_2017\\Gallardo_17-2208\\Top20CID_60000_30min_PD_LM_bis_e6b2c952-59ea-4a03-925d-ebf7fcf8bd87..meth",
+"C:\\Xcalibur\\methods\\training_methods\\Top20CID_60000_30min_PD_LM_bis.meth"
+],
+"labels": {}
+},
+"PXD025111": {
+"status": "ok",
+"file": "190821_1C5_F1.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Fusion Lumos Method Summary",
+"Orbitrap Lumos",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 15K"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Facility\\Tot_30min_HCDOT.meth",
+"D:\\Data\\Facility\\190809_Mattila\\Tot_30min_HCDOT_688652d3-2a9a-4cf0-b3b0-975ff37f503f.meth"
+],
+"labels": {}
+},
+"PXD016619": {
+"status": "ok",
+"file": "Fam20Cinteractomereplicate1DMSOlower.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"D:\\Data\\QE-SERVICE\\2019-07-01-YY0128\\DDA_78min_top20_50s_140109_9ul_c4f280a1-528c-497d-828f-0e3307ae65d5..meth",
+"D:\\Methods\\DDA_78min_top20_50s_140109_9ul.meth"
+],
+"labels": {}
+},
+"PXD021713": {
+"status": "no_thermo_raw"
+},
+"PXD019451": {
+"status": "ok",
+"file": "16052020_FaSe_FAIMS_120_5070_collab_Dusp8KO_Easyphos01.raw",
+"models": [
+"Orbitrap Exploris 480",
+"Orbitrap Exploris 480 Method Summary",
+"Orbitrap Resolution = 15000",
+"Orbitrap Resolution = 60000"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\natalie\\Hela120minphos_load5ul_FAIMS_cv50_cv70_2650V_ce30_1e5_ct1s_120.meth",
+"D:\\2020_04_April\\Hela120minphos_load5ul_FAIMS_cv50_cv70_2650V_ce30_1e5_ct1s_120_3691ebf3-4b4d-4b29-a142-1abff900acdd.meth"
+],
+"labels": {}
+},
+"PXD069262": {
+"status": "ok",
+"file": "4T1.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\feburary_2018\\PRC_175min_66fcd5bf-7a26-4674-95ea-ea12366c2992..meth",
+"C:\\Xcalibur\\methods\\without-pump2\\PRC_175min.meth"
+],
+"labels": {}
+},
+"PXD045161": {
+"status": "ok",
+"file": "ET10A.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\Fev_2022\\Top10_90min_low_3_8aa8e116-b51d-4c7b-ae0f-e1b3909c448d.meth",
+"C:\\Xcalibur\\methods\\Top10_90min_low_3.meth"
+],
+"labels": {}
+},
+"PXD060600": {
+"status": "ok",
+"file": "20250113_NS-10098_CMH_sample62.raw",
+"models": [
+"Orbitrap Fusion Lumos"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\methods\\Others\\Nsco_HCD_Etdhcd_CID_30k_90min.meth",
+"D:\\Data\\Nsco_HCD_Etdhcd_CID_30k_90min_dde47238-9913-49dc-b01f-c38f2b926266.meth"
+],
+"labels": {}
+},
+"PXD001239": {
+"status": "ok",
+"file": "log_IP.raw",
+"models": [
+"LTQ VeloAuditData",
+"LTQ Velos",
+"Orbitrap Velos Pro MS"
+],
+"methods": [
+"C:\\XCALIBUR\\DATA\\60_min_dynamic_exclusion_top_20_CID_75um_column_53d63a93-120e-4809-9346-f75297997962..meth",
+"C:\\Xcalibur\\methods\\60_min_dynamic_exclusion_top_20_CID_75um_column.meth"
+],
+"labels": {}
+},
+"PXD041631": {
+"status": "ok",
+"file": "SS_MN_PNA_10282022_F1.raw",
+"models": [
+"Orbitrap Fusion Lumos"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\Jay\\Methods\\Exoo\\KS_mod_HCD_OT_203040CE_400UL_114_103MIN_2100V_28SII_AD_hilicElu_start100_ethcd_mHextriggered_mod04252022_2.meth",
+"C:\\Xcalibur\\Data\\Jay\\STD\\KS_mod_HCD_OT_203040CE_400UL_114_103MIN_2100V_28SII_AD_hilicElu_start100_ethcd_mHextriggered_mod04252022_2_e62be291-98c0-4d1e-823d-18ab1372f016.meth"
+],
+"labels": {}
+},
+"PXD065511": {
+"status": "ok",
+"file": "180828_Pekka_CS_4_nr1.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\PekkaR\\180814_PekkaR_60_min_Bert_80609511-5856-425c-b511-65bbdd7a026e..meth",
+"C:\\Xcalibur\\methods\\PekkaR\\180814_PekkaR_60_min_Bert.meth"
+],
+"labels": {}
+},
+"PXD056381": {
+"status": "ok",
+"file": "GST-TbCSB.raw",
+"models": [
+"Orbitrap Eclipse"
+],
+"methods": [
+"D:\\DATA\\202409\\20240927\\OTOT-NO FAIMS-75min-20240314_1456d4b3-0372-43d5-a86d-22efec14f928.meth",
+"D:\\Methods-HEATED\\protein ID\\OTOT-NO FAIMS-75min-20240314.meth"
+],
+"labels": {}
+},
+"PXD011050": {
+"status": "ok",
+"file": "StS_FASP-RR01_05052017.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Reference_Files\\50cm\\Top12-50msMS1-50msMS2-AGC5e4_2h.meth",
+"D:\\Data\\Top12-50msMS1-50msMS2-AGC5e4_2h_b3ae1c91-56a3-469b-b2ca-db53fbb1f4ef..meth"
+],
+"labels": {}
+},
+"PXD071825": {
+"status": "ok",
+"file": "HF_20240612_DIA_350to1200mz_40min_1to32_10mz_4uL_A1.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\cyano\\DIA\\DIA_350to1000_10mz_40min_1to32_700nLmin_60C_2kV_4uL.meth",
+"D:\\data\\cyano\\emil\\wash\\DIA_350to1000_10mz_40min_1to32_700nLmin_60C_2kV_4uL_8358f073-6ead-49e3-aa16-b750e93f2913.meth"
+],
+"labels": {}
+},
+"PXD063126": {
+"status": "ok",
+"file": "WT_0h_1.raw",
+"models": [
+"Orbitrap Exploris 480"
+],
+"methods": [
+"D:\\Method_480-8_2023_Trap\\DIA\\smart_DPST_30min_4ul_trap.meth",
+"D:\\data\\wash\\smart_DPST_30min_4ul_trap_4cc5e01e-3a1c-4401-91e0-6bf4a0751e5e.meth"
+],
+"labels": {}
+},
+"PXD010312": {
+"status": "ok",
+"file": "PR189_AUS_120412_JP289.raw",
+"models": [
+"LTQ OT Velos",
+"LTQ Orbitrap Velos MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\LCMS methods\\SOP_Orbitrap_Standard _120 min grad.meth",
+"D:\\2012\\04 Apr\\PR189_AUS_120412\\SOP_Orbitrap_Standard _120 min grad_a1da532e-5dc9-4fa6-9bd2-97e3bca96254..meth"
+],
+"labels": {}
+},
+"PXD054534": {
+"status": "ok",
+"file": "202400528_MSRI054_11.raw",
+"models": [
+"Orbitrap Eclipse",
+"Orbitrap Eclipse Method Summary",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 30K"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\ID TopSpeed1sec 30 min.meth",
+"D:\\CSSS\\MSRI\\054\\ID TopSpeed1sec 30 min_815ab7d4-0cf5-4e01-b608-4dca37523745.meth"
+],
+"labels": {}
+},
+"PXD025363": {
+"status": "ok",
+"file": "200710HFev_DF-2017-B2582-M4-0--PRM_052.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Tasks\\2017\\2017-evosep_ampc_por_scheduled_PRM-30k.meth",
+"D:\\DATA\\2020-07-10\\2017-evosep_ampc_por_scheduled_PRM-30k_5ce0861a-548c-4840-b312-0d1ca3999d7d.meth"
+],
+"labels": {}
+},
+"PXD034086": {
+"status": "ok",
+"file": "Zhu_S_protomer_GluC_50cm_4h_1.raw",
+"models": [
+"Orbitrap Fusion",
+"Orbitrap Fusion Lumos",
+"Orbitrap Lumos",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 30K"
+],
+"methods": [
+"D:\\202007\\zhu\\20200604_33trigger20_4h_singleProtein_gradient.meth",
+"D:\\202008\\20200604_33trigger20_4h_singleProtein_gradient_71e51574-34e4-4624-9249-bf0044701bbe.meth"
+],
+"labels": {}
+},
+"PXD002838": {
+"status": "ok",
+"file": "ath017840.raw",
+"models": [
+"LTQ Orbitrap Velos MS",
+"LTQ Orbitrap XL",
+"LTQ VELOS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Fiona\\September_2013\\agilent.famos.2h_3um_ppm_opti.meth",
+"C:\\data\\Athena\\Nov13\\Washes\\agilent.famos.2h_3um_ppm_opti_ad33da0b-eb32-4590-8792-cad8f26346fd..meth"
+],
+"labels": {}
+},
+"PXD080458": {
+"status": "ok",
+"file": "Bead_1-1.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"D:\\DATA\\SDG\\Method\\Vanquish Neo\\Top10_90min3_20251021-No backflush_250nl_800bar.meth",
+"D:\\DATA\\SDG\\Results\\20260127-JHS-SG\\Top10_90min3_20251021-No backflush_250nl_800bar_4da55606-31cb-4fc7-b49f-b6d16f1c15f4.meth"
+],
+"labels": {}
+},
+"PXD023967": {
+"status": "ok",
+"file": "191216_LFQ_n1-6_HoCA_C9-c-1.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\HoCA\\191216_LFQ_n1-6_HoCA\\147Emin_High_6Voies_354baacd-6dd6-42a2-8850-d32eb9c0026a..meth",
+"C:\\Xcalibur\\data\\_CurrentMethods\\6_Voies\\147Emin_High_6Voies.meth"
+],
+"labels": {}
+},
+"PXD005713": {
+"status": "ok",
+"file": "20150513_QEP2_FBU_AB_3D_set1_10h_01.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\NSI_TOP15_300min_max5ul_StandardMZ_UF1.meth",
+"D:\\NSI_TOP15_300min_max5ul_StandardMZ_UF1_6aa7c625-ef7a-4eb9-8686-da5b030fd8cf..meth"
+],
+"labels": {}
+},
+"PXD021770": {
+"status": "no_thermo_raw"
+},
+"PXD056077": {
+"status": "ok",
+"file": "YJC_20230621_CL68_FecH_re1_2_cH65.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Fusion Lumos Method Summary",
+"Orbitrap Resolution = 15K",
+"Orbitrap Resolution = 60K"
+],
+"methods": [
+"F:\\YiJu\\20230621_cH_PP_GP\\DDA_120min_Basic60k15kHCD30TopSp3APDon_4ul_20220122_64211599-54c4-4811-ab58-23c5ed6cc5fd.meth",
+"F:\\YiJu\\method3.5\\DDA_120min_Basic60k15kHCD30TopSp3APDon_4ul_20220122.meth"
+],
+"labels": {}
+},
+"PXD041990": {
+"status": "ok",
+"file": "R2322-MFF.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"D:\\Data1\\60min_12MS2_05_9ffb393a-fd23-43bd-9160-c1fa67485ec2..meth",
+"D:\\Methods\\new\\60min_12MS2_05.meth"
+],
+"labels": {}
+},
+"PXD074418": {
+"status": "ok",
+"file": "2hr_LPS_1.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Sensitive\\Sens_90min_55C_RL_2valve.meth",
+"D:\\2212\\ME383_Cassandra_Irving_THP1\\Sens_90min_55C_RL_2valve_84d973ad-ad3a-4fe8-a615-cf5c744fb8ab.meth"
+],
+"labels": {}
+},
+"PXD001842": {
+"status": "ok",
+"file": "H300D.raw",
+"models": [
+"Orbitrap Elite MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\Zongming\\MonkeyHeart\\RevisedEasyZF_top20_25_60_180MIN_a96f586b-0fd0-442d-b2a3-50a68a88afdf..meth",
+"C:\\Xcalibur\\methods\\Easy_spray\\RevisedEasyZF_top20_25_60_180MIN.meth"
+],
+"labels": {}
+},
+"PXD047871": {
+"status": "ok",
+"file": "E20201108-05.raw",
+"models": [
+"Orbitrap Exploris 480"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\20200908_120_gradient_150_total.meth",
+"D:\\raw\\2020\\11\\20200908_120_gradient_150_total_e9f0f868-e2fe-41cd-9e6c-a82b5e81e374.meth"
+],
+"labels": {}
+},
+"PXD079292": {
+"status": "ok",
+"file": "YAS202505070041-1-A-1.raw",
+"models": [
+"Orbitrap Astral"
+],
+"methods": [
+"C:\\ProgramData\\Thermo\\Xcalibur\\HyperBridge\\HBData\\0624_6262025_152728\\DIA_ES906_180SPD_8min_240K_2Th_3ms_hmin_c5bd971f-d394-4349-bc98-365588ddecd2.meth",
+"C:\\Users\\Thermo\\Desktop\\DIA_ES906\\DIA_ES906_180SPD_8min_240K_2Th_3ms_hmin.meth"
+],
+"labels": {}
+},
+"PXD005257": {
+"status": "ok",
+"file": "WT14N-Man1xXylT15N-5.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Martin\\50cm\\Targeted\\AO_GT_14N15N_3h.meth",
+"D:\\Data\\AO_GT_14N15N_3h_c2e37096-e9d9-4f1a-8744-fc3f46b1d3d0..meth"
+],
+"labels": {}
+},
+"PXD062650": {
+"status": "no_thermo_raw"
+},
+"PXD018079": {
+"status": "ok",
+"file": "20190723_KB_Conejo-Garcia_pIgR_PRM_A2.raw",
+"models": [
+"Q Exactive HF-X - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\data\\Samples_07_2019\\2Hr_pIgR_DDA-PRM_e18add28-a84c-4366-8923-b904ed5b6bc3.meth",
+"C:\\Xcalibur\\methods\\BinFang\\Conejo-Garcia\\2Hr_pIgR_DDA-PRM.meth"
+],
+"labels": {}
+},
+"PXD034984": {
+"status": "ok",
+"file": "Adi-R1.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\Top20_Full60k_excl30s_140min_LOCK5_27f2e83f-1cbf-419c-a49b-6f6781dd8b0f..meth",
+"C:\\Xcalibur\\methods\\PF_methods\\Top20_Full60k_excl30s_140min_LOCK5.meth"
+],
+"labels": {}
+},
+"PXD046818": {
+"status": "ok",
+"file": "P1_S13.raw",
+"models": [
+"LTQ Orbitrap Velos MS",
+"LTQ Velos"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\LTQ_Velos_2015\\Progetto_Umano\\FTIT_Top10HCD_180min_Lock_Marco_5c31b9cc-efcc-4c8a-94e7-3e39837a9819..meth",
+"C:\\Xcalibur\\methods\\FTIT_Top10HCD_180min_Lock_Marco.meth"
+],
+"labels": {}
+},
+"PXD005815": {
+"status": "no_thermo_raw"
+},
+"PXD027893": {
+"status": "ok",
+"file": "P15521.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"D:\\Data\\NEW-60min grad 2-30_700bar_seesaw_7251b921-faa6-4a3b-865d-20c187468b85..meth",
+"D:\\Methods\\50cm column\\NEW-60min grad 2-30_700bar_seesaw.meth"
+],
+"labels": {}
+},
+"PXD058279": {
+"status": "ok",
+"file": "FS1_EB_22325_431_06102024.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Fusion Lumos Method Summary",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 15K"
+],
+"methods": [
+"D:\\Inst_methods\\uPAC50\\FS1_HiHi_1hr_PRM 22325_HCD_uPAC50_dirInj.meth",
+"D:\\Xcalibur_Projects\\Oct24\\FS1_HiHi_1hr_PRM 22325_HCD_uPAC50_dirInj_553107a7-612c-46c2-946e-21cfe7e4be2c.meth"
+],
+"labels": {}
+},
+"PXD070615": {
+"status": "ok",
+"file": "250403_WZ_1_1.raw",
+"models": [
+"Orbitrap Exploris 480"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Thermo_Feb2025\\DDA_Profile_FAIMS.meth",
+"D:\\JP_250303_Wolodzin\\DDA_Profile_FAIMS_18df2ef6-a2c9-450e-8046-be9c1741fcbd.meth"
+],
+"labels": {}
+},
+"PXD000460": {
+"status": "ok",
+"file": "Pithovirus.raw",
+"models": [
+"LTQ Velos",
+"Orbitrap Velos Pro MS"
+],
+"methods": [
+"C:\\Xcalibur\\data\\Top20_CID_60k_120min_rapidscan_LOCK_ab846c73-d660-4374-a9c5-8ef76b73c84b..meth",
+"C:\\Xcalibur\\methods\\Pro\\tune1_500SL50\\Top20_CID_60k_120min_rapidscan_LOCK.meth"
+],
+"labels": {}
+},
+"PXD036456": {
+"status": "ok",
+"file": "Control_C1.raw",
+"models": [
+"LTQ Velos",
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Shotgun_Col50cm_030619\\Top12HCD_310min_Lock_SME_NCE27_50cm_4uL_NBuffer_B2_180517.meth",
+"D:\\QExactive\\2021\\ProgettoManna_Tamil_2021\\Top12HCD_310min_Lock_SME_NCE27_50cm_4uL_NBuffer_B2_180517_a199f504-d0a4-4cb0-a6b9-000209c9db00..meth"
+],
+"labels": {}
+},
+"PXD063058": {
+"status": "ok",
+"file": "100_A35.raw",
+"models": [
+"Orbitrap Astral"
+],
+"methods": [
+"C:\\Users\\Thermo\\Desktop\\meth_mag\\CSF_Alzheimer\\DIA 15cm_19min_3th_5ms_CSF.meth",
+"D:\\Xcalibur\\Data\\mag\\Alzheimer\\DIA 15cm_19min_3th_5ms_CSF_1e89275e-3756-45ed-b648-73deb41bd2c0.meth"
+],
+"labels": {}
+},
+"PXD015974": {
+"status": "ok",
+"file": "A01.RAW",
+"models": [
+"LTQ-FT MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\bk\\X249_SDS20100615\\DD_FT_nV_LC90min_100_0dMSnanotuning_2_0V_MS2_SIM_NL_Famosb1u3_hp_trap20min_2x20ul_KerAL_+0_+5.meth"
+],
+"labels": {}
+},
+"PXD015273": {
+"status": "ok",
+"file": "MPyeast_P01_1b_11082018.raw",
+"models": [
+"Orbitrap Fusion",
+"Orbitrap Fusion Method Summary",
+"Orbitrap Resolution = 120K"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Marcotte\\Topspeed_HCD_90min_96wellBLUE_RE1_20181108.meth",
+"D:\\2018\\November\\Marcotte\\Ophelia\\Topspeed_HCD_90min_96wellBLUE_RE1_20181108_72c23365-d5b6-4bd3-93cd-eca0d94fc4c2..meth"
+],
+"labels": {}
+},
+"PXD005077": {
+"status": "no_thermo_raw"
+},
+"PXD001325": {
+"status": "ok",
+"file": "P1_Cyt_Far_1.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\MIGR\\migr_60min_top6_apex_MS_1E6_120ms_MS2_5E4_250ms.meth",
+"D:\\Data\\120911\\migr_60min_top6_apex_MS_1E6_120ms_MS2_5E4_250ms_021ba4b3-efcd-4f1c-a1d3-948e60480d88..meth"
+],
+"labels": {}
+},
+"PXD014738": {
+"status": "ok",
+"file": "QE02071802.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Proteomics_Complex_100min_ecoli_092617.meth",
+"D:\\Data\\Proteomics_Complex_100min_ecoli_092617_39203a4b-d052-4764-9cac-8288763abe3a..meth"
+],
+"labels": {}
+},
+"PXD040190": {
+"status": "ok",
+"file": "220624_band1a.raw",
+"models": [
+"Orbitrap Elite MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Nano LC Methods\\EASY_nanoLC_3_43%B_curve7_60min_Top15_HCD25_65.meth",
+"F:\\Peter Barath\\Honey\\EASY_nanoLC_3_43%B_curve7_60min_Top15_HCD25_65_34b78a56-416c-4b55-bf2c-0b376e94759d..meth"
+],
+"labels": {}
+},
+"PXD030591": {
+"status": "ok",
+"file": "E20202000013a.raw",
+"models": [
+"Orbitrap Exploris 480"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\P1299 1ul 2-36%B 120 min HLA Class II.meth",
+"D:\\Data\\2020-01-13\\P1299 1ul 2-36%B 120 min HLA Class II_67857124-65c1-442f-8441-bf1d35ec9a86.meth"
+],
+"labels": {}
+},
+"PXD016026": {
+"status": "ok",
+"file": "70426688tar_WT4-S1K_1.raw",
+"models": [
+"LTQ Orbitrap Velos MS",
+"LTQ Velo",
+"LTQ Velos"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\91203msms15k_182min_HCD10_e748e2ed-5635-4d21-af27-686b94e7304c..meth",
+"C:\\Xcalibur\\methods\\91203msms15k_182min_HCD10.meth"
+],
+"labels": {}
+},
+"PXD030900": {
+"status": "ok",
+"file": "Q26298_MS20-007_POPEST_1-a.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\nHPLC4_NCS\\ENTPE\\Top20_col50_200nl_gr120(4-25-40)_LavPreCol_nHPC4_NCS.meth",
+"D:\\Data\\ENTPE\\MS20-007\\2020-04-20_Popest\\Top20_col50_200nl_gr120(4-25-40)_LavPreCol_nHPC4_NCS_5c63f73d-038c-4d41-9888-8b815844b348.meth"
+],
+"labels": {}
+},
+"PXD066624": {
+"status": "ok",
+"file": "1_1.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Resolution = 120K"
+],
+"methods": [
+"D:\\Data\\202407011_KHT_ZNF_IP\\20220329_CID_Profile_90min_3e86b680-6850-4651-a9fd-73183a3fa271.meth",
+"D:\\Method\\20220329_CID_Profile_90min.meth"
+],
+"labels": {}
+},
+"PXD035303": {
+"status": "no_thermo_raw"
+},
+"PXD074092": {
+"status": "ok",
+"file": "original_raw_data.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Lumos",
+"Orbitrap Resolution = 15K",
+"Orbitrap Resolution = 60K"
+],
+"methods": [
+"D:\\IBMS_MS_DATA\\CUSTOM\\DDA_OT_60K_OT_ZJU_60minHELA_2ul_450nl_e5873ca4-7bb4-489e-b5f8-648b91feaef0.meth",
+"D:\\ZJU_METHOD\\DDA_OT_60K_OT_ZJU_60minHELA_2ul_450nl.meth"
+],
+"labels": {}
+},
+"PXD003469": {
+"status": "no_thermo_raw"
+},
+"PXD051771": {
+"status": "ok",
+"file": "20230309-GluC.raw",
+"models": [
+"Orbitrap Fusion",
+"Orbitrap Resolution = 60K"
+],
+"methods": [
+"H:\\Data\\20230110-IL6\\Uni-easy60min(repeat1)_v2_9e38d1f7-3228-4ecd-9c7d-99aad94eb676.meth",
+"H:\\Method\\Ez1200\\Uni-easy60min(repeat1)_v2.meth"
+],
+"labels": {}
+},
+"PXD021197": {
+"status": "ok",
+"file": "CK_P2003_182.raw",
+"models": [
+"Q Exactive HF-X - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\CK\\DDA_standard\\DDA_STD_120min_Top20.meth",
+"D:\\QC\\Wash\\DDA_STD_120min_Top20_c62ab53f-f507-4fbe-8fd4-6e8c59242468.meth"
+],
+"labels": {}
+},
+"PXD034115": {
+"status": "ok",
+"file": "Q25D105-20-30-01.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Thermo\\Instruments\\LTQ\\Methods\\330nl-550load_Di\\105min\\60-105min.meth",
+"D:\\QE-Data-1\\20-30_Meder\\60-105min_4560f9e4-1daa-48e3-9ebe-8f7c6ea9151c.meth"
+],
+"labels": {}
+},
+"PXD030607": {
+"status": "ok",
+"file": "2016-04-01_SC03_hip_cultured_neu_0.5_ugul.RAW",
+"models": [
+"ExactiveUser",
+"Q Exactive Plus"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\SC\\2016-03-15_SC01_CE-meth_DDA_ChromW13S_350-1800mz Scan_0.8IW_topn15_no apex_5s DE with mass excl 4-1-series2.meth",
+"C:\\Xcalibur\\system\\Exactive\\instrument\\temp_007ff1e5-322f-4b1b-b764-5b359ce67cd4.meth"
+],
+"labels": {}
+},
+"PXD014584": {
+"status": "ok",
+"file": "23102018_Nuc_F33.raw",
+"models": [
+"Orbitrap Fusion Lumos"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Daniela\\XLMS3_CIDETD_L120minX4-newoldAS.meth",
+"D:\\Data\\2018\\DanielaMW\\180911\\XLMS3_CIDETD_L120minX4-newoldAS_f3a18438-875f-42a9-9821-bfd6a05fdfda.meth"
+],
+"labels": {}
+},
+"PXD035578": {
+"status": "ok",
+"file": "2017-10-10-140min-wb-Israel-Ausin-ASF1a-1-B.raw",
+"models": [
+"Orbitrap Fusion Lumos"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\SII\\75uMx25cm\\140min\\OTOT-GOAT_1_2.meth",
+"D:\\Data\\2017\\10\\10\\OTOT-GOAT_1_2_0a5fb515-ee33-40d1-8c77-e890d5b12d27..meth"
+],
+"labels": {}
+},
+"PXD024767": {
+"status": "ok",
+"file": "200428_Lumos__LC1200__nanoFlex_Ieva_SARS_CoV2_h3_Chy_Chymo_90min_ETD_HCD_2ul.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 30K",
+"Orbitrap Resolution = 50K"
+],
+"methods": [
+"C:\\Thermo\\nLC1200 Methods(new)\\C18\\120min\\top5HCD(37%)_5ETD_2h_(3to25)_Lsv(1).meth",
+"D:\\MS_DATA\\top5HCD(37%)_5ETD_2h_(3to25)_Lsv(1)_c18c8d63-1f78-4906-9874-108999c9feac.meth"
+],
+"labels": {}
+},
+"PXD035451": {
+"status": "ok",
+"file": "EC20201016-25.raw",
+"models": [
+"Orbitrap Eclipse",
+"Orbitrap Eclipse Method Summary",
+"Orbitrap Resolution = 15K",
+"Orbitrap Resolution = 60K"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\DIA-8mz-windows-130min-l1.75_c4985f61-ee7d-4ebb-91d5-38da31ab35d3.meth",
+"C:\\Xcalibur\\methods\\Current\\New DIA\\DIA-8mz-windows-130min-l1.75.meth"
+],
+"labels": {}
+},
+"PXD038117": {
+"status": "ok",
+"file": "12_DBG_AoV494_CM_D07_TopS_CID-IT_90min.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Fusion Lumos Method Summary",
+"Orbitrap Lumos",
+"Orbitrap Resolution = 120K"
+],
+"methods": [
+"C:\\Xcalibur\\BSA_Lumos\\06-2021\\06-14-2021\\TopS_OT120k-IT-CID_90min_5to21%_f3d9eac6-1287-41cb-8c38-bc9991364013.meth",
+"C:\\Xcalibur\\METHOD_Lumos\\Projects\\12_NRB\\D.Becker\\TopS_OT120k-IT-CID_90min_5to21%.meth"
+],
+"labels": {}
+},
+"PXD003816": {
+"status": "ok",
+"file": "L75_1.raw",
+"models": [
+"LTQ Orbitrap Velos MS",
+"LTQ VELOS",
+"LTQ Velos"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\Top_10_HCD_90min_e19a8351-337e-4234-928d-e0ad61db2e12..meth",
+"C:\\Xcalibur\\methods\\Top_10_HCD_90min.meth"
+],
+"labels": {}
+},
+"PXD080115": {
+"status": "no_thermo_raw"
+},
+"PXD045527": {
+"status": "ok",
+"file": "2021-0406-hemol-zymogelacas-C1.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\data\\2021-jlg-zymo\\TOP10_140min_col25_1e83cd71-817d-4d5c-9bf0-8e9e497fe693.meth",
+"C:\\Xcalibur\\methods\\TOP10_140min_col25.meth"
+],
+"labels": {}
+},
+"PXD076035": {
+"status": "ok",
+"file": "011425_71440_OSU642_1_4uL.raw",
+"models": [
+"Orbitrap Eclipse"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\DDA\\FAIMS\\092524_DDA_120MIN_OTIT_FAIMS_RF70_DE20_CE30_406080.meth",
+"F:\\20250114\\092524_DDA_120MIN_OTIT_FAIMS_RF70_DE20_CE30_406080_140d9987-d9f4-4ff4-85c5-9ec033ee6e12.meth"
+],
+"labels": {}
+},
+"PXD056740": {
+"status": "ok",
+"file": "LUMOS_20230417_XZH_JSY_TIO2_WT_L1.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Lumos",
+"Orbitrap Resolution = 60K"
+],
+"methods": [
+"D:\\DATA\\PHOS_OTIT_HCD_110MIN_CE32_60k_IT_50ms_20210313_3S_NEWg_150UM_EY1000_3efe9651-1185-40d6-a488-0b355090ead9.meth",
+"D:\\method\\NANO1000\\PTM\\PHOS_OTIT_HCD_110MIN_CE32_60k_IT_50ms_20210313_3S_NEWg_150UM_EY1000.meth"
+],
+"labels": {}
+},
+"PXD005346": {
+"status": "ok",
+"file": "HeLa_pAA_Rep1.raw",
+"models": [
+"Orbitrap Fusion",
+"Orbitrap Fusion Method Summary",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 15K"
+],
+"methods": [
+"D:\\Data_Fusion\\Mai2016\\Blanks\\300minCurve6_OTHCD27_top5s_charge2-8_8504e210-313b-41bc-8f59-3171e87465ca..meth",
+"D:\\Methods\\Bjoern\\aktuell\\300minCurve6_OTHCD27_top5s_charge2-8.meth"
+],
+"labels": {}
+},
+"PXD003153": {
+"status": "ok",
+"file": "130306_PekkaR_EtOH1.raw",
+"models": [
+"LTQ Velos",
+"Orbitrap Velos Pro MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\PekkaR\\130306_Pekka_60min_gr_CID_IT_TOP15_4af6afa1-4240-4f91-911c-81104eade99d..meth",
+"C:\\Xcalibur\\methods\\PekkaR\\130306_Pekka_60min_gr_CID_IT_TOP15.meth"
+],
+"labels": {}
+},
+"PXD011038": {
+"status": "ok",
+"file": "180720_S_MLLS_01_01_45pto.raw",
+"models": [
+"Orbitrap Velos Pro MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\STD-VL-DDA-120min-T20-CID-IT_296e91d1-6153-4910-ae7b-a3deb8249cc6..meth",
+"C:\\Xcalibur\\methods\\current\\STD-VL-DDA-120min-T20-CID-IT.meth"
+],
+"labels": {}
+},
+"PXD023072": {
+"status": "ok",
+"file": "20190316_L1_Ag6_Klyko001_SA_NOTCH_PhoX_MT1.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Fusion Lumos Method Summary",
+"Orbitrap Resolution = 30K",
+"Orbitrap Resolution = 60K"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Users\\OK\\PhoX_NC_SteppedHCD\\L1_Ag1_OK_10to40_NCE35_noSID_SortCharge_IntMin2e4_90min.meth",
+"D:\\Xcalibur\\Data\\L1_Ag1_OK_10to40_NCE35_noSID_SortCharge_IntMin2e4_90min_f5588b6d-b25f-4eac-9fdb-b27dcc6d7f4d.meth"
+],
+"labels": {}
+},
+"PXD006095": {
+"status": "ok",
+"file": "093015_MM_ABPP_H1993_BEZ_DDA1.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\Samples09_2015\\2hr_30CE_2mz_2K_Top16_300nl_35B_51c13b35-5b3b-4745-8d46-a5305b9f2789..meth",
+"C:\\Xcalibur\\methods\\2hr_30CE_2mz_2K_Top16_300nl_35B.meth"
+],
+"labels": {}
+},
+"PXD045858": {
+"status": "ok",
+"file": "221207_LU02_aleitner_PDH_01.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 30K"
+],
+"methods": [
+"C:\\Lumos methods\\Tune v3 methods\\XLINK_800bar_60min_CID-OT_Tune3.meth",
+"F:\\Data\\XLINK_800bar_60min_CID-OT_Tune3_0b32dc35-34ba-4d63-b532-a848e1b87b0b.meth"
+],
+"labels": {}
+},
+"PXD019686": {
+"status": "ok",
+"file": "Q10750_MS20-019_N1_dil-7.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\_nHPLC3_NCS_v6Pos_passeurRS\\Top20_200nl_Analyse-pep SRAS CoV2_Matrices_Inclusion.meth",
+"D:\\Data\\_SRAS_CoV2\\MS20-019_CoV2_Matrices\\2020-05-15\\Top20_200nl_Analyse-pep SRAS CoV2_Matrices_Inclusion_e05e1d1c-33b1-41a5-aff8-852e10d89d6f.meth"
+],
+"labels": {}
+},
+"PXD005479": {
+"status": "ok",
+"file": "04202015_DM360_Run1.raw",
+"models": [
+"LTQ Orbitrap Velos MS",
+"LTQ VeloAuditData"
+],
+"methods": [
+"C:\\Thermo\\Instruments\\LTQ\\methods\\Nov_20_2014_5-35P_60minDDANewtune.meth",
+"C:\\Xcalibur\\Data\\Nov_20_2014_5-35P_60minDDANewtune_aaef8288-b978-4cc8-b8f7-500a6c092736..meth"
+],
+"labels": {}
+},
+"PXD053755": {
+"status": "ok",
+"file": "2022-46_EV1.raw",
+"models": [
+"Orbitrap Exploris 480",
+"Orbitrap Exploris 480 Method Summary",
+"Orbitrap Resolution = 120000",
+"Orbitrap Resolution = 15000"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\evosep-method\\DIA_FAIMS\\DIA_FAIMS_MS2_15K\\DIA_FAIMS_HRMS1_400-1000_IW16_44min.meth",
+"D:\\Data\\IMSC\\2022-09\\20220908_Karin_multipleprojects\\DIA_FAIMS_HRMS1_400-1000_IW16_44min_0182c8e5-8b6b-47f5-bdfd-f599d5d1d3d5.meth"
+],
+"labels": {}
+},
+"PXD036367": {
+"status": "ok",
+"file": "20190118_LH_KT_A1.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\2018_Current_QE_methods_SW\\5 uL loop\\90min_1900V_LoopOut_5uL_loop_1uL_load_5min_200fl.meth",
+"D:\\DATA\\90min_1900V_LoopOut_5uL_loop_1uL_load_5min_200fl_63edd2bb-3a18-47c6-bd69-76526a5f9fb2.meth"
+],
+"labels": {}
+},
+"PXD070601": {
+"status": "ok",
+"file": "A_d10_1.raw",
+"models": [
+"Orbitrap Exploris 480"
+],
+"methods": [
+"D:\\MS_Data\\20231118_VC_Azoxystrobin\\120min_DIA_Method6_d396b54c-2864-490a-a04c-fe1fce6e507c.meth",
+"D:\\Methods\\SIHUMIX\\120min_DIA_Method6.meth"
+],
+"labels": {}
+},
+"PXD003666": {
+"status": "ok",
+"file": "ELK2044-S02-A-1.raw",
+"models": [
+"Orbitrap Fusion",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 30K"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\120min_UM.meth",
+"D:\\Data\\120min_UM_0085ab9d-9911-4861-a99e-f2b224343e49..meth"
+],
+"labels": {}
+},
+"PXD003983": {
+"status": "ok",
+"file": "KU019_UHRF1_UN_Joe.raw",
+"models": [
+"LTQ Velo",
+"Orbitrap Elite MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\AN\\Elite_Acquity_Upto25%B_150min_250nlpermin_CID15_05072015_4acf13a5-142c-48b8-9b5b-fdcf27818a29..meth",
+"C:\\Xcalibur\\methods\\Elite_Acquity_Upto25%B_150min_250nlpermin_CID15_05072015.meth"
+],
+"labels": {}
+},
+"PXD065309": {
+"status": "ok",
+"file": "SD012LQ_C3.raw",
+"models": [
+"Orbitrap Exploris 480",
+"Orbitrap Resolution = 15000",
+"Orbitrap Resolution = 30000",
+"Orbitrap Resolution = 60000"
+],
+"methods": [
+"D:\\Data\\Wash\\Serum_90min_4ul_-45-70_8cfc61d1-a6ef-4263-94e2-7bde7371bcb7.meth",
+"D:\\Project method\\Blood\\Serum_90min_4ul_-45-70.meth"
+],
+"labels": {}
+},
+"PXD074354": {
+"status": "ok",
+"file": "FL180920_YHSun_90m_aHLV.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Lumos"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\gabri\\univID\\Ela_UnivPep_25cm90m.meth",
+"D:\\sep20\\Ela_UnivPep_25cm90m_555f3e4b-509b-481a-8cab-9e3fca19c808.meth"
+],
+"labels": {}
+},
+"PXD051288": {
+"status": "no_thermo_raw"
+},
+"PXD020151": {
+"status": "ok",
+"file": "C1.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"D:\\Data\\QE-SERVICE\\20171229_YC\\DDA_78min_top20_50s_140109_9ul_42993ce4-0ebb-49c9-920f-dd47ded693d1..meth",
+"D:\\Methods\\DDA_78min_top20_50s_140109_9ul.meth"
+],
+"labels": {}
+},
+"PXD009681": {
+"status": "ok",
+"file": "SSM_2_Ig1.raw",
+"models": [
+"LTQ Orbitrap XL MS"
+],
+"methods": [
+"D:\\DATA\\20160808\\FT100K_75_105_G60MIN_90min_4ul_c54bb526-9b29-4116-8e26-550bc8d63c83..meth",
+"D:\\METHODE\\NewObjective\\FT100K_75_105_G60MIN_90min_4ul.meth"
+],
+"labels": {}
+},
+"PXD029217": {
+"status": "ok",
+"file": "HF1_5556_GREC_ob-10_1_F1a_160817.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"D:\\HF_Methods\\Instrument_Methods\\WORKING\\HF_DDA_45deg_2hr_270617.meth",
+"D:\\XCalibur_projects\\Aug17\\HF_DDA_45deg_2hr_270617_e964ee60-abfa-4e74-a9da-6ce4d6913581..meth"
+],
+"labels": {}
+},
+"PXD050372": {
+"status": "ok",
+"file": "CMY5580A10LC3_B2.raw",
+"models": [
+"LTQ Orbitrap Velos MS",
+"LTQ Velos"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Orbitrap_10MSMS_SM_new.meth",
+"D:\\CCS5578\\Orbitrap_10MSMS_SM_new_1e3afe58-080e-40da-8a9b-394d3833a09e..meth"
+],
+"labels": {}
+},
+"PXD000357": {
+"status": "ok",
+"file": "rep1-erk.raw",
+"models": [
+"LTQ Orbitrap Velos",
+"LTQ Orbitrap Velos MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\Liang\\60min direct top20 CID Liang100311_b738f5c8-2b25-4fac-968b-9fd41e5720f4..meth",
+"C:\\Xcalibur\\data\\Liang\\method\\60min direct top20 CID Liang100311.meth"
+],
+"labels": {}
+},
+"PXD045734": {
+"status": "ok",
+"file": "ah_4030_ZW_021915_UIF_IC_56yo.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\020815_4030_lens_targets_aaddd458-2038-44fb-80cd-3da0e370fb1f..meth",
+"C:\\Xcalibur\\methods\\020815_4030_lens_targets.meth"
+],
+"labels": {}
+},
+"PXD006938": {
+"status": "ok",
+"file": "2_NFS1-Fxn-IscU_Markley.raw",
+"models": [
+"Orbitrap Elite",
+"Orbitrap Elite MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Nano_LC_easyspray_120min_1750kV_top20_lowtarget.meth",
+"D:\\Orbi_data\\GS\\2016_1122\\Nano_LC_easyspray_120min_1750kV_top20_lowtarget_33b0d12f-8477-4185-b741-b608459e964a..meth"
+],
+"labels": {
+"TMT": [
+"C:\\Thermo\\Instruments\\LTQ\\methods\\Nano_LC_Easyspray_1750V_051215_5k_IT_50k_FT_205_45Slens_TMT_200mi.LTQTune"
+]
+}
+},
+"PXD026369": {
+"status": "ok",
+"file": "1A_corn_1500ng.raw",
+"models": [
+"Q Exactive HF-X - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\KleinerLab\\1D-Trap_Elute\\75cm\\2019_02_15\\20181231_460min_150msIT_PartialLoop_WithPreEquilibration_Salty.meth",
+"D:\\KleinerLab\\FS\\2019\\FS030_Corn_protocols\\20181231_460min_150msIT_PartialLoop_WithPreEquilibration_Salty_d9e58e49-1a37-4107-80b4-62f2a09fa1df.meth"
+],
+"labels": {}
+},
+"PXD050925": {
+"status": "ok",
+"file": "S00001_Exploris01_AM_XinZhou_Ctrl_n1.raw",
+"models": [
+"Orbitrap Exploris 480"
+],
+"methods": [
+"D:\\Data\\LabelFree_120min_665d1509-f7cb-4e1e-bd22-226822a3aa24.meth",
+"D:\\Methods\\LabelFree_120min.meth"
+],
+"labels": {}
+},
+"PXD005237": {
+"status": "no_thermo_raw"
+},
+"PXD037033": {
+"status": "ok",
+"file": "10_E2_1.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"TODO.meth",
+"TODO_2f440d93-f0b1-4eb5-a359-5265e9f8154d.meth"
+],
+"labels": {}
+},
+"PXD037047": {
+"status": "ok",
+"file": "20210618_EV_SS_Jun_AWF1_0.raw",
+"models": [
+"Orbitrap Eclipse",
+"Orbitrap Eclipse Method Summary",
+"Orbitrap Resolution = 240K"
+],
+"methods": [
+"C:\\Methods\\SIMON\\FAIMS\\E1200\\E1200_DDMS2_140min_15cm_HCDIT_2CV_noHeat.meth",
+"D:\\E1200_DDMS2_140min_15cm_HCDIT_2CV_noHeat_256355a4-5f83-4398-9f78-c4d6ba20b95e.meth"
+],
+"labels": {}
+},
+"PXD042501": {
+"status": "no_thermo_raw"
+},
+"PXD050315": {
+"status": "ok",
+"file": "Ergp-1-1.raw",
+"models": [
+"Orbitrap Exploris 480"
+],
+"methods": [
+"D:\\Methods\\DIA\\DIA-60min-45w.meth",
+"D:\\Rawfiles\\DIA-60min-45w_87a352fa-46ac-462b-9526-8e02b6d64542.meth"
+],
+"labels": {}
+},
+"PXD023892": {
+"status": "ok",
+"file": "MS-18-046b-1.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\standard_top10_150min_LC2_mod-nanoViper.meth",
+"D:\\Alexander\\2018-12-04\\standard_top10_150min_LC2_mod-nanoViper_9c9f0a94-3032-4115-b1f5-915374435b9c..meth"
+],
+"labels": {}
+},
+"PXD002756": {
+"status": "ok",
+"file": "Orbi00308XM-Yej-Rice-Anthor-T_Recal.raw",
+"models": [
+"Orbitrap Elite ETD",
+"Orbitrap Elite MS"
+],
+"methods": [],
+"labels": {}
+},
+"PXD009224": {
+"status": "ok",
+"file": "20170818_10mikro_eP_BS3.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"D:\\Data\\OCII\\Anja\\BS3 XLMS\\2017_08_18_AF_non-cleavableCrosslink_152min_3e5ab95f-7991-40e0-bfdc-ee3342d3877e..meth",
+"D:\\Methods\\Anja\\2017_08_18_AF_non-cleavableCrosslink_152min.meth"
+],
+"labels": {}
+},
+"PXD044462": {
+"status": "ok",
+"file": "BA1FUT8_1701.raw",
+"models": [
+"Orbitrap Exploris 480",
+"Orbitrap Exploris 480 Method Summary",
+"Orbitrap Resolution = 15000",
+"Orbitrap Resolution = 60000"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\MS_Methods\\CFMS\\Glycopeptide_MS\\40min_GP_MS_60k.meth",
+"D:\\Data\\CFMS\\20230615_RST_PB244_Nachverdau\\40min_GP_MS_60k_81f4df1e-8e65-4cdf-9bbf-eddf1bd62104.meth"
+],
+"labels": {}
+},
+"PXD056060": {
+"status": "ok",
+"file": "20150921_VD_CFP-872_Kontrolle1_1.raw",
+"models": [
+"LTQ Orbitrap XL MS"
+],
+"methods": [
+"C:\\Thermo\\Instruments\\LTQ\\methods\\Easy_nLC 1000\\60min_Orb1_top5_JD.meth",
+"D:\\data\\60min_Orb1_top5_JD_a822c3a7-74a0-421a-ba19-42485b4ea6f4..meth"
+],
+"labels": {}
+},
+"PXD032359": {
+"status": "ok",
+"file": "BT549-Control_GnHCl_01.raw",
+"models": [
+"LTQ OT VELOS",
+"LTQ Orbitrap Velos MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\2018\\JVillanueva\\180725_Merce_Nathalie_Urea_GnHCl\\120min_LC1000_ecbb0003-ced3-4a7f-bd47-ee1799be62f6..meth",
+"C:\\Xcalibur\\methods\\secretoma\\nanoLC1000\\120min_LC1000.meth"
+],
+"labels": {}
+},
+"PXD002159": {
+"status": "no_thermo_raw"
+},
+"PXD034477": {
+"status": "ok",
+"file": "20220425_Q2_TC_ColQ2-110_Erminia-Heart_3578-WT-1.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Proxeon1200\\TiboC\\20170712_top10_180min_SabJabs.meth",
+"D:\\Q2_2022\\Q2_202204\\Q2_20220425\\20170712_top10_180min_SabJabs_f86d1004-100d-4a2f-8f82-61787c213e94.meth"
+],
+"labels": {}
+},
+"PXD008104": {
+"status": "ok",
+"file": "CAM_192_H.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\RightValve\\PFG_120min_Top10_Sens.meth",
+"D:\\Data\\Deb\\Hannah\\240315\\PFG_120min_Top10_Sens_8812d5d1-88b1-4c7b-a220-88f0990b1fe5..meth"
+],
+"labels": {}
+},
+"PXD052378": {
+"status": "ok",
+"file": "59803.raw",
+"models": [
+"LTQ Velos",
+"Orbitrap Velos Pro MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\Active\\Facility_Samples\\80min_GelSection_7acbf370-8d5a-404b-93e8-75d8351dc6e3..meth",
+"C:\\Xcalibur\\methods\\Ross\\80min_GelSection.meth"
+],
+"labels": {}
+},
+"PXD001004": {
+"status": "ok",
+"file": "PR329_GG2_1.raw",
+"models": [
+"LTQ Orbitrap Velos",
+"Orbitrap Velos Pro MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\STEVE\\20121128\\TOP20_CID_60min_00d4d622-6875-4771-b570-f53140e991c6..meth",
+"C:\\Xcalibur\\methods\\STEVE\\TOP20_CID_60min.meth"
+],
+"labels": {}
+},
+"PXD074775": {
+"status": "ok",
+"file": "2023MQ074_RQGA_001_01_1ug.raw",
+"models": [
+"Orbitrap Eclipse",
+"Orbitrap Resolution = 120K"
+],
+"methods": [
+"D:\\Xcalibur\\Data\\STD-E2-DDA-90min-TSP-HCD-IT_H_max2ul_7f4bb20a-dda6-48a5-a007-73e4e3ba9afe.meth",
+"D:\\Xcalibur\\methods\\current\\STD-E2-DDA-90min-TSP-HCD-IT_H_max2ul.meth"
+],
+"labels": {}
+},
+"PXD055111": {
+"status": "ok",
+"file": "Con_P1_680022.raw",
+"models": [
+"Q Exactive HF-X - Orbitrap MS"
+],
+"methods": [
+"D:\\Data\\2020_Season1\\FA074DA\\Linear_DIA_2h_36132a96-d0f0-47ef-85b8-f1b14ad05235.meth",
+"D:\\Meth\\DIA\\Linear_DIA_2h.meth"
+],
+"labels": {}
+},
+"PXD003042": {
+"status": "ok",
+"file": "MP1_OrbiElite02094.raw",
+"models": [
+"Orbitrap Elite MS"
+],
+"methods": [
+"C:\\MS_Daten\\210min_FT60k_TOP10_CID_dex30_thr2000_6e4d328b-9217-4797-b1ae-20ab0d512ba6..meth",
+"C:\\Xcalibur\\methods\\210min_FT60k_TOP10_CID_dex30_thr2000.meth"
+],
+"labels": {}
+},
+"PXD011763": {
+"status": "no_thermo_raw"
+},
+"PXD029436": {
+"status": "ok",
+"file": "Premium.raw",
+"models": [
+"Orbitrap Fusion",
+"Orbitrap Fusion Method Summary",
+"Orbitrap Resolution = 120K"
+],
+"methods": [
+"E:\\Data\\CCamp\\Aug 2021\\27082021_RID_2238\\14022020_120min_OT_IT_CID_50cm_3ae2e8eb-ef6d-4acb-b1d8-9811853424af.meth",
+"E:\\Methods\\ES803-Methods\\2020\\14022020_120min_OT_IT_CID_50cm.meth"
+],
+"labels": {}
+},
+"PXD043805": {
+"status": "ok",
+"file": "Z20190621-27.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Fusion Lumos Method Summary",
+"Orbitrap Lumos",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 30K"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\4.1\\juan\\JX_QC_NoIC_HCD_90min.meth",
+"D:\\Data\\JX_QC_NoIC_HCD_90min_25d29746-08ad-4598-b444-268824e771e8.meth"
+],
+"labels": {}
+},
+"PXD039837": {
+"status": "ok",
+"file": "SKBR3_IP.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\kikiope\\user\\NF\\201224_proteoglyco_mid_e677256d-5f06-4d1c-9939-20b199dbfbd6..meth",
+"C:\\Xcalibur\\methods\\kikiope\\user\\NF_ikagaku\\201224_proteoglyco_mid.meth"
+],
+"labels": {}
+},
+"PXD080054": {
+"status": "ok",
+"file": "NCOA7_190130_HF_MT07.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\NSI\\180807\\HPD_180807.meth",
+"D:\\Projets en cours\\NCOA7\\6538_InteractomeNCOA7\\NCOA7_190130\\Acquisitions\\HPD_180807_204a1ea3-edf7-4945-96b1-1977376e1ae3.meth"
+],
+"labels": {}
+},
+"PXD010845": {
+"status": "ok",
+"file": "1.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"D:\\methods\\one column setup\\Proteome_TMT_onecolumn_40min_TOP20_30s.meth",
+"D:\\wash\\Proteome_TMT_onecolumn_40min_TOP20_30s_ad52aa63-f47a-43ec-9e5c-142693eba838..meth"
+],
+"labels": {
+"TMT": [
+"D:\\methods\\one column setup\\Proteome_TMT_onecolumn_40min_TOP20_30s.meth",
+"D:\\wash\\Proteome_TMT_onecolumn_40min_TOP20_30s_ad52aa63-f47a-43ec-9e5c-142693eba838..meth"
+]
+}
+},
+"PXD027669": {
+"status": "ok",
+"file": "20200930_WT_OKFG_3_EG_i01.raw",
+"models": [
+"Orbitrap Fusion Lumos"
+],
+"methods": [
+"D:\\METHODS\\ddMS2\\SM_ITMS2_HCD_iso1_PF_AuroraLike_90min_02.meth",
+"D:\\System\\Blank\\SM_ITMS2_HCD_iso1_PF_AuroraLike_90min_02_8abc88f0-8524-4d21-8b53-1e899b358285.meth"
+],
+"labels": {}
+},
+"PXD021015": {
+"status": "ok",
+"file": "181109_QE_Li_JB315_01.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\2018_11\\2ul_80min_60K_MS1_30K_MS2_80msIT_top10_5c21f152-4fe7-468c-9803-c6a8450e57ca..meth",
+"C:\\Xcalibur\\methods1200\\Core Facility\\IPs\\2ul_80min_60K_MS1_30K_MS2_80msIT_top10.meth"
+],
+"labels": {}
+},
+"PXD034217": {
+"status": "ok",
+"file": "SP_Q_87.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\CurrentMethods\\HF-Top10-30K-1e5_5e3-500ms-2h.meth",
+"D:\\data\\Clients\\Stefanie_Poeggeler\\11_22_21_SP\\HF-Top10-30K-1e5_5e3-500ms-2h_127766de-0e16-472f-a8e2-7db133ac90f5..meth"
+],
+"labels": {}
+},
+"PXD001192": {
+"status": "ok",
+"file": "20140217_Serum-DIAPH3_1.raw",
+"models": [
+"Orbitrap Elite ETD",
+"Orbitrap Elite MS"
+],
+"methods": [
+"C:\\XCALIBUR\\DATA\\60min_20140217_25cm_a8de7d4d-d5f8-4e53-ad6f-4d360efc593f..meth",
+"C:\\Xcalibur\\methods\\60min_20140217_25cm.meth"
+],
+"labels": {}
+},
+"PXD036562": {
+"status": "ok",
+"file": "HFX2-248962-MIX-DDA.raw",
+"models": [
+"Q Exactive HF-X - Orbitrap MS"
+],
+"methods": [
+"D:\\Methods\\150\\two_column\\SL-25CM-DDA-DIA\\90min_gradient\\DDA_90min_easy1200_5E4_45ms_TOP40_DE20S_2_20191202.meth",
+"D:\\data\\Commercial\\DDA_90min_easy1200_5E4_45ms_TOP40_DE20S_2_20191202_bb22b0d4-d2b4-4870-8234-b0c14ef7af00.meth"
+],
+"labels": {}
+},
+"PXD050202": {
+"status": "no_thermo_raw"
+},
+"PXD053051": {
+"status": "no_thermo_raw"
+},
+"PXD057948": {
+"status": "ok",
+"file": "191231_DIA_1000to1100_metzyme_st5_120m.raw",
+"models": [
+"Orbitrap Fusion"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\191219_500nL_DIA_100min_995-1105_c4e9832c-f129-4699-a278-a6cbc0058757.meth",
+"C:\\Xcalibur\\methods\\191219_500nL_DIA_100min_995-1105.meth"
+],
+"labels": {}
+},
+"PXD030929": {
+"status": "ok",
+"file": "QX09144.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"E:\\01 Methods\\150723_short.meth",
+"E:\\02 Data\\150723_short_ff4b49be-e346-42f9-ac81-fc70efa8d858..meth"
+],
+"labels": {}
+},
+"PXD031827": {
+"status": "ok",
+"file": "20191213_Lumos_RSLC6_Levina_Leonard_MFPL_PDK1_XL_EDC_Dimer_20p.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Fusion Lumos Method Summary",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 30K"
+],
+"methods": [
+"C:\\Lumos\\methods\\UNI\\common\\XL_140min.meth",
+"D:\\Lumos\\data\\MFPL\\Leonard\\2019-12-13\\XL_140min_932f957e-56ee-45f8-86aa-c6d9f2176cbe.meth"
+],
+"labels": {}
+},
+"PXD029591": {
+"status": "ok",
+"file": "20210408_EX2_UM3_Bauza001_SA_EVXL7_MDA_SCX01_1.raw",
+"models": [
+"Orbitrap Exploris 480"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Users\\Gadi\\Ex2_UM_DSSdmtmm_115min_9-40B_40deg_28-31-34_NCE.meth",
+"D:\\Xcalibur\\Data\\Ex2_UM_DSSdmtmm_115min_9-40B_40deg_28-31-34_NCE_f889ce48-cd91-404f-996b-29fea839bbdb.meth"
+],
+"labels": {}
+},
+"PXD056006": {
+"status": "ok",
+"file": "F9449LPUbB1_infect1.raw",
+"models": [
+"Orbitrap Fusion",
+"Orbitrap Fusion Method Summary",
+"Orbitrap Resolution = 15K",
+"Orbitrap Resolution = 60K"
+],
+"methods": [
+"D:\\Method\\LF\\Label-free_PTM_OTOT_60min_4ul_T10.meth",
+"E:\\DATA\\WASH\\Label-free_PTM_OTOT_60min_4ul_T10_ec92b786-b0e9-4e32-bc5d-18aebd80de89..meth"
+],
+"labels": {}
+},
+"PXD043482": {
+"status": "missing"
+}
+},
+"labelled_controls": {
+"PXD001808": {
+"status": "missing"
+},
+"PXD062085": {
+"status": "ok",
+"file": "IP_MHo_041-V0056-A01-F030-X0334-1.raw",
+"models": [
+"Orbitrap Exploris 480"
+],
+"methods": [
+"C:\\Xcalibur\\data\\V0056\\TMT16_120min_highLoad_turboTMT_05a3b3b6-7d24-4594-9f52-28a56b660acd.meth",
+"C:\\Xcalibur\\methods\\Standard methods\\FAIMS\\TMT16_120min_highLoad_turboTMT.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\Standard methods\\FAIMS\\TMT16_120min_highLoad_turboTMT.meth",
+"C:\\Xcalibur\\data\\V0056\\TMT16_120min_highLoad_turboTMT_05a3b3b6-7d24-4594-9f52-28a56b660acd.meth"
+]
+}
+},
+"PXD008602": {
+"status": "ok",
+"file": "Fibro_rep1_0h.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\RightValve\\PFG_50min_Top10_Sens.meth",
+"D:\\Data\\Deb\\Georgia\\PFG_50min_Top10_Sens_2322049b-e99f-4bf9-8fdc-a4adb2cbc15d..meth"
+],
+"labels": {}
+},
+"PXD003489": {
+"status": "ok",
+"file": "150108_MM2338_A1.RAW",
+"models": [
+"LTQ Orbitrap XL",
+"LTQ Orbitrap XL MS"
+],
+"methods": [],
+"labels": {}
+},
+"PXD010553": {
+"status": "ok",
+"file": "XBH-F10.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"D:\\data\\Test_20170609\\normal_sample_120min_JH-20180322_TMT.meth",
+"D:\\data\\Xu Benhong\\20180320-ALS\\normal_sample_120min_JH-20180322_TMT_d7bae3b6-1f3a-451c-bcb2-0134f081b666..meth"
+],
+"labels": {
+"TMT": [
+"D:\\data\\Test_20170609\\normal_sample_120min_JH-20180322_TMT.meth",
+"D:\\data\\Xu Benhong\\20180320-ALS\\normal_sample_120min_JH-20180322_TMT_d7bae3b6-1f3a-451c-bcb2-0134f081b666..meth"
+]
+}
+},
+"PXD054989": {
+"status": "ok",
+"file": "20231026_L1_01_TMT15_F1.raw",
+"models": [
+"Orbitrap Fusion Lumos"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\ProtBioMed\\20231026_L1_TMTpro_90min.meth",
+"D:\\ProtBioMed\\20231026_L1_nUT1_ES803A_200114A_NP_TMT_frac\\20231026_L1_TMTpro_90min_9ae9f076-c590-4bf4-9ec1-1806b4665e8f.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\ProtBioMed\\20231026_L1_TMTpro_90min.meth",
+"D:\\ProtBioMed\\20231026_L1_nUT1_ES803A_200114A_NP_TMT_frac\\20231026_L1_01_NP_TMT15_F1.raw9",
+"D:\\ProtBioMed\\20231026_L1_nUT1_ES803A_200114A_NP_TMT_frac"
+]
+}
+},
+"PXD058147": {
+"status": "ok",
+"file": "jg210713_01.raw",
+"models": [
+"Orbitrap Fusion Lumos"
+],
+"methods": [
+"F:\\Data_PP\\JohanGaraude\\jg210713\\Lumos_TopS_HCD_OT_146min_LowLoad_210729_V34_55D_APD_3101c35c-4a23-47ba-adb8-e35732ed6438.meth",
+"F:\\Data_PP\\Methods\\PrestationDeRecherche_3.4\\Lumos_TopS_HCD_OT_146min_LowLoad_210729_V34_55D_APD.meth"
+],
+"labels": {}
+},
+"PXD031451": {
+"status": "ok",
+"file": "F000188b_1p_uPAC8_CMB-514_FRIMP_ImPep_TMT-Fr-1_20190430103259.raw",
+"models": [
+"Orbitrap Fusion Lumos"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\uPAC\\Rupert\\Col1_uPAC_TMT_90minGrad_ImPepNoSwitch.meth",
+"D:\\Data\\Col1_uPAC_TMT_90minGrad_ImPepNoSwitch_d17eb2ab-a117-412a-9fbd-21cfdc3b5569.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\uPAC\\Rupert\\Col1_uPAC_TMT_90minGrad_ImPepNoSwitch.meth",
+"D:\\Data\\F000188b_1p_uPAC8_CMB-514_FRIMP_ImPep_TMT-Fr-1_20190430103259.raw",
+"{\"id\":\"00000000-0000-0000-0000-000000000000\",\"originalRawFileNameWithoutExtension\":\"F000188b_1p_uPAC8_CMB-514_FRIMP_ImPep_TMT-Fr-1\",\"displayRowNumber\":182,\"disp"
+]
+}
+},
+"PXD029371": {
+"status": "ok",
+"file": "XCCBID1-8_20200221_HFGi_mucus_PNGase_labelfree_4hLG_4of25uL_S01.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\vial_240min_gradient_4ul_top5.meth",
+"D:\\QC\\vial_240min_gradient_4ul_top5_5ff4856b-849a-4ace-93e8-5b1394d6c391.meth"
+],
+"labels": {}
+},
+"PXD062322": {
+"status": "ok",
+"file": "Sharma_01_Global.raw",
+"models": [
+"Orbitrap Astral"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\15cm_Flex-TnE\\72SPD-Flex-TnE-2mz-3ms.meth",
+"D:\\72SPD-Flex-TnE-2mz-3ms_0bf49307-e6b4-4bf3-99e2-57b3152861e7.meth"
+],
+"labels": {}
+},
+"PXD063324": {
+"status": "ok",
+"file": "Eclipse_241128_FAIMS_05.raw",
+"models": [
+"Orbitrap Eclipse",
+"Orbitrap Fusion",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 50K"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\FAIMS\\TMTpro_CVmin50-70_cycle1p5s_MS3_Multi_90min_231208.meth",
+"D:\\TMTpro_CVmin50-70_cycle1p5s_MS3_Multi_90min_231208_41478a81-e81f-4415-a24f-0a6e0c405fb3.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\FAIMS\\TMTpro_CVmin50-70_cycle1p5s_MS3_Multi_90min_231208.meth",
+"D:\\TMTpro_CVmin50-70_cycle1p5s_MS3_Multi_90min_231208_41478a81-e81f-4415-a24f-0a6e0c405fb3.meth",
+"Experiment Name = TMT MS3 CV -50"
+]
+}
+},
+"PXD021218": {
+"status": "ok",
+"file": "Fusion_180801_08.raw",
+"models": [
+"Orbitrap Fusion",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 50K"
+],
+"methods": [
+"C:\\Xcalibur\\current methods\\TMT11plex_MS3_Multinotch_90min_180628.meth",
+"D:\\Data\\TMT11plex_MS3_Multinotch_90min_180628_6a8657de-a651-4320-93db-fe25c73c2de3.meth"
+],
+"labels": {
+"TMT": [
+"2963 TMT Set 1 Fr 01<",
+"C:\\Xcalibur\\current methods\\TMT11plex_MS3_Multinotch_90min_180628.meth",
+"D:\\Data\\TMT11plex_MS3_Multinotch_90min_180628_6a8657de-a651-4320-93db-fe25c73c2de3.meth"
+]
+}
+},
+"PXD027341": {
+"status": "ok",
+"file": "20200923_GBM_tumour_tissue__TMT10plex_HiRIEF_3-10_fr01.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\plate_50min_gradient_step8_10of20ul.meth",
+"D:\\Giorgos\\plate_50min_gradient_step8_10of20ul_6a33a549-0493-48ba-97f4-b5349e7092b4.meth"
+],
+"labels": {
+"TMT": [
+"D:\\Giorgos\\20200923_Haris_Norra_GBM_tumors__TMT10plex_HiRIEF_3-10_fr01.raw",
+"{\"id\":\"00000000-0000-0000-0000-000000000000\",\"originalRawFileNameWithoutExtension\":\"20200923_Haris_Norra_GBM_tumors__TMT10plex_HiRIEF_3-10_fr01\",\"displayRowNumb"
+]
+}
+},
+"PXD069282": {
+"status": "ok",
+"file": "WA-fr1-3.raw",
+"models": [
+"Q Exactive HF-X - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Metody TMT\\TMT11-18_155min_grad135min_MaxIT150ms061025.meth",
+"D:\\Xcalibur_DATA\\TMT11-18_155min_grad135min_MaxIT150ms061025_6a06734f-2cae-4625-958a-b0d30797f3c5.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\Metody TMT\\TMT11-18_155min_grad135min_MaxIT150ms061025.meth",
+"D:\\Xcalibur_DATA\\TMT11-18_155min_grad135min_MaxIT150ms061025_6a06734f-2cae-4625-958a-b0d30797f3c5.meth"
+]
+}
+},
+"PXD050093": {
+"status": "ok",
+"file": "FL2001770.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Fusion Lumos Method Summary",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 50K"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Frank\\TMT\\TMT10_Centroid_MS3_3Sec_SPS5_MS2_AGC_100per_35ms_Isolation_0_7_Scan_Rapid_MS3_Quad_Isolation_2mz_AGC_200_per_300nl_180min_2ul.meth",
+"D:\\2022_02\\Data\\TMT10_Centroid_MS3_3Sec_SPS5_MS2_AGC_100per_35ms_Isolation_0_7_Scan_Rapid_MS3_Quad_Isolation_2mz_AGC_200_per_300nl_180min_2ul_ff7c958a-1e41-4fd1-be94-6500ff94448d.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\Frank\\TMT\\TMT10_Centroid_MS3_3Sec_SPS5_MS2_AGC_100per_35ms_Isolation_0_7_Scan_Rapid_MS3_Quad_Isolation_2mz_AGC_200_per_300nl_180min_2ul.meth",
+"D:\\2022_02\\Data\\TMT10_Centroid_MS3_3Sec_SPS5_MS2_AGC_100per_35ms_Isolation_0_7_Scan_Rapid_MS3_Quad_Isolation_2mz_AGC_200_per_300nl_180min_2ul_ff7c958a-1e41-4fd1",
+"Reagant Tag Type = TMT"
+]
+}
+},
+"PXD005810": {
+"status": "ok",
+"file": "091112_5412-1.raw",
+"models": [
+"Orbitrap Velos Pro MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Top20_enhanced_140min_lock_load_7ul_LC-Gachon.meth",
+"D:\\Data on F\\VelosPro\\Top20_enhanced_140min_lock_load_7ul_LC-Gachon_bdbdc6fb-e239-4cca-84e0-1d4cd598c1ee..meth"
+],
+"labels": {}
+},
+"PXD003255": {
+"status": "ok",
+"file": "48hrs_LFQ_control_injection_001.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\data\\Rakhan\\EC_Top10_150min_Training_centroid_50c026fa-7ad6-4a97-9507-adb9892bdc23..meth",
+"C:\\Xcalibur\\methods\\EC_Top10_150min_Training_centroid.meth"
+],
+"labels": {}
+},
+"PXD008579": {
+"status": "ok",
+"file": "R1_MS3_hSAX01_SILAC_TMT10.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Fusion Lumos Method Summary",
+"Orbitrap Resolution = 15K",
+"Orbitrap Resolution = 30K",
+"Orbitrap Resolution = 60K"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\120Min_4to32_MS3_FP_pSILACTMT_6a558007-710c-466e-9572-20978a9f2a17..meth",
+"C:\\Xcalibur\\methods\\playground\\Jana\\120Min_4to32_MS3_FP_pSILACTMT.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\Data\\01883_A01_P019720_S00_N01_SILAC_TMT10_R1.raw",
+"Reagant Tag Type = TMT"
+],
+"SILAC": [
+"C:\\Xcalibur\\Data\\01883_A01_P019720_S00_N01_SILAC_TMT10_R1.raw"
+]
+}
+},
+"PXD029163": {
+"status": "ok",
+"file": "Fusion_210430_04.raw",
+"models": [
+"Orbitrap Fusion",
+"Orbitrap Fusion Method Summary",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 50K"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Project-specific\\4119_incl_TMT11plex_MS3_SPS10_120min_201105.meth",
+"D:\\Data\\4119_incl_TMT11plex_MS3_SPS10_120min_201105_909f41a2-7062-43bb-89a5-3dab6c079ce0.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\Project-specific\\4119_incl_TMT11plex_MS3_SPS10_120min_201105.meth",
+"D:\\Data\\4119_incl_TMT11plex_MS3_SPS10_120min_201105_909f41a2-7062-43bb-89a5-3dab6c079ce0.meth",
+"Reagant Tag Type = TMT"
+]
+}
+},
+"PXD009644": {
+"status": "ok",
+"file": "Validation_Rep1_Frac1.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Amir\\20171201_HF_nU2_nTrap_50cm_90min_TMT.meth",
+"D:\\data\\Amir\\1001final_2D_frac0.5mg\\20171201_HF_nU2_nTrap_50cm_90min_TMT_bc7408f8-8a3a-4425-b9b8-398ab5d84c04..meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\Amir\\20171201_HF_nU2_nTrap_50cm_90min_TMT.meth",
+"D:\\data\\Amir\\1001final_2D_frac0.5mg\\20171201_HF_nU2_nTrap_50cm_90min_TMT_bc7408f8-8a3a-4425-b9b8-398ab5d84c04..meth"
+]
+}
+},
+"PXD040449": {
+"status": "ok",
+"file": "20201030_QExHFX1_RSLC1_Madern_Hartl_UW_MFPL__complexity_P1.raw",
+"models": [
+"Q Exactive HF-X - Orbitrap MS"
+],
+"methods": [
+"C:\\X1\\Methods\\UNI\\Moritz\\Master project\\TMT_Mo_MasterProteom_120ms_140min.meth",
+"D:\\data\\MFPL\\Moritz\\2020-10-30\\TMT_Mo_MasterProteom_120ms_140min_7aa556cb-13d8-484c-98fc-2ac07574091e.meth"
+],
+"labels": {
+"TMT": [
+"C:\\X1\\Methods\\UNI\\Moritz\\Master project\\TMT_Mo_MasterProteom_120ms_140min.meth",
+"D:\\data\\MFPL\\Moritz\\2020-10-30\\TMT_Mo_MasterProteom_120ms_140min_7aa556cb-13d8-484c-98fc-2ac07574091e.meth",
+"<ScanEvent guid=\"06397148-e4dc-49f8-8d5a-5b8322c3f043\" id=\"1\" FullInternalName=\"Deukalion.Tmt.1\" DescendantType=\"Child\">"
+]
+}
+},
+"PXD063512": {
+"status": "ok",
+"file": "Patient1_MHC_F1.raw",
+"models": [
+"Orbitrap Exploris 480"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\RA\\Ultimate3000 new exploris\\RA_MHC_TMT_1p9um_20230514_BTC.meth",
+"D:\\RA\\RA_MHC_TMT_1p9um_20230514_BTC_934da8e6-31ca-41b9-a8e0-8f001a7ee895.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\RA\\Ultimate3000 new exploris\\RA_MHC_TMT_1p9um_20230514_BTC.meth",
+"D:\\RA\\RA_MHC_TMT_1p9um_20230514_BTC_934da8e6-31ca-41b9-a8e0-8f001a7ee895.meth"
+]
+}
+},
+"PXD009674": {
+"status": "ok",
+"file": "20170307STY_BGZ_1h_iTRAQ2_1.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Resolution = 30K",
+"Orbitrap Resolution = 60K"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\60min_iTRAQ_MS2_DDA_easyLC_TWO.meth",
+"D:\\DATA\\SXS\\20170306YSH\\60min_iTRAQ_MS2_DDA_easyLC_TWO_087cff50-3def-49f0-ab91-23925e3ef3ad..meth"
+],
+"labels": {
+"iTRAQ": [
+"C:\\Xcalibur\\methods\\60min_iTRAQ_MS2_DDA_easyLC_TWO.meth",
+"D:\\DATA\\SXS\\20170306YSH\\60min_iTRAQ_MS2_DDA_easyLC_TWO_087cff50-3def-49f0-ab91-23925e3ef3ad..meth"
+]
+}
+},
+"PXD048052": {
+"status": "ok",
+"file": "230120_1.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"D:\\DATA\\230120_YSE\\Top10_135min_TMT_221228_choelab_efaccb33-da45-4b95-a1e4-62910651b3e9.meth",
+"D:\\DATA\\Method\\Top10_135min_TMT_221228_choelab.meth"
+],
+"labels": {
+"TMT": [
+"D:\\DATA\\Method\\Top10_135min_TMT_221228_choelab.meth",
+"D:\\DATA\\230120_YSE\\Top10_135min_TMT_221228_choelab_efaccb33-da45-4b95-a1e4-62910651b3e9.meth"
+]
+}
+},
+"PXD029140": {
+"status": "ok",
+"file": "Lumos_191124_04.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Lumos",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 50K"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Current Methods\\TMT11_MS3_Multinotch_90min_190226.meth",
+"D:\\Data\\TMT11_MS3_Multinotch_90min_190226_49c8155b-eb28-43a8-975f-d63a8442e17a.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\Current Methods\\TMT11_MS3_Multinotch_90min_190226.meth",
+"D:\\Data\\TMT11_MS3_Multinotch_90min_190226_49c8155b-eb28-43a8-975f-d63a8442e17a.meth",
+"Reagant Tag Type = TMT"
+]
+}
+},
+"PXD033236": {
+"status": "ok",
+"file": "Fusion_180201_46.raw",
+"models": [
+"Orbitrap Fusion",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 50K"
+],
+"methods": [
+"C:\\Xcalibur\\current methods\\For Easy-nLC 1200\\TMT10plexquan_Multinotch90min_180123.meth",
+"D:\\Data\\TMT10plexquan_Multinotch90min_180123_5fbf1d36-607f-46e9-ab35-7e3aec16ca7f..meth"
+],
+"labels": {
+"TMT": [
+"2815 TMT Fr01<",
+"C:\\Xcalibur\\current methods\\For Easy-nLC 1200\\TMT10plexquan_Multinotch90min_180123.meth",
+"D:\\Data\\TMT10plexquan_Multinotch90min_180123_5fbf1d36-607f-46e9-ab35-7e3aec16ca7f..meth"
+]
+}
+},
+"PXD012757": {
+"status": "ok",
+"file": "171109_C2C12_WT_H_KO_L_LYSATE_1.raw",
+"models": [
+"Orbitrap Fusion",
+"Orbitrap Fusion Method Summary",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 30K"
+],
+"methods": [
+"D:\\User\\Ake data\\50cmPick5Load12_180min2-40_12uleq_20uleqMar2017.meth",
+"D:\\User\\Ake data\\50cmPick5Load12_180min2-40_12uleq_20uleqMar2017_508d4ef7-c33d-49d2-83fa-6c88d44d6b10..meth"
+],
+"labels": {}
+},
+"PXD011691": {
+"status": "ok",
+"file": "BGS_D_D180413_S416-newPrep-TMT-10plex-SPS-Fr01of10_MSG_R01_T0.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Fusion Lumos Method Summary",
+"Orbitrap Resolution = 50K",
+"Orbitrap Resolution = 60K"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\06 TMT\\TMT-SPS_120min_V4.meth",
+"D:\\Dodo\\Data\\TMT-SPS_120min_V4_27cbe4be-6053-4a76-8d4a-a970d1016751.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\06 TMT\\TMT-SPS_120min_V4.meth",
+"D:\\Dodo\\Data\\D_D180413_S416-newPrep-TMT-10plex-SPS-Fr01of10_MSG_R01.raw",
+"D:\\Dodo\\Data\\TMT-SPS_120min_V4_27cbe4be-6053-4a76-8d4a-a970d1016751.meth"
+]
+}
+},
+"PXD002098": {
+"status": "ok",
+"file": "20101210_Velos4_SaDe_SA_OciLy32_01.raw",
+"models": [
+"LTQ OT Velos",
+"LTQ Orbitrap Velos MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\SaZa_CARCIN_240min_2-25_Top10_HCD_e30e25c1-698b-4e34-9cc6-1c74d28e9fec..meth",
+"C:\\Xcalibur\\methods\\sally\\FROM SARA\\SaZa_CARCIN_240min_2-25_Top10_HCD.meth"
+],
+"labels": {}
+},
+"PXD017201": {
+"status": "ok",
+"file": "LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr01.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\3-10-plate_dynamic_gradients\\30min_UDPplate_crv6_step10_450ms_7of15ul.meth",
+"D:\\Rui\\Data\\30min_UDPplate_crv6_step10_450ms_7of15ul_03518014-0720-4bb9-b6d6-a70b1583b73a..meth"
+],
+"labels": {
+"TMT": [
+"D:\\Rui\\Data\\LJMP_Melanoma_QE_20170310_TMT_set1_1mgIPG3-10_fr01.raw"
+]
+}
+},
+"PXD071927": {
+"status": "ok",
+"file": "Elute-1-1.raw",
+"models": [
+"Orbitrap Exploris 240"
+],
+"methods": [
+"C:\\Users\\Thermo\\Documents\\TMTsixplex_NMT_06-10-2025\\Proteomics_TMT_DDA_50cmC18_03-24-2025_c9f7c856-285b-4772-89ba-6e96accb11e5.meth",
+"C:\\Xcalibur\\methods\\Proteomics_TMT_DDA_50cmC18_03-24-2025.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\Proteomics_TMT_DDA_50cmC18_03-24-2025.meth",
+"C:\\Users\\Thermo\\Documents\\TMTsixplex_NMT_06-10-2025\\Elute-1-1.raw3",
+"C:\\Users\\Thermo\\Documents\\TMTsixplex_NMT_06-10-2025"
+]
+}
+},
+"PXD030111": {
+"status": "ok",
+"file": "Lumos_201221_04.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Lumos",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 50K"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Current Methods\\TMTpro16_MS3_SPS10_90min_2001120.meth",
+"D:\\Data\\TMTpro16_MS3_SPS10_90min_2001120_d6546ea0-f9ed-4102-8bb5-96fcd0b2e2d4.meth"
+],
+"labels": {
+"TMT": [
+"4124 TMTpro F016",
+"C:\\Xcalibur\\methods\\Current Methods\\TMTpro16_MS3_SPS10_90min_2001120.meth",
+"D:\\Data\\TMTpro16_MS3_SPS10_90min_2001120_d6546ea0-f9ed-4102-8bb5-96fcd0b2e2d4.meth"
+]
+}
+},
+"PXD050310": {
+"status": "ok",
+"file": "Lumos_220614_61.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Fusion Lumos Method Summary",
+"Orbitrap Lumos",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 50K"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Current Methods\\TMTpro16_MS3_SPS10_90min_5to20to35_220523.meth",
+"D:\\Data\\TMTpro16_MS3_SPS10_90min_5to20to35_220523_7af24f14-d98f-42bc-be36-45a2882c9b59.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\Current Methods\\TMTpro16_MS3_SPS10_90min_5to20to35_220523.meth",
+"D:\\Data\\TMTpro16_MS3_SPS10_90min_5to20to35_220523_7af24f14-d98f-42bc-be36-45a2882c9b59.meth",
+"Reagant Tag Type = TMT"
+]
+}
+},
+"PXD001558": {
+"status": "ok",
+"file": "20120229_MLP_333188_ps108TiO2.raw",
+"models": [
+"LTQ Orbitrap Velos MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\20120305\\FT_HCD_FT_top10_120min_Vented_NanoFlexMod_04ada38c-03ad-44db-a5c4-c590d418333e..meth",
+"C:\\Xcalibur\\methods\\John\\Vented\\FT_HCD_FT_top10_120min_Vented_NanoFlexMod.meth"
+],
+"labels": {}
+},
+"PXD011799": {
+"status": "ok",
+"file": "20170126_Lumos_RSLC2_Maurer_Hartl_UW_MFPL_shotgun_MMa_TMT2_TiO2_Fr3_MS2.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Fusion Lumos Method Summary",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 50K"
+],
+"methods": [
+"C:\\Lumos\\methods\\TMT-methods for Margarita\\TMT_OTOT50K_HCD_ms2_AGC1e5_250ms_NCE_42_140min.meth",
+"D:\\Lumos\\data\\MFPL\\Hartl\\2017-01-26\\TMT_OTOT50K_HCD_ms2_AGC1e5_250ms_NCE_42_140min_23e670f7-791e-468d-b99d-e14ae202e17d..meth"
+],
+"labels": {
+"TMT": [
+"C:\\Lumos\\methods\\TMT-methods for Margarita\\TMT_OTOT50K_HCD_ms2_AGC1e5_250ms_NCE_42_140min.meth",
+"D:\\Lumos\\data\\MFPL\\Hartl\\2017-01-26\\20170126_Lumos_RSLC2_Maurer_Hartl_UW_MFPL_shotgun_MMa_TMT2_TiO2_Fr3_MS2.raw#",
+"D:\\Lumos\\data\\MFPL\\Hartl\\2017-01-26\\TMT_OTOT50K_HCD_ms2_AGC1e5_250ms_NCE_42_140min_23e670f7-791e-468d-b99d-e14ae202e17d..meth"
+]
+}
+},
+"PXD004142": {
+"status": "ok",
+"file": "130403SL_Klun_sample1_longer_immature.raw",
+"models": [
+"LTQ Velo",
+"Orbitrap",
+"Orbitrap Velos Pro MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Waters\\120min_grad_145min_run_Waters_Top15.meth",
+"D:\\2013\\2013_04\\Data\\SL\\120min_grad_145min_run_Waters_Top15_45bb5fd0-1707-4b52-99c9-ae5aa6af017d..meth"
+],
+"labels": {}
+},
+"PXD048347": {
+"status": "ok",
+"file": "20230920_E1_50_CVG_0553_SCP_Gastruloids_GFP_C1_S1.raw",
+"models": [
+"Orbitrap Eclipse",
+"Orbitrap Eclipse Method Summary",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 60K"
+],
+"methods": [
+"D:\\Eclipse_Data\\34_1.Eclipse_LC140m_ID75um_ProteoCHIP_CV50_278c6963-458e-44f7-9288-a5c134df469c.meth",
+"D:\\Eclipse_Methods\\CVG_Experiment methods\\34_1.Eclipse_LC140m_ID75um_ProteoCHIP_CV50.meth"
+],
+"labels": {}
+},
+"PXD006607": {
+"status": "ok",
+"file": "C1314FD.raw",
+"models": [
+"LTQ Orbitrap XL",
+"Orbitrap Fusion",
+"Orbitrap Resolution = 120K"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\120min 400-1500_74b9a36e-5948-46d9-b613-61c98937cdb0..meth",
+"C:\\Xcalibur\\Methods RSLC\\50 msec\\120min 400-1500.meth"
+],
+"labels": {}
+},
+"PXD004988": {
+"status": "ok",
+"file": "20120319_02_NaCl_I_dil.raw",
+"models": [
+"LTQ Orbitrap Velos MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\p1070\\20120319_100min_8CID_8HCD_CE45.meth",
+"D:\\Data2SAN\\p1070\\Proteomics\\VELOS_1\\thomass_20120319_grapewine_NucProtein_iTRAQ\\20120319_100min_8CID_8HCD_CE45_a4ba4419-a71f-4c39-b9d2-5b8cf620a9e1..meth"
+],
+"labels": {
+"iTRAQ": [
+"D:\\Data2SAN\\p1070\\Proteomics\\VELOS_1\\thomass_20120319_grapewine_NucProtein_iTRAQ\\20120319_02_NaCl_I_dil.rawP",
+"D:\\Data2SAN\\p1070\\Proteomics\\VELOS_1\\thomass_20120319_grapewine_NucProtein_iTRAQ",
+"D:\\Data2SAN\\p1070\\Proteomics\\VELOS_1\\thomass_20120319_grapewine_NucProtein_iTRAQ\\20120319_100min_8CID_8HCD_CE45_a4ba4419-a71f-4c39-b9d2-5b8cf620a9e1..meth"
+]
+}
+},
+"PXD004132": {
+"status": "ok",
+"file": "20110819_EXQ4_TaGe_SA_PC_16_2.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\4hce25dyn20step5_moreload40s_20476a2f-a3f7-4d1b-967f-a42e9d11e7cd..meth",
+"C:\\Xcalibur\\methods\\Tami\\4hce25dyn20step5_moreload40s.meth"
+],
+"labels": {}
+},
+"PXD007160": {
+"status": "ok",
+"file": "anteriorcingulategyrus_batch1_fraction01.raw",
+"models": [
+"Orbitrap Fusion",
+"Orbitrap Fusion Method Summary",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 30K",
+"Orbitrap Resolution = 60K"
+],
+"methods": [
+"D:\\Data\\Laboratory\\lingyan\\022017_adpd_cing_tmt\\140_AnyVolume_300n_35_TMT_696e3e80-7d03-46d8-8bdb-ed31eaa009e5..meth",
+"D:\\method\\dmd\\2017\\022017\\140_AnyVolume_300n_35_TMT.meth"
+],
+"labels": {
+"TMT": [
+"D:\\method\\dmd\\2017\\022017\\140_AnyVolume_300n_35_TMT.meth",
+"D:\\Data\\Laboratory\\lingyan\\022017_adpd_cing_tmt\\ly_cingtmt_b1_01.raw/",
+"D:\\Data\\Laboratory\\lingyan\\022017_adpd_cing_tmt"
+]
+}
+},
+"PXD054343": {
+"status": "no_thermo_raw"
+},
+"PXD020750": {
+"status": "ok",
+"file": "e002545.raw",
+"models": [
+"LTQ Orbitrap XL",
+"Orbitrap Elite MS"
+],
+"methods": [
+"C:\\MSdata\\2014_10\\data\\180min_Top10_Orbi_CID.MHC.LP_5360141b-25da-4249-82d0-0fd43ed49cc9..meth",
+"C:\\Xcalibur\\methods\\general\\180min_Top10_Orbi_CID.MHC.LP.meth"
+],
+"labels": {}
+},
+"PXD047750": {
+"status": "ok",
+"file": "CMB-1596DDA_UPRC_10090_H0643_1p_IonOpt13_CMB-1596_LauraVanMoortel_immunopeptides_1.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Ionopticks\\2col_ProFlo\\Ionopticks_1p_180min_run_immunopeptidomics_CMB-1596.meth",
+"D:\\Data\\Ionopticks_1p_180min_run_immunopeptidomics_CMB-1596_83077eee-13d4-412e-b5f2-4e8ff72fb0b4.meth"
+],
+"labels": {}
+},
+"PXD004695": {
+"status": "no_thermo_raw"
+},
+"PXD081367": {
+"status": "ok",
+"file": "Lara_231110_P2920_PH_PC_mouse_TMT9plex_50prc_F01.raw",
+"models": [
+"Orbitrap Fusion Lumos"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\_current\\TMT10_120min_210115.meth",
+"D:\\Data\\TMT10_120min_210115_d5e4d745-07ba-4a7d-979d-a39449ef1eb6.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\_current\\TMT10_120min_210115.meth",
+"D:\\Data\\Lara_231110_P2920_PH_PC_mouse_TMT9plex_50prc_F01.raw",
+"{\"id\":\"00000000-0000-0000-0000-000000000000\",\"originalRawFileNameWithoutExtension\":\"Lara_231110_P2920_PH_PC_mouse_TMT9plex_50prc_F01\",\"displayRowNumber\":4498,\"d"
+]
+}
+},
+"PXD038607": {
+"status": "ok",
+"file": "Centrifuge_g_PISA_Rep01_Frac01.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Amir\\202100512_HF_nU2_nTrap_50cm_150min_EasyTMTrev.meth",
+"D:\\MS Data\\Amir\\Centrifuge_g_PISA_Extractability\\202100512_HF_nU2_nTrap_50cm_150min_EasyTMTrev_5ef0266b-2c07-4d5c-8601-9e6da91b34d4.meth"
+],
+"labels": {}
+},
+"PXD036720": {
+"status": "ok",
+"file": "CT2A_GL261_intracranial_GP_F01.raw",
+"models": [
+"Orbitrap Exploris 480"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\RA\\Ultimate3000 old exploris\\RA_GP_TMT_1pt9um_20220423.meth",
+"D:\\RA\\PD1\\RA_GP_TMT_1pt9um_20220423_1a618b7f-282d-4337-86e6-79fd6426da8d.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\RA\\Ultimate3000 old exploris\\RA_GP_TMT_1pt9um_20220423.meth",
+"D:\\RA\\PD1\\RA_GP_TMT_1pt9um_20220423_1a618b7f-282d-4337-86e6-79fd6426da8d.meth"
+]
+}
+},
+"PXD062324": {
+"status": "ok",
+"file": "jervasti_joh18358_19540_20240411_FAIMS_TMT16_1_fxn01.raw",
+"models": [
+"Orbitrap Eclipse"
+],
+"methods": [
+"D:\\acq_methods35\\04_discoveryLabeled\\DL107b_TMT16_2secMS2_197min_DEindiv10s_FAIMS_45-60-75_20230331.meth",
+"D:\\data\\202404_apr\\DL107b_TMT16_2secMS2_197min_DEindiv10s_FAIMS_45-60-75_20230331_2ab2fef6-eefc-4913-9f14-f657403d0d2d.meth"
+],
+"labels": {
+"TMT": [
+"D:\\acq_methods35\\04_discoveryLabeled\\DL107b_TMT16_2secMS2_197min_DEindiv10s_FAIMS_45-60-75_20230331.meth",
+"D:\\data\\202404_apr\\jervasti_joh18358_19540_20240411_FAIMS_TMT16_1_fxn01.raw",
+"{\"$type\":\"Thermo.Xcalibur.Common.Models.Experiment.Capabilities.SampleExtensionInfo, Thermo.Xcalibur.Common.Models\",\"CapabilityData\":{\"$type\":\"System.Collection"
+]
+}
+},
+"PXD011244": {
+"status": "ok",
+"file": "S.a.-wt-CPFX-1.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 7.5K"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\90min_HCDOT_DDA_easyLC_twocolumn_201712SILAC.meth",
+"D:\\data\\SXS\\20180919_ZXL\\90min_HCDOT_DDA_easyLC_twocolumn_201712SILAC_34c728f3-6c57-4f21-bef2-40bed35ee351.meth"
+],
+"labels": {
+"SILAC": [
+"C:\\Xcalibur\\methods\\90min_HCDOT_DDA_easyLC_twocolumn_201712SILAC.meth",
+"D:\\data\\SXS\\20180919_ZXL\\20180926_ZXL_SILAC_1.raw",
+"D:\\data\\SXS\\20180919_ZXL\\90min_HCDOT_DDA_easyLC_twocolumn_201712SILAC_34c728f3-6c57-4f21-bef2-40bed35ee351.meth"
+]
+}
+},
+"PXD015833": {
+"status": "ok",
+"file": "PAT8141A12RW2_A1.raw",
+"models": [
+"Orbitrap Fusion Lumos"
+],
+"methods": [
+"D:\\Project_Data\\Goska\\PAT8141\\TMT_TopS_HCD_SPSMS3_phospho_180min_SII_GB_250nl_455b0ae3-6b9a-4fa3-9654-85210e8d91e9..meth",
+"D:\\methods\\Goska\\TMT_TopS_HCD_SPSMS3_phospho_180min_SII_GB_250nl.meth"
+],
+"labels": {
+"TMT": [
+"D:\\methods\\Goska\\TMT_TopS_HCD_SPSMS3_phospho_180min_SII_GB_250nl.meth",
+"D:\\Project_Data\\Goska\\PAT8141\\TMT_TopS_HCD_SPSMS3_phospho_180min_SII_GB_250nl_455b0ae3-6b9a-4fa3-9654-85210e8d91e9..meth"
+]
+}
+},
+"PXD042252": {
+"status": "no_thermo_raw"
+},
+"PXD027749": {
+"status": "ok",
+"file": "20210602_L1_TMTpro_CCR6_B1_F1.raw",
+"models": [
+"Orbitrap Fusion Lumos"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\JIMMY\\20200304_L_nUT2_nTrap_EASY50_120min_TMT_50K_Res.meth",
+"D:\\ProtBioMed\\20210520_CCR6_samples_CD4-8-14_samples\\20200304_L_nUT2_nTrap_EASY50_120min_TMT_50K_Res_46c67591-59f6-4ab6-884e-a277e4ff695e.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\JIMMY\\20200304_L_nUT2_nTrap_EASY50_120min_TMT_50K_Res.meth",
+"D:\\ProtBioMed\\20210520_CCR6_samples_CD4-8-14_samples\\20210602_L1_TMTpro_CCR6_B1_F1.raw4",
+"{\"id\":\"00000000-0000-0000-0000-000000000000\",\"originalRawFileNameWithoutExtension\":\"20210602_L1_TMTpro_CCR6_B1_F1\",\"displayRowNumber\":38,\"displayLabel\":0}"
+]
+}
+},
+"PXD018359": {
+"status": "ok",
+"file": "15a_again.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\Hilde\\Blanker\\01a_ES803_Sensitive_TOP10HCD_60K-60K_1mmSH_IT1e5_195minRUN_IMAC_d043e48d-bf38-45f4-9f47-f10e2f29fbe4..meth",
+"C:\\Xcalibur\\methods\\ES803\\03_Phospho\\195 min\\01a_ES803_Sensitive_TOP10HCD_60K-60K_1mmSH_IT1e5_195minRUN_IMAC.meth"
+],
+"labels": {}
+},
+"PXD065508": {
+"status": "ok",
+"file": "Eclipse_230331_FAIMS_04.raw",
+"models": [
+"Orbitrap Eclipse",
+"Orbitrap Fusion",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 50K"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\FAIMS\\TMTpro_CVmin50-70_cycle1p5s_MS3_Multi_90min_220909.meth",
+"D:\\TMTpro_CVmin50-70_cycle1p5s_MS3_Multi_90min_220909_9b5a4700-6b79-4d9e-9783-b8373084702f.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\FAIMS\\TMTpro_CVmin50-70_cycle1p5s_MS3_Multi_90min_220909.meth",
+"D:\\TMTpro_CVmin50-70_cycle1p5s_MS3_Multi_90min_220909_9b5a4700-6b79-4d9e-9783-b8373084702f.meth",
+"Experiment Name = TMT MS3 CV -50"
+]
+}
+},
+"PXD042671": {
+"status": "ok",
+"file": "Lumos_200525_100.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Lumos",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 50K"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Current Methods\\TMT11_MS3_Multinotch_90min_200203.meth",
+"D:\\Data\\TMT11_MS3_Multinotch_90min_200203_8dc05bdc-d447-4520-a4c4-b24323812913.meth"
+],
+"labels": {
+"TMT": [
+"4000 TMT Set3 Fr197",
+"C:\\Xcalibur\\methods\\Current Methods\\TMT11_MS3_Multinotch_90min_200203.meth",
+"D:\\Data\\TMT11_MS3_Multinotch_90min_200203_8dc05bdc-d447-4520-a4c4-b24323812913.meth"
+]
+}
+},
+"PXD013106": {
+"status": "ok",
+"file": "JLEOIB_20160324_P1_Fr01.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\Isabel TMT6\\Easyspray_TMT6plex_50cm_74min_crv6_2ul_Uppsala_b6ec869a-3074-4c94-8c15-027425c09c2e..meth",
+"C:\\Xcalibur\\methods\\Easyspray_TMT6plex_50cm_74min_crv6_2ul_Uppsala.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\Easyspray_TMT6plex_50cm_74min_crv6_2ul_Uppsala.meth",
+"C:\\Xcalibur\\Data\\Isabel TMT6\\JLEOIB_20160324_P1_Fr01.raw",
+"C:\\Xcalibur\\Data\\Isabel TMT6"
+]
+}
+},
+"PXD063095": {
+"status": "ok",
+"file": "20210618_GMKJAK_1_16__set1.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\180min_gradient_4ul_TOP5.meth",
+"D:\\QC\\180min_gradient_4ul_TOP5_ff2456f1-9b35-459d-852c-337ad91b0168.meth"
+],
+"labels": {}
+},
+"PXD058817": {
+"status": "ok",
+"file": "CRC_RN_1.raw",
+"models": [
+"Q Exactive HF-X - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\120min_Hela digest_Kiran_34CE_120K_051518.meth",
+"D:\\Raw files_062718\\120min_Hela digest_Kiran_34CE_120K_051518_b7609480-8628-4ad3-a304-e0fba977d94f.meth"
+],
+"labels": {}
+},
+"PXD020381": {
+"status": "ok",
+"file": "PAB9299A13RW20_A1.raw",
+"models": [
+"Orbitrap Fusion Lumos"
+],
+"methods": [
+"D:\\Project_Data\\Helen\\PAB9299\\TMT_TopS_HCD_MS2_0-7_50cmEZ_180min_SII_41b6e72a-433a-4142-ac68-fb0478876275.meth",
+"D:\\methods\\Helen\\Tune3-1\\TMT_TopS_HCD_MS2_0-7_50cmEZ_180min_SII.meth"
+],
+"labels": {
+"TMT": [
+"D:\\methods\\Helen\\Tune3-1\\TMT_TopS_HCD_MS2_0-7_50cmEZ_180min_SII.meth",
+"D:\\Project_Data\\Helen\\PAB9299\\TMT_TopS_HCD_MS2_0-7_50cmEZ_180min_SII_41b6e72a-433a-4142-ac68-fb0478876275.meth"
+]
+}
+},
+"PXD045730": {
+"status": "ok",
+"file": "MI478_fr1.raw",
+"models": [
+"Q Exactive HF-X - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Metody TMT\\LowLoad_TMT10-18_120min_55C_sep2022_MC.meth",
+"D:\\Xcalibur_DATA\\LowLoad_TMT10-18_120min_55C_sep2022_MC_ef239c7b-31e5-44b6-af25-5e495f3735ed.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\Metody TMT\\LowLoad_TMT10-18_120min_55C_sep2022_MC.meth",
+"D:\\Xcalibur_DATA\\LowLoad_TMT10-18_120min_55C_sep2022_MC_ef239c7b-31e5-44b6-af25-5e495f3735ed.meth"
+]
+}
+},
+"PXD002052": {
+"status": "ok",
+"file": "20120411_EXQ2_SaDe_SA_TRR028_01.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\standard_240min_11_15532ca2-8dbc-4b4c-b1bd-8d36042c6c28..meth",
+"C:\\Xcalibur\\methods\\SALLY\\Patient samples Fractionation\\standard_240min_11.meth"
+],
+"labels": {}
+},
+"PXD013753": {
+"status": "ok",
+"file": "TW-1.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\2017\\October 2017\\171020\\NCS_SingleRun_120minGrad-250817-Top15--ulPickUp-TMT_385891b6-95ff-4248-bce1-94f52ad404d5..meth",
+"C:\\Xcalibur\\methods\\NCS_SingleRun_120minGrad-250817-Top15--ulPickUp-TMT.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\NCS_SingleRun_120minGrad-250817-Top15--ulPickUp-TMT.meth",
+"C:\\Xcalibur\\Data\\2017\\October 2017\\171020\\NCS_SingleRun_120minGrad-250817-Top15--ulPickUp-TMT_385891b6-95ff-4248-bce1-94f52ad404d5..meth"
+]
+}
+},
+"PXD018024": {
+"status": "ok",
+"file": "Fozzie_20170704_GY_GBM_T1_Rph1.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\HF methods\\MM-TMT (fractions)\\TMT-RPh_CS MM\\1_RPH_0.8IW_30NCE_60k_1e5_200-rp.meth",
+"D:\\DATA\\1_RPH_0.8IW_30NCE_60k_1e5_200-rp_013729db-f439-4a6e-8810-c21275918a92..meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\HF methods\\MM-TMT (fractions)\\TMT-RPh_CS MM\\1_RPH_0.8IW_30NCE_60k_1e5_200-rp.meth"
+]
+}
+},
+"PXD006895": {
+"status": "ok",
+"file": "MVSC_HF1_20160219_SUBCELL_U251_TMT_IPG37-49_fr34.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\Mattias\\plate_50min_step7_MIT150ms_7of15ul_710f4db1-c7db-4641-b387-be97c486c887..meth",
+"C:\\Xcalibur\\methods\\plate_50min_step7_MIT150ms_7of15ul.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\Data\\Mattias\\MVSC_HF1_20160219_SUBCELL_U251_TMT_IPG37-49_fr34.raw"
+]
+}
+},
+"PXD007981": {
+"status": "ok",
+"file": "SILAC_MEF_replicate1_wobvswt.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Users\\Thermo\\Desktop\\Methods\\2014_08_14_265minRC.meth",
+"C:\\Xcalibur\\Data\\Constance\\20170122_CP_MEF_SILAC\\2014_08_14_265minRC_64363f52-c460-4b9d-ac74-91186f085aa9..meth"
+],
+"labels": {
+"SILAC": [
+"C:\\Xcalibur\\Data\\Constance\\20170122_CP_MEF_SILAC\\20170122_CP_MEF_SILAC03a.raw1",
+"C:\\Xcalibur\\Data\\Constance\\20170122_CP_MEF_SILAC\\",
+"C:\\Xcalibur\\Data\\Constance\\20170122_CP_MEF_SILAC\\2014_08_14_265minRC_64363f52-c460-4b9d-ac74-91186f085aa9..meth"
+]
+}
+},
+"PXD004683": {
+"status": "ok",
+"file": "20150820_Haura-Pilot-TMT1-bRPLC01-1.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\Samples08_2015\\90min_iTRAQ_CE30_300nl_pt8mz-iso_1026a2c3-779a-4707-8f0b-ed142405d880..meth",
+"C:\\Xcalibur\\methods\\90min_iTRAQ_CE30_300nl_pt8mz-iso.meth"
+],
+"labels": {
+"iTRAQ": [
+"C:\\Xcalibur\\methods\\90min_iTRAQ_CE30_300nl_pt8mz-iso.meth",
+"C:\\Xcalibur\\Data\\Samples08_2015\\90min_iTRAQ_CE30_300nl_pt8mz-iso_1026a2c3-779a-4707-8f0b-ed142405d880..meth"
+],
+"TMT": [
+"C:\\Xcalibur\\Data\\Samples08_2015\\20150820_Haura-Pilot-TMT1-bRPLC01-1.raw"
+]
+}
+},
+"PXD057292": {
+"status": "ok",
+"file": "Lumos_220303_FAIMS_04.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Fusion Lumos Method Summary",
+"Orbitrap Lumos",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 50K"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\FAIMS\\CVmin40-60_TMT16pro_TOP12_MS3_210330.meth",
+"D:\\Data\\CVmin40-60_TMT16pro_TOP12_MS3_210330_f1b0d65e-479a-4786-a0c2-309aef493325.meth"
+],
+"labels": {
+"TMT": [
+"4351 Set1 TMTpro F01 CV-40/-60<",
+"C:\\Xcalibur\\methods\\FAIMS\\CVmin40-60_TMT16pro_TOP12_MS3_210330.meth",
+"D:\\Data\\CVmin40-60_TMT16pro_TOP12_MS3_210330_f1b0d65e-479a-4786-a0c2-309aef493325.meth"
+]
+}
+},
+"PXD028531": {
+"status": "ok",
+"file": "20210329_L1_nUT2_ES803A_TMT_U1_U937_cells_B1_F1.raw",
+"models": [
+"Orbitrap Fusion Lumos"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\JIMMY\\20200304_L_nUT2_nTrap_EASY50_120min_TMT_50K_Res.meth",
+"D:\\ProtBioMed\\20210329_L1_nUT2_ES803A_TMT_U1_U937_cells\\20200304_L_nUT2_nTrap_EASY50_120min_TMT_50K_Res_79311658-40f3-4af9-85e3-ad84c3cd6172.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\JIMMY\\20200304_L_nUT2_nTrap_EASY50_120min_TMT_50K_Res.meth",
+"D:\\ProtBioMed\\20210329_L1_nUT2_ES803A_TMT_U1_U937_cells\\20210329_L1_nUT2_ES803A_TMT_U1_U937_cells_B1_F1.raw7",
+"D:\\ProtBioMed\\20210329_L1_nUT2_ES803A_TMT_U1_U937_cells"
+]
+}
+},
+"PXD003975": {
+"status": "ok",
+"file": "01369_A01_P013810_B00_N01_R1_TMT10.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\TMT10_120min_4to32_top25_150618_DH_974e5d19-b08e-42a6-a286-8eac4d68e56d..meth",
+"C:\\Xcalibur\\methods\\TMT10_120min_4to32_top25_150618_DH.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\TMT10_120min_4to32_top25_150618_DH.meth",
+"C:\\Xcalibur\\Data\\01369_A01_P013810_B00_N01_R1_TMT10.raw",
+"C:\\Xcalibur\\Data\\TMT10_120min_4to32_top25_150618_DH_974e5d19-b08e-42a6-a286-8eac4d68e56d..meth"
+]
+}
+},
+"PXD008378": {
+"status": "ok",
+"file": "AML_TMT10_plex_cytosolic_profile_NCE38.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"D:\\MS-Data\\2016-06-08_JoS_AML-cells\\2016-01-29_JoS_ddMS2_uLPickup_120min_MS1-120K_MS2-60K_NCE38_259f590e-f808-43c1-b69f-0f82aa486237..meth",
+"D:\\Methods\\Johannes\\2016-01-29_JoS_ddMS2_uLPickup_120min_MS1-120K_MS2-60K_NCE38.meth"
+],
+"labels": {
+"TMT": [
+"D:\\MS-Data\\2016-06-08_JoS_AML-cells\\AML_TMT10_plex_cytosolic_profile.raw#"
+]
+}
+},
+"PXD010429": {
+"status": "ok",
+"file": "20160609_Haura-SCC-PG_TMT01-2-Fx01-run1.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\06-2016\\90min_iTRAQ-TMT_250nl_cd3d4710-48f0-448d-bc59-f22771bb0d2f..meth",
+"C:\\Xcalibur\\methods\\90min_iTRAQ-TMT_250nl.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\90min_iTRAQ-TMT_250nl.meth",
+"C:\\Xcalibur\\Data\\06-2016\\20160609_Haura-SCC-PG_TMT01-2-Fx01-run1.raw",
+"C:\\Xcalibur\\Data\\06-2016\\90min_iTRAQ-TMT_250nl_cd3d4710-48f0-448d-bc59-f22771bb0d2f..meth"
+],
+"iTRAQ": [
+"C:\\Xcalibur\\methods\\90min_iTRAQ-TMT_250nl.meth",
+"C:\\Xcalibur\\Data\\06-2016\\90min_iTRAQ-TMT_250nl_cd3d4710-48f0-448d-bc59-f22771bb0d2f..meth"
+]
+}
+},
+"PXD003529": {
+"status": "ok",
+"file": "20140905_QEp4_MaRa_SA_mr3p42_EXP02_HDC_020_01.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Markus\\Sample_Top5_245min_50cm_MaRa.meth",
+"D:\\Sample_Top5_245min_50cm_MaRa_f22cefe2-f9bb-40c4-83e5-9804f606d060..meth"
+],
+"labels": {}
+},
+"PXD040455": {
+"status": "ok",
+"file": "Chip1_K562HeLa_F2.raw",
+"models": [
+"Orbitrap Exploris 480 Method Summary",
+"Orbitrap Exploris Slot #0081",
+"Orbitrap Resolution = 120000",
+"Orbitrap Resolution = 60000"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Yiran\\Manual loading\\03242022_hyperplexing\\notrigger\\LC1_TMTpro_60m_1p5s_118ms.meth",
+"iran's method:  OTOTHCD_6uL_2ng_QC_HeLa_100min_380L_320R_RF35_HCD30.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\Yiran\\Manual loading\\03242022_hyperplexing\\notrigger\\LC1_TMTpro_60m_1p5s_118ms.meth"
+]
+}
+},
+"PXD045656": {
+"status": "ok",
+"file": "Zelda_230310_P2514_PH_JMcQ_TMT15plex_25prc_R1_F01.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Lumos"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\_current\\TMT16_90min_210216.meth",
+"D:\\Data\\TMT16_90min_210216_95a28ca6-f5c4-4414-988e-809919b383b5.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\_current\\TMT16_90min_210216.meth",
+"D:\\Data\\Zelda_230310_P2514_PH_JMcQ_TMT15plex_25prc_R1_F01.raw",
+"{\"id\":\"00000000-0000-0000-0000-000000000000\",\"originalRawFileNameWithoutExtension\":\"Zelda_230310_P2514_PH_JMcQ_TMT15plex_25prc_R1_F01\",\"displayRowNumber\":1278,\""
+]
+}
+},
+"PXD010744": {
+"status": "ok",
+"file": "ProstateTMT10plex_S1Fr01.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Fusion Lumos Method Summary",
+"Orbitrap Lumos",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 50K"
+],
+"methods": [
+"C:\\Xcalibur\\data\\20180520TMT10plex_SPSMS3_3h_OConnell_ed8182d7-6614-47e7-b32c-2cbb316a433d.meth",
+"C:\\Xcalibur\\methods\\20180520TMT10plex_SPSMS3_3h_OConnell.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\20180520TMT10plex_SPSMS3_3h_OConnell.meth",
+"C:\\Xcalibur\\data\\20180520TMT10plex_SPSMS3_3h_OConnell_ed8182d7-6614-47e7-b32c-2cbb316a433d.meth",
+"Reagant Tag Type = TMT"
+]
+}
+},
+"PXD021681": {
+"status": "ok",
+"file": "20171018_TMT1_10.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\Oct2017\\171018_bw\\140905_Mehdi_1_TMT_top10_70k_70kMSMS_120min_complex_cecfd887-aff0-4026-ba46-e54ef2c40b57..meth",
+"C:\\Xcalibur\\methods\\Mehdi\\140905_Mehdi_1_TMT_top10_70k_70kMSMS_120min_complex.meth"
+],
+"labels": {
+"TMT": [
+"TMT1_10",
+"C:\\Xcalibur\\methods\\Mehdi\\140905_Mehdi_1_TMT_top10_70k_70kMSMS_120min_complex.meth",
+"C:\\Xcalibur\\Data\\Oct2017\\171018_bw\\20171018_TMT1_10.raw\""
+]
+}
+},
+"PXD003708": {
+"status": "ok",
+"file": "2013-Nov_22_NPA_HLB1_R2.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\Alissa\\Nov2013_Phospho_620_480\\110min_1200npm_2to30pctB_top12_NP1-4_a067b06d-7819-4024-8198-82c4290129f4..meth",
+"C:\\Xcalibur\\methods\\Alissa\\Nov2013_SILAC_SW620_SW480\\110min_1200npm_2to30pctB_top12_NP1-4.meth"
+],
+"labels": {
+"SILAC": [
+"C:\\Xcalibur\\methods\\Alissa\\Nov2013_SILAC_SW620_SW480\\110min_1200npm_2to30pctB_top12_NP1-4.meth"
+]
+}
+},
+"PXD023990": {
+"status": "ok",
+"file": "20180625_08_Qp1_nTrap_TMT_Ujjwal_EC.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\ProtBio\\20180205_Protbio_Qp_nLC1000_nTrap_180min_TMT_5ul.meth",
+"D:\\Data\\ProtBiomed\\20180625_Qp1_nLC1000-1_nTrap_ES50cm180301D_Jelena-gel_Ujjwal-3TMT_Nataliya-TMT\\20180205_Protbio_Qp_nLC1000_nTrap_180min_TMT_5ul_ab0f86a4-d324-4833-81de-9ac12749b9f2..meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\ProtBio\\20180205_Protbio_Qp_nLC1000_nTrap_180min_TMT_5ul.meth",
+"D:\\Data\\ProtBiomed\\20180625_Qp1_nLC1000-1_nTrap_ES50cm180301D_Jelena-gel_Ujjwal-3TMT_Nataliya-TMT\\20180625_08_Qp1_nTrap_TMT_Ujjwal_EC.rawa",
+"D:\\Data\\ProtBiomed\\20180625_Qp1_nLC1000-1_nTrap_ES50cm180301D_Jelena-gel_Ujjwal-3TMT_Nataliya-TMT"
+]
+}
+},
+"PXD003636": {
+"status": "ok",
+"file": "20120511_EXQ6_DiIg_SA_PCA_60_1.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Diego\\4hce25dyn20step5.meth",
+"D:\\4hce25dyn20step5_eec8a483-7171-424b-9695-f237067770fb..meth"
+],
+"labels": {}
+},
+"PXD046211": {
+"status": "ok",
+"file": "CBIO680_1.raw",
+"models": [
+"Orbitrap Fusion Lumos"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Didier\\TMT\\OT_HCD_TMT2_25cm_Highload_140min_16pro.meth",
+"D:\\Data\\Didier\\CBIO\\OT_HCD_TMT2_25cm_Highload_140min_16pro_2b655118-098b-48be-af80-a9236ebb20ea.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\Didier\\TMT\\OT_HCD_TMT2_25cm_Highload_140min_16pro.meth",
+"D:\\Data\\Didier\\CBIO\\OT_HCD_TMT2_25cm_Highload_140min_16pro_2b655118-098b-48be-af80-a9236ebb20ea.meth"
+]
+}
+},
+"PXD036078": {
+"status": "ok",
+"file": "20210817_TMT_TcnA_HEp2_PP_01.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Lumos"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Standard Methoden aktuell\\120_97min-Standard_OT_HCD_100ACN_IC_on__TMT_Phospho.meth",
+"D:\\Data\\Theresa\\20210817_TcnA_Hep2\\120_97min-Standard_OT_HCD_100ACN_IC_on__TMT_Phospho_b83745f5-4f87-4db8-ab59-3c6bb10401f9.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\Standard Methoden aktuell\\120_97min-Standard_OT_HCD_100ACN_IC_on__TMT_Phospho.meth",
+"D:\\Data\\Theresa\\20210817_TcnA_Hep2\\20210817_TMT_TcnA_HEp2_PP_01.raw\"",
+"{\"id\":\"00000000-0000-0000-0000-000000000000\",\"originalRawFileNameWithoutExtension\":\"20210817_TMT_TcnA_HEp2_PP_01\",\"displayRowNumber\":2,\"displayLabel\":0}"
+]
+}
+},
+"PXD047498": {
+"status": "ok",
+"file": "Eclipse_231110_FAIMS_27.raw",
+"models": [
+"Orbitrap Eclipse",
+"Orbitrap Fusion",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 50K"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\FAIMS\\TMTpro_CVmin50-70_cycle1p5s_MS3_Multi_90min_220909.meth",
+"D:\\TMTpro_CVmin50-70_cycle1p5s_MS3_Multi_90min_220909_9e32a627-89d9-4289-a0bc-64e5654d4b79.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\FAIMS\\TMTpro_CVmin50-70_cycle1p5s_MS3_Multi_90min_220909.meth",
+"D:\\TMTpro_CVmin50-70_cycle1p5s_MS3_Multi_90min_220909_9e32a627-89d9-4289-a0bc-64e5654d4b79.meth",
+"Experiment Name = TMT MS3 CV -50"
+]
+}
+},
+"PXD055537": {
+"status": "ok",
+"file": "Sydney-Eclipse-0096.raw",
+"models": [
+"Orbitrap Eclipse"
+],
+"methods": [
+"C:\\Xcalibur\\data\\commonBSA\\Oct042022_TMT_RTS-TMT_Sundar_newgrad_RTS-modification_859dc460-b1a3-4176-a1c0-cff85c952430.meth",
+"C:\\Xcalibur\\methods\\Sydney\\2022\\TMT\\Oct042022_TMT_RTS-TMT_Sundar_newgrad_RTS-modification.meth"
+],
+"labels": {
+"TMT": [
+"Nov012022_Sundar_TMT_hi-pH-fractions_#1_technical-replicate1 (10 uL combined, dried down; 33 ug divided in 16 fractions, resuspend in 10 uL inject 5 uL)",
+"C:\\Xcalibur\\methods\\Sydney\\2022\\TMT\\Oct042022_TMT_RTS-TMT_Sundar_newgrad_RTS-modification.meth",
+"C:\\Xcalibur\\data\\commonBSA\\Oct042022_TMT_RTS-TMT_Sundar_newgrad_RTS-modification_859dc460-b1a3-4176-a1c0-cff85c952430.meth"
+]
+}
+},
+"PXD002829": {
+"status": "ok",
+"file": "20130225_EXQ4_NiKu_SA_BY4741-SCX-1_01.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Nils\\Standard\\STANDARD.meth",
+"D:\\STANDARD_13bb0660-f0c0-4876-89e1-a61af28b8860..meth"
+],
+"labels": {}
+},
+"PXD024369": {
+"status": "ok",
+"file": "190815_0867_107_B22_NT_Tumor_1.raw",
+"models": [
+"LTQ Velos",
+"Orbitrap Velos Pro MS"
+],
+"methods": [
+"C:\\Xcalibur\\data\\PCF samples\\190815\\90m_Top10_350_650_min50_3uL_inj_243ec821-74a5-4825-b446-237a704522c3..meth",
+"C:\\Xcalibur\\methods\\Pat_5uL_Loop\\90m_Top10_350_650_min50_3uL_inj.meth"
+],
+"labels": {}
+},
+"PXD030043": {
+"status": "ok",
+"file": "KP086_E01_6ul_01.raw",
+"models": [
+"Orbitrap Fusion",
+"Orbitrap Fusion Method Summary",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 15K"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\Kristyna Pimkova\\180323\\170822_TMT_SPS_120min_MS3_55CE_b01b00be-a8c6-4004-82c9-d6266d88660c..meth",
+"C:\\Xcalibur\\methods\\VR nod\\Jenny Hansson\\170822_TMT_SPS_120min_MS3_55CE.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\VR nod\\Jenny Hansson\\170822_TMT_SPS_120min_MS3_55CE.meth",
+"C:\\Xcalibur\\Data\\Kristyna Pimkova\\180323\\170822_TMT_SPS_120min_MS3_55CE_b01b00be-a8c6-4004-82c9-d6266d88660c..meth",
+"Reagant Tag Type = TMT"
+]
+}
+},
+"PXD013490": {
+"status": "ok",
+"file": "Elena_A549_Microsom_16_1.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"C:\\XCALIBUR\\DATA\\Elena_A549\\Easyspray_50cm_60min_3ul_A549_160421_NoMS5Min_4cb6778e-c6ae-4387-847e-ee54b0ab443e..meth",
+"C:\\Xcalibur\\methods\\Easyspray_50cm_60min_3ul_A549_160421_NoMS5Min.meth"
+],
+"labels": {}
+},
+"PXD008853": {
+"status": "ok",
+"file": "Gland-specificsaliva-Orbitrap-fraction1and2.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"C:\\XCALIBUR\\DATA\\GVR\\20160406_SP\\TMT_Top5HCD_120min_5ce5bad3-6761-4d8d-87b9-e0161d3368b6..meth",
+"C:\\Xcalibur\\methods\\Karin\\TMT_Top5HCD_120min.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\Karin\\TMT_Top5HCD_120min.meth",
+"C:\\XCALIBUR\\DATA\\GVR\\20160406_SP\\TMT_Top5HCD_120min_5ce5bad3-6761-4d8d-87b9-e0161d3368b6..meth"
+]
+}
+},
+"PXD047199": {
+"status": "ok",
+"file": "Fusion_220602_54.raw",
+"models": [
+"Orbitrap Fusion",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 50K"
+],
+"methods": [
+"C:\\Xcalibur\\current_mehods\\TMTpro16plex_MS3_SPS10_90min_201105.meth",
+"D:\\Data\\TMTpro16plex_MS3_SPS10_90min_201105_52b17ffa-6fad-4c9e-ba42-63b121afa27c.meth"
+],
+"labels": {
+"TMT": [
+"4426 TMTpro fr01;",
+"C:\\Xcalibur\\current_mehods\\TMTpro16plex_MS3_SPS10_90min_201105.meth",
+"D:\\Data\\TMTpro16plex_MS3_SPS10_90min_201105_52b17ffa-6fad-4c9e-ba42-63b121afa27c.meth"
+]
+}
+},
+"PXD036219": {
+"status": "ok",
+"file": "ID39667_01_901B_5109_082818.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\TraceFinderData\\InstrumentMethods\\TMT_Top20_ms1_120Kand3e6and50ms_30Kand1e5and45msMS2_115min_30VNCE.meth",
+"d:\\2592\\TMT_Top20_ms1_120Kand3e6and50ms_30Kand1e5and45msMS2_115min_30VNCE_e5de7858-f755-48e3-a162-ed03ffee04f9..meth"
+],
+"labels": {
+"TMT": [
+"C:\\TraceFinderData\\InstrumentMethods\\TMT_Top20_ms1_120Kand3e6and50ms_30Kand1e5and45msMS2_115min_30VNCE.meth",
+"d:\\2592\\TMT_Top20_ms1_120Kand3e6and50ms_30Kand1e5and45msMS2_115min_30VNCE_e5de7858-f755-48e3-a162-ed03ffee04f9..meth"
+]
+}
+},
+"PXD010802": {
+"status": "no_thermo_raw"
+},
+"PXD009206": {
+"status": "ok",
+"file": "160603_BWNilsen_SILAC_E1.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\TOP10 180min_50cm_metode2_2_2Kv_99776374-9aa5-4f3f-a213-8707e532c7dc..meth",
+"C:\\Xcalibur\\methods\\TOP10 180min_50cm_metode2_2_2Kv.meth"
+],
+"labels": {
+"SILAC": [
+"C:\\Xcalibur\\Data\\160603_BWNilsen_SILAC_E1.raw"
+]
+}
+},
+"PXD035206": {
+"status": "ok",
+"file": "20180509_MM_TMT_B1_61min_R1.raw",
+"models": [
+"Q Exactive HF-X - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\General Methods\\TMT methods\\TMT-updated\\120minGradient_TMT_AGCtarget1e5_86msit.meth",
+"D:\\data\\2018\\20180509\\120minGradient_TMT_AGCtarget1e5_86msit_c46a0ad1-a0b8-4af2-b8ef-c5e09a0b8468.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\General Methods\\TMT methods\\TMT-updated\\120minGradient_TMT_AGCtarget1e5_86msit.meth",
+"D:\\data\\2018\\20180509\\20180509_MM_TMT_B1_61min_R1.raw",
+"D:\\data\\2018\\20180509\\120minGradient_TMT_AGCtarget1e5_86msit_c46a0ad1-a0b8-4af2-b8ef-c5e09a0b8468.meth"
+]
+}
+},
+"PXD062206": {
+"status": "ok",
+"file": "20230703_4400907131_AL_BuPFNA_TMT10_F01.raw",
+"models": [
+"Orbitrap Eclipse",
+"Orbitrap Lumos"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\TMT-Methods\\20230622_TMT11_Bacterioides_MS2Turbo_MS3_120K_184min.meth",
+"D:\\Data\\Data_2023\\KiranPatil\\AnnaLindell\\4400907131_PFNA_TMT_Jun23\\20230622_TMT11_Bacterioides_MS2Turbo_MS3_120K_184min_74c3e23f-8e09-4e21-8aa2-f978102dc295.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\TMT-Methods\\20230622_TMT11_Bacterioides_MS2Turbo_MS3_120K_184min.meth",
+"D:\\Data\\Data_2023\\KiranPatil\\AnnaLindell\\4400907131_PFNA_TMT_Jun23\\20230703_4400907131_AL_BuPFNA_TMT10_F01.rawB",
+"D:\\Data\\Data_2023\\KiranPatil\\AnnaLindell\\4400907131_PFNA_TMT_Jun23"
+]
+}
+},
+"PXD009465": {
+"status": "ok",
+"file": "t04175_EH_Malaria_WT_PK7_KO_Phos_SCX1.RAW",
+"models": [
+"LTQ Velos",
+"Orbitrap Velos Pro MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Roberto\\rae_180_HCD_top10_MS2_noLM_BisC_4_25C.meth"
+],
+"labels": {}
+},
+"PXD061609": {
+"status": "ok",
+"file": "ea12578.raw",
+"models": [
+"Orbitrap Eclipse"
+],
+"methods": [
+"C:\\Xcalibur\\data\\active\\90min_FAIMS_3CV_SPS_PF_Pt7_1pt2_Mouse_Thermo_CO2_806040_7c50f9d1-9e58-4dca-99d6-2a607778760d.meth",
+"C:\\Xcalibur\\methods\\joao\\Neo\\RTSthermo\\90min_FAIMS_3CV_SPS_PF_Pt7_1pt2_Mouse_Thermo_CO2_806040.meth"
+],
+"labels": {}
+},
+"PXD066812": {
+"status": "no_thermo_raw"
+},
+"PXD025481": {
+"status": "ok",
+"file": "20191106_L_nUT2_ES802A_new_tune_SCP_A549_150it_1uS_ADPon_MTX_Set1.raw",
+"models": [
+"Orbitrap Fusion Lumos"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\JIMMY\\20191021_L_nUT2_nTrap_EASY25_120min_TMT_SCP_APDon_first_mass.meth",
+"D:\\ProtBioMed\\20191029_L_nUT2_ES802A_SCP_tests_new_tune\\20191021_L_nUT2_nTrap_EASY25_120min_TMT_SCP_APDon_first_mass_7353a30d-62c0-40f2-afb3-21f8656be309.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\JIMMY\\20191021_L_nUT2_nTrap_EASY25_120min_TMT_SCP_APDon_first_mass.meth",
+"D:\\ProtBioMed\\20191029_L_nUT2_ES802A_SCP_tests_new_tune\\20191021_L_nUT2_nTrap_EASY25_120min_TMT_SCP_APDon_first_mass_7353a30d-62c0-40f2-afb3-21f8656be309.meth"
+]
+}
+},
+"PXD013292": {
+"status": "ok",
+"file": "20190228_Ecoli_acetylation_IP_1.raw",
+"models": [
+"Orbitrap Fusion",
+"Orbitrap Fusion Method Summary",
+"Orbitrap Resolution = 120K"
+],
+"methods": [
+"D:\\DATA_2017\\HAOBINGBING\\20190228_ECOLI_AC_IP\\90min_IT-HCDip-silac-ecoli_acetylation_ip_2b80f921-1487-43fa-94f7-a5a8d0af6539..meth",
+"D:\\Data_2017\\HaoBingbing\\method\\90min_IT-HCDip-silac-ecoli_acetylation_ip.meth"
+],
+"labels": {
+"SILAC": [
+"D:\\Data_2017\\HaoBingbing\\method\\90min_IT-HCDip-silac-ecoli_acetylation_ip.meth",
+"D:\\DATA_2017\\HAOBINGBING\\20190228_ECOLI_AC_IP\\90min_IT-HCDip-silac-ecoli_acetylation_ip_2b80f921-1487-43fa-94f7-a5a8d0af6539..meth"
+]
+}
+},
+"PXD005074": {
+"status": "ok",
+"file": "CFOrbi_120816_15.RAW",
+"models": [
+"LTQ Orbitrap XL",
+"LTQ Orbitrap XL MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Carina\\auto_nano_6MS2_CID_5to37proc_120min_120816.meth"
+],
+"labels": {}
+},
+"PXD002705": {
+"status": "ok",
+"file": "NrdR_20141223_VN.raw",
+"models": [
+"Orbitrap Elite",
+"Orbitrap Elite MS"
+],
+"methods": [
+"G:\\TMC\\2014\\20141223\\FT60k_HCD15_CE35_120min_2Da_a2c6399f-9d08-4976-b406-4d0a01a69d73..meth",
+"G:\\TMC\\method\\New\\FT60k_HCD15_CE35_120min_2Da.meth"
+],
+"labels": {}
+},
+"PXD012758": {
+"status": "ok",
+"file": "171208-2_C2C12_wt_H_IGF2_L_Medium_10.raw",
+"models": [
+"Orbitrap Fusion",
+"Orbitrap Fusion Method Summary",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 30K"
+],
+"methods": [
+"D:\\User\\Ake data\\50cmPick5Load12_180min2-40_12uleq_20uleqMar2017.meth",
+"D:\\User\\Ake data\\50cmPick5Load12_180min2-40_12uleq_20uleqMar2017_1496f38d-8319-4d92-aef9-8a687bd1eca4..meth"
+],
+"labels": {}
+},
+"PXD000902": {
+"status": "ok",
+"file": "20130716_AHS_XenopusL_Egg1_10ug_IBAQ_1.raw",
+"models": [
+"LTQ Orbitrap Velos MS",
+"LTQ Velos",
+"LTQ XL"
+],
+"methods": [
+"C:\\Thermo\\Instruments\\LTQ\\methods\\TestmethodsG1000\\Nina_Top15_CID_240min_800bar.meth",
+"D:\\Data_Orbitrap_Velos1\\Nina_Top15_CID_240min_800bar_1018a754-0df9-48ad-9d23-d469067d393b..meth"
+],
+"labels": {}
+},
+"PXD050618": {
+"status": "ok",
+"file": "Hubrecht_Institute_20231120_SdS_DDA_Mattiroli_G1_rep1.raw",
+"models": [
+"Orbitrap Exploris 240"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\EpiQMAx\\HeLa (FullProteom)\\DDA\\DDA_FullProteom_104min_LowFlowPressure_IonOpticks15cm.meth",
+"D:\\Data\\2023\\DDA_FullProteom_104min_LowFlowPressure_IonOpticks15cm_c12ba46f-d3a4-4590-8039-f3cf0d14f892.meth"
+],
+"labels": {}
+},
+"PXD001364": {
+"status": "ok",
+"file": "20090816_Velos4_DiWa_SA_Celegans_WTBiologicalReplicates-Day01-1.raw",
+"models": [
+"LTQ OT Velos",
+"LTQ Orbitrap Velos MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\DiWa-Top10HCD-260min-2009-08-16forSumans1.8umColumns#1_b0da32eb-15e1-4eda-8197-635ba4686213..meth",
+"C:\\Xcalibur\\methods\\Dirk\\DiWa-Top10HCD-260min-2009-08-16forSumans1.8umColumns#1.meth"
+],
+"labels": {}
+},
+"PXD002266": {
+"status": "ok",
+"file": "130412_002_UL01429-LS-01.raw",
+"models": [
+"LTQ OT Velos",
+"LTQ Orbitrap Velos MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\Current_Top10_HCD_ITRAQ_240min_f10cd4a6-e0d6-4d17-a60e-8da6aefea4bf..meth",
+"C:\\Xcalibur\\methods\\Current_Top10_HCD_ITRAQ_240min.meth"
+],
+"labels": {
+"iTRAQ": [
+"C:\\Xcalibur\\methods\\Current_Top10_HCD_ITRAQ_240min.meth",
+"C:\\Xcalibur\\Data\\Current_Top10_HCD_ITRAQ_240min_f10cd4a6-e0d6-4d17-a60e-8da6aefea4bf..meth",
+"C:\\Xcalibur\\tune page\\HCD_nonITRAQ_02.LTQTune"
+],
+"dimethyl": [
+"Polydimethylcyclosiloxane 445",
+"Pos List Name:                   Polydimethylcyclosiloxane 445"
+]
+}
+},
+"PXD063590": {
+"status": "ok",
+"file": "AD_TMT_plate1_A1.raw",
+"models": [
+"Orbitrap Exploris 480"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Standard\\pSCoPE\\tests\\MQL-dda_grad7_1010.meth",
+"D:\\d1\\MQL-dda_grad7_1010_36895fa2-5368-44da-b600-21812d46c5bd.meth"
+],
+"labels": {
+"TMT": [
+"D:\\d1\\AD_TMT_plate1_A1.raw",
+"{\"$type\":\"Thermo.Xcalibur.Common.Models.Experiment.Capabilities.SampleExtensionInfo, Thermo.Xcalibur.Common.Models\",\"CapabilityData\":{\"$type\":\"System.Collection"
+]
+}
+},
+"PXD002548": {
+"status": "ok",
+"file": "2014-0403_iTRAQ-1.raw",
+"models": [
+"Orbitrap Elite",
+"Orbitrap Elite MS"
+],
+"methods": [
+"G:\\TMC\\2014\\20140403\\FT120k_HCD15_CE35_210min_2Da_2a1b213c-83cf-48b1-bec9-cd39ece295b8..meth",
+"G:\\TMC\\method\\New\\FT120k_HCD15_CE35_210min_2Da.meth"
+],
+"labels": {
+"iTRAQ": [
+"G:\\TMC\\2014\\20140403\\2014-0403_iTRAQ-1.raw",
+"iTRAQ or TMT"
+],
+"TMT": [
+"iTRAQ or TMT"
+]
+}
+},
+"PXD050999": {
+"status": "ok",
+"file": "Bert_231207_S3790_DP_TolC_PFNA_T1T2_R1_F1.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\_current\\WatersColumns\\new\\TMT16_120min_201007_DMSO.meth",
+"D:\\Data\\TMT16_120min_201007_DMSO_ce56b739-4fb0-4fe9-8a45-b4133811a13a.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\_current\\WatersColumns\\new\\TMT16_120min_201007_DMSO.meth",
+"D:\\Data\\TMT16_120min_201007_DMSO_ce56b739-4fb0-4fe9-8a45-b4133811a13a.meth"
+]
+}
+},
+"PXD042101": {
+"status": "ok",
+"file": "Sample_E_Fraction_10_20211110022910.raw",
+"models": [
+"Orbitrap Eclipse"
+],
+"methods": [
+"D:\\Methods\\mbpf\\ECP_158_120_TMTpro_SPS_MS3_RTS_FAIMS_V01_Human.meth",
+"D:\\MyData\\shanti.gurung@hudson.org.au\\P20_0419\\Experiment 3\\ECP_158_120_TMTpro_SPS_MS3_RTS_FAIMS_V01_Human_51f28314-43f5-4d9e-855b-d5833db1ad05.meth"
+],
+"labels": {
+"TMT": [
+"D:\\Methods\\mbpf\\ECP_158_120_TMTpro_SPS_MS3_RTS_FAIMS_V01_Human.meth",
+"D:\\MyData\\shanti.gurung@hudson.org.au\\P20_0419\\Experiment 3\\ECP_158_120_TMTpro_SPS_MS3_RTS_FAIMS_V01_Human_51f28314-43f5-4d9e-855b-d5833db1ad05.meth"
+]
+}
+},
+"PXD032270": {
+"status": "ok",
+"file": "2017-023_reg2017071129_TMT_1.raw",
+"models": [
+"LTQ Orbitrap Velos MS"
+],
+"methods": [
+"D:\\1-LTQ-VELOS\\Data\\2017\\2017-07\\2017-07-28\\2017-0.23_TMT-5h.meth",
+"D:\\1-LTQ-VELOS\\Data\\2017\\2017-07\\2017-07-28\\2017-0.23_TMT-5h_7cbfee09-55ac-4837-857c-eb0d92d4990e..meth"
+],
+"labels": {
+"TMT": [
+"2017-023_TMT_1",
+"D:\\1-LTQ-VELOS\\Data\\2017\\2017-07\\2017-07-28\\2017-0.23_TMT-5h.meth",
+"D:\\1-LTQ-VELOS\\Data\\2017\\2017-07\\2017-07-28\\2017-023_TMT_1.raw+"
+]
+}
+},
+"PXD025858": {
+"status": "ok",
+"file": "OR-1-1-phos.raw",
+"models": [
+"Orbitrap",
+"Orbitrap Velos Pro",
+"Orbitrap Velos Pro MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\2018\\April 2018\\180416\\DOWNonly_DDA_long_2hrGrad-30degree-MSA_2de68e2c-622d-42da-9af3-e614497276e4..meth",
+"C:\\Xcalibur\\data\\Methods\\Dundee Tandem Methods\\DOWNonly_DDA_long_2hrGrad-30degree-MSA.meth"
+],
+"labels": {}
+},
+"PXD023090": {
+"status": "ok",
+"file": "H_Lang_300715_210815_AML_74_L1_1.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\Aug_15\\210815\\TOP15_75um_20cm_90min_190713_6fbd9c03-ba99-48c0-84b2-d3e6be5b6c5f..meth",
+"C:\\Xcalibur\\methods\\Uwe\\TOP15_75um_20cm_90min_190713.meth"
+],
+"labels": {}
+},
+"PXD007971": {
+"status": "ok",
+"file": "MS160702-A1.raw",
+"models": [
+"Orbitrap Fusion",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 15K"
+],
+"methods": [
+"D:\\METHOD\\FusionTraining_20150525\\TMT_120min_Isolation1.6_2u.meth",
+"E:\\DATE\\SAMPLE\\TMT_120min_Isolation1.6_2u_63cfbd46-868a-41ec-a1be-ab41b7526a4e..meth"
+],
+"labels": {
+"TMT": [
+"D:\\METHOD\\FusionTraining_20150525\\TMT_120min_Isolation1.6_2u.meth",
+"E:\\DATE\\SAMPLE\\TMT_120min_Isolation1.6_2u_63cfbd46-868a-41ec-a1be-ab41b7526a4e..meth"
+]
+}
+},
+"PXD009157": {
+"status": "ok",
+"file": "92-149137486_A1.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\ProjectData\\Andrew\\PAB7819\\TOP10_180min_phospho_9c6ce2be-1709-4a32-bbab-f138446908a9..meth",
+"C:\\Xcalibur\\methods\\Vesela_methods\\Six_port_valve_methods\\Methods_for_Goska\\TMT\\TOP10_180min_phospho.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\Vesela_methods\\Six_port_valve_methods\\Methods_for_Goska\\TMT\\TOP10_180min_phospho.meth",
+"TMT 60 min top10"
+]
+}
+},
+"PXD004372": {
+"status": "ok",
+"file": "RS_Ecoli_Secretome_7TMT_Terep1_bRP_1.raw",
+"models": [
+"Orbitrap Elite ETD",
+"Orbitrap Elite MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\Pandey\\20140610\\100m_120-30_15HCD36_be2b0fca-bb2e-4fa2-86bd-e71b6193a322..meth",
+"C:\\Xcalibur\\methods\\Pandey_lab\\RS\\100m_120-30_15HCD36.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\Data\\Pandey\\20140610\\RS_Ecoli_Secretome_7TMT_Terep1_bRP_1.raw"
+]
+}
+},
+"PXD020586": {
+"status": "ok",
+"file": "20200514_MK_ES_E1200_precol_scMS_500ms_8227_P5_S1.raw",
+"models": [
+"Orbitrap Exploris 480",
+"Orbitrap Exploris 480 Method Summary",
+"Orbitrap Resolution = 45000",
+"Orbitrap Resolution = 60000"
+],
+"methods": [
+"C:\\Methods\\ERWIN\\FAIMS\\E1200\\tests\\DDMS2_160min_15cm_precolumn_scMS_500ms_3sec-cycle_1e4thresh_FAIMS_50_70_100nlmin.meth",
+"D:\\DDMS2_160min_15cm_precolumn_scMS_500ms_3sec-cycle_1e4thresh_FAIMS_50_70_100nlmin_102cc3a2-0660-45bd-ae41-5648bcc96aa0.meth"
+],
+"labels": {}
+},
+"PXD001278": {
+"status": "ok",
+"file": "131019_SILAC_LN_HEc_2.raw",
+"models": [
+"Orbitrap Elite ETD",
+"Orbitrap Elite MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\131019 LARS etter training 2 270min CID_deee4ae2-e55f-45ad-8c0f-e05c5c0a0122..meth",
+"C:\\Xcalibur\\methods\\LARS etter training\\131019 LARS etter training 2 270min CID.meth"
+],
+"labels": {
+"SILAC": [
+"C:\\Xcalibur\\Data\\131019_SILAC_LN_HEc_2.raw"
+]
+}
+},
+"PXD025193": {
+"status": "ok",
+"file": "20180211_FS1_GS-EN_VCaP_ML_AR_R1.raw",
+"models": [
+"Orbitrap Fusion",
+"Orbitrap Fusion Method Summary",
+"Orbitrap Resolution = 120K"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\GS\\HCD_IT_2H10M_LO_long_loading.meth",
+"D:\\DATA\\2018_February\\HCD_IT_2H10M_LO_long_loading_4c292ba3-5ccf-4006-b12f-065e101d9417.meth"
+],
+"labels": {}
+},
+"PXD074990": {
+"status": "ok",
+"file": "XD01023SPUbR1_PTMH1299.raw",
+"models": [
+"Orbitrap Exploris 480",
+"Orbitrap Exploris 480 Method Summary",
+"Orbitrap Resolution = 15000",
+"Orbitrap Resolution = 60000"
+],
+"methods": [
+"D:\\data\\wash\\TP_10plex_90min_4ul_TurboTMT_NoFAIMS_ac2f3821-ba39-4ae5-bfdf-3b85b1290fa0.meth",
+"D:\\method_480_6_2023\\NoFAIMS\\TP\\TP_10plex_90min_4ul_TurboTMT_NoFAIMS.meth"
+],
+"labels": {}
+},
+"PXD036749": {
+"status": "ok",
+"file": "20200109_HFX_SVS_ZhaoK_ColE3plusIm3.raw",
+"models": [
+"Q Exactive HF-X - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\60min_1200_2_col-newgra.meth",
+"D:\\2020-Jan-9\\60min_1200_2_col-newgra_fb3ab26a-ba15-46cc-a55d-1286ba70ccd5.meth"
+],
+"labels": {}
+},
+"PXD058142": {
+"status": "ok",
+"file": "jg181115_01.raw",
+"models": [
+"Orbitrap Fusion Lumos"
+],
+"methods": [
+"D:\\Data_Lumos_PP\\JohanGaraude\\jg181115\\Lumos_TopS_HCD_IT_146min_Universal_190305_V21_21ef75ea-1030-4c09-af33-85f44f6dd9a5.meth",
+"D:\\Data_Lumos_PP\\Methods\\Lumos_TopS_HCD_IT_146min_Universal_190305_V21.meth"
+],
+"labels": {}
+},
+"PXD000793": {
+"status": "no_thermo_raw"
+},
+"PXD014145": {
+"status": "ok",
+"file": "MFA380.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Martin\\ddTop10_EASY_40_RT1_90_TMT_CE32_FM100_IW12.meth",
+"L:\\XCALIBUR AB NOV 17\\LCMS_2018\\LCMS_Sep18\\LCMS_140918\\ddTop10_EASY_40_RT1_90_TMT_CE32_FM100_IW12_bebd5d9d-3197-496b-b689-71c15cc1f70e..meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\Martin\\ddTop10_EASY_40_RT1_90_TMT_CE32_FM100_IW12.meth",
+"L:\\XCALIBUR AB NOV 17\\LCMS_2018\\LCMS_Sep18\\LCMS_140918\\ddTop10_EASY_40_RT1_90_TMT_CE32_FM100_IW12_bebd5d9d-3197-496b-b689-71c15cc1f70e..meth"
+]
+}
+},
+"PXD040618": {
+"status": "ok",
+"file": "WC_Proteinfolding_FASP_TMT_F10_R1_20170917.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\LJM\\proteinfolding\\TMT\\20170916_Proteinfolding_TMT_Run180min_3_b0f8ae30-c2ef-4b2f-b641-8bad9a7509ba..meth",
+"C:\\Xcalibur\\methods\\LJM\\20170916_Proteinfolding_TMT_Run180min_3.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\LJM\\20170916_Proteinfolding_TMT_Run180min_3.meth",
+"C:\\Xcalibur\\Data\\LJM\\proteinfolding\\TMT\\WC_Proteinfolding_FASP_TMT_F10_R1_20170917.raw'",
+"C:\\Xcalibur\\Data\\LJM\\proteinfolding\\TMT"
+]
+}
+},
+"PXD025746": {
+"status": "ok",
+"file": "Lum_21jan502.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Lumos"
+],
+"methods": [
+"C:\\Xcalibur\\data\\110minGradient_TMT-MS2-LL_14595e75-7320-4a57-8696-712df70ab84a.meth",
+"C:\\Xcalibur\\methods\\110minGradient_TMT-MS2-LL.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\110minGradient_TMT-MS2-LL.meth",
+"C:\\Xcalibur\\data\\110minGradient_TMT-MS2-LL_14595e75-7320-4a57-8696-712df70ab84a.meth"
+]
+}
+},
+"PXD079334": {
+"status": "ok",
+"file": "20240430_AS_LC4_GF_Sante_exp2_400ng_F01.raw",
+"models": [
+"Orbitrap Ascend"
+],
+"methods": [
+"D:\\Data_ASCEND\\2024_04\\TMTPro_90min(95min)_45K_10notch_RTS_Hsa_OSPG_1.5s_98606e61-4ae3-416c-b7b4-83a6307c7bb3.meth",
+"D:\\Data_ASCEND\\Methods_Ascend\\TMTpro\\TMTPro_90min(95min)_45K_10notch_RTS_Hsa_OSPG_1.5s.meth"
+],
+"labels": {
+"TMT": [
+"D:\\Data_ASCEND\\Methods_Ascend\\TMTpro\\TMTPro_90min(95min)_45K_10notch_RTS_Hsa_OSPG_1.5s.meth",
+"D:\\Data_ASCEND\\2024_04\\TMTPro_90min(95min)_45K_10notch_RTS_Hsa_OSPG_1.5s_98606e61-4ae3-416c-b7b4-83a6307c7bb3.meth"
+]
+}
+},
+"PXD012789": {
+"status": "ok",
+"file": "171208_C2C12_wt_H_IGF2_L_Lysate_1.raw",
+"models": [
+"Orbitrap Fusion",
+"Orbitrap Fusion Method Summary",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 30K"
+],
+"methods": [
+"D:\\User\\Ake data\\50cmPick5Load12_180min2-40_12uleq_20uleqMar2017.meth",
+"D:\\User\\Ake data\\50cmPick5Load12_180min2-40_12uleq_20uleqMar2017_fe0706e9-b30f-4897-9a83-48ed37db5dbd..meth"
+],
+"labels": {}
+},
+"PXD006536": {
+"status": "ok",
+"file": "Bart_Rice_iTRAQ_01_FT_19May16_Pippin_16-03-37.raw",
+"models": [
+"Q Exactive Plus - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\35k-Res_1e6-1e5AGC_Top10_10msIT__30CE_2mzIso_100min-Centroid.meth",
+"D:\\PROTEOMICSDATA\\35k-Res_1e6-1e5AGC_Top10_10msIT__30CE_2mzIso_100min-Centroid_0b399ff3-32c1-4952-b247-f18b547f15ef..meth"
+],
+"labels": {
+"iTRAQ": [
+"D:\\PROTEOMICSDATA\\Bart_Rice_iTRAQ_01_FT_19May16_Pippin_16-03-37.raw"
+]
+}
+},
+"PXD008339": {
+"status": "ok",
+"file": "2781_Phos_1.raw",
+"models": [
+"Orbitrap Fusion",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 60K"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\DDA_SPS_res60k_10plex_145min_4d75f6dc-0b3a-4197-8ae2-fcd3568c0a8f..meth",
+"C:\\Xcalibur\\methods\\methods\\Training\\TMT\\DDA_SPS_res60k_10plex_145min.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\methods\\Training\\TMT\\DDA_SPS_res60k_10plex_145min.meth",
+"Reagant Tag Type = TMT"
+]
+}
+},
+"PXD000001": {
+"status": "ok",
+"file": "TMT_Erwinia_1uLSike_Top10HCD_isol2_45stepped_60min_01.raw",
+"models": [
+"LTQ Orbitrap Velos MS",
+"LTQ VeloAuditData",
+"LTQ Velos"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\Cambridge_Lilley_Jun10\\Proxeon_Top10HCD_LM_isol2_45stepped_60min_eb09d619-1c96-4b19-b781-6bb78a7efabe..meth",
+"C:\\Xcalibur\\data\\Cambridge_Lilley_Jun10\\Proxeon_Top10HCD_LM_isol2_45stepped_60min.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\Data\\Cambridge_Lilley_Jun10\\TMT_Erwinia_1uLSike_Top10HCD_isol2_45stepped_60min_01.raw'"
+]
+}
+},
+"PXD057588": {
+"status": "ok",
+"file": "BMDM_KOline_coculture_CD45pos_ac1-9_40_F1_20230723.raw",
+"models": [
+"Orbitrap Exploris 480"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Yufei\\MHC_TMT6_slowflow_highvol.meth",
+"D:\\Yufei\\MHC_TMT6_slowflow_highvol_b94f9b23-d6ba-4f89-990b-fc5c774294bb.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\Yufei\\MHC_TMT6_slowflow_highvol.meth",
+"D:\\Yufei\\MHC_TMT6_slowflow_highvol_b94f9b23-d6ba-4f89-990b-fc5c774294bb.meth"
+]
+}
+},
+"PXD003138": {
+"status": "ok",
+"file": "130716_SS_31778MGUS_run1.raw",
+"models": [
+"Orbitrap Elite ETD",
+"Orbitrap Elite MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\130416 SILAC 270min CID_10b50fc9-e5bf-4002-8d58-079a2fa9249e..meth",
+"C:\\Xcalibur\\methods\\AIDA\\130416 SILAC 270min CID.meth"
+],
+"labels": {
+"SILAC": [
+"C:\\Xcalibur\\methods\\AIDA\\130416 SILAC 270min CID.meth",
+"C:\\Xcalibur\\Data\\130416 SILAC 270min CID_10b50fc9-e5bf-4002-8d58-079a2fa9249e..meth"
+]
+}
+},
+"PXD050183": {
+"status": "ok",
+"file": "ea09142_0BSA_MS2_A.raw",
+"models": [
+"Orbitrap Eclipse",
+"Orbitrap Eclipse Method Summary",
+"Orbitrap Resolution = 50K",
+"Orbitrap Resolution = 60K"
+],
+"methods": [
+"C:\\Xcalibur\\data\\active\\90min_Pro16_FAIMS_hrMS2_6e0b3bcb-4e8b-4343-ae71-24aa54ea126f.meth",
+"C:\\Xcalibur\\methods\\joao\\hrMS2\\90min_Pro16_FAIMS_hrMS2.meth"
+],
+"labels": {
+"TMT": [
+"Experiment Name = TMT SPS-MS3 RTS"
+]
+}
+},
+"PXD016605": {
+"status": "ok",
+"file": "Yan_20190826_HFTo_A431siRNA_TMT10_set01_400ug_IPG3-10_fr01.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\plate_50min_gradient_step8_10of20ul.meth",
+"D:\\Xiaofang\\Data\\plate_50min_gradient_step8_10of20ul_1a797235-028a-45b0-ad2b-f1110d392c2a.meth"
+],
+"labels": {
+"TMT": [
+"D:\\Xiaofang\\Data\\Yan_20190826_HFTo_A431siRNA_TMT10_set01_400ug_IPG3-10_fr01.raw"
+]
+}
+},
+"PXD011967": {
+"status": "ok",
+"file": "ScltlMsclSet10BRPhsFr1.raw",
+"models": [
+"Q Exactive HF - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\240  min MS_reporter ion top15 trapelute.meth",
+"D:\\DATA\\170418_ScltlMsclSet#10BRPhsFrs1_33\\240  min MS_reporter ion top15 trapelute_8c493af6-1e89-4501-a52f-e8ceecac5696..meth"
+],
+"labels": {}
+},
+"PXD011444": {
+"status": "ok",
+"file": "a08530.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Fusion Lumos Method Summary",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 50K"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\active\\100u_150min_10plexTMT_MS3_4Z_RNK_UnCheckSingle_3261b84c-b546-4349-9802-928ab72c8126.meth",
+"C:\\Xcalibur\\methods\\Joao\\MetOpt\\100u_150min_10plexTMT_MS3_4Z_RNK_UnCheckSingle.meth"
+],
+"labels": {
+"TMT": [
+"Reagant Tag Type = TMT"
+]
+}
+},
+"PXD035964": {
+"status": "ok",
+"file": "PisaRex_NCF1_Frac01.raw",
+"models": [
+"Orbitrap Exploris 480"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Amir\\20211011_MG_nU5_Exploris480_1_95min_TMT16.meth",
+"D:\\Data\\Amir\\20220225_PisaRex_NCF1\\20211011_MG_nU5_Exploris480_1_95min_TMT16_b372e811-9f01-40b5-af15-d0660731bf54.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\Amir\\20211011_MG_nU5_Exploris480_1_95min_TMT16.meth",
+"D:\\Data\\Amir\\20220225_PisaRex_NCF1\\20211011_MG_nU5_Exploris480_1_95min_TMT16_b372e811-9f01-40b5-af15-d0660731bf54.meth"
+]
+}
+},
+"PXD000527": {
+"status": "ok",
+"file": "P12162_1_F1.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Longcolumn_25cm_75um\\iTRAQ_longcolumn_fixedfirstmass_NEC27.meth",
+"D:\\data\\P12162\\iTRAQ_longcolumn_fixedfirstmass_NEC27_4a93059a-fd78-417e-9bf1-2665aeb89c39..meth"
+],
+"labels": {
+"iTRAQ": [
+"C:\\Xcalibur\\methods\\Longcolumn_25cm_75um\\iTRAQ_longcolumn_fixedfirstmass_NEC27.meth",
+"D:\\data\\P12162\\iTRAQ_longcolumn_fixedfirstmass_NEC27_4a93059a-fd78-417e-9bf1-2665aeb89c39..meth"
+]
+}
+},
+"PXD047500": {
+"status": "ok",
+"file": "Lumos_220124_08.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Lumos",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 50K"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Current Methods\\TMTpro16_MS3_SPS10_120min_201120.meth",
+"D:\\Data\\TMTpro16_MS3_SPS10_120min_201120_60325daf-43ed-4ca9-84d8-95672abb496a.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\Current Methods\\TMTpro16_MS3_SPS10_120min_201120.meth",
+"D:\\Data\\TMTpro16_MS3_SPS10_120min_201120_60325daf-43ed-4ca9-84d8-95672abb496a.meth",
+"Reagant Tag Type = TMT"
+]
+}
+},
+"PXD001618": {
+"status": "no_thermo_raw"
+},
+"PXD004159": {
+"status": "ok",
+"file": "20110819_EXQ4_TaGe_SA_PC12_1_110820100421.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\4hce25dyn20step5_d8600e12-b391-4db5-8f4e-81295cbe221c..meth",
+"C:\\Xcalibur\\methods\\Tami\\4hce25dyn20step5.meth"
+],
+"labels": {}
+},
+"PXD000394": {
+"status": "ok",
+"file": "20120321_EXQ1_MiBa_SA_HCC1143_1.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Michal\\AGC-Top10_120ms_20sec_.meth",
+"D:\\AGC-Top10_120ms_20sec__f862751d-2c89-4d11-b9e0-ac8ed734796a..meth"
+],
+"labels": {}
+},
+"PXD038699": {
+"status": "no_thermo_raw"
+},
+"PXD051942": {
+"status": "ok",
+"file": "20230825_AST1_EVO7_PS_SC_pSILAC_HEK_40SPD_4Th6ms_P_LH_10c_01.raw",
+"models": [
+"Orbitrap Astral",
+"Orbitrap Astral Method Summary",
+"Orbitrap Resolution = 240000"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\PS\\SC-DIA\\40SPD_MS1_30ms_4Th6ms_27%.meth",
+"D:\\40SPD_MS1_30ms_4Th6ms_27%_4a849993-a1c4-4290-9ad1-6bb3cc47bea8.meth"
+],
+"labels": {
+"TMT": [
+"TMT = Off"
+]
+}
+},
+"PXD018581": {
+"status": "ok",
+"file": "Animal_20200325_TM_HStmtpro_CoV12_fr1.raw",
+"models": [
+"Q Exactive HF-X - Orbitrap MS"
+],
+"methods": [
+"D:\\XCalibur\\methods\\00-common methods\\00-TMTpro\\130min_TMTpro_Top20_MS2_45k_86ms_20cm_1p9um_2ul_nLC1200.meth",
+"D:\\raw_data\\130min_TMTpro_Top20_MS2_45k_86ms_20cm_1p9um_2ul_nLC1200_083963dc-1b2b-488b-84ea-70702e3c60a3.meth"
+],
+"labels": {
+"TMT": [
+"D:\\XCalibur\\methods\\00-common methods\\00-TMTpro\\130min_TMTpro_Top20_MS2_45k_86ms_20cm_1p9um_2ul_nLC1200.meth",
+"D:\\raw_data\\130min_TMTpro_Top20_MS2_45k_86ms_20cm_1p9um_2ul_nLC1200_083963dc-1b2b-488b-84ea-70702e3c60a3.meth",
+"<ScanEvent guid=\"208394e3-b655-4d95-9a8a-1ef86edaf284\" id=\"1\" FullInternalName=\"Deukalion.Tmt.1\" DescendantType=\"Child\">"
+]
+}
+},
+"PXD073683": {
+"status": "ok",
+"file": "20250806_ArgC_DDA_HCD-FT_01.raw",
+"models": [
+"Orbitrap Fusion Lumos",
+"Orbitrap Fusion Lumos Method Summary",
+"Orbitrap Resolution = 120K",
+"Orbitrap Resolution = 7.5K"
+],
+"methods": [
+"C:\\Data\\15spd_Evosep_HCD-FT.meth",
+"C:\\Data\\Natalie\\Histones\\Protease exp\\15spd_Evosep_HCD-FT_1f1bfaba-3218-499b-ad60-61dd5bd35648.meth"
+],
+"labels": {}
+},
+"PXD051882": {
+"status": "ok",
+"file": "200320_RK_CRC_tissue_TMT1.raw",
+"models": [
+"Q Exactive HF-X - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\methods\\Rebeca\\RK_TMT_APAF_150min_600nl_120min_35ACN.meth",
+"D:\\Anastasia\\March2020\\RK_TMT_APAF_150min_600nl_120min_35ACN_781e4698-2db8-4b08-a8d1-c7d1ee473508.meth"
+],
+"labels": {
+"TMT": [
+"C:\\Xcalibur\\methods\\Rebeca\\RK_TMT_APAF_150min_600nl_120min_35ACN.meth",
+"D:\\Rebeca\\QHFX March 2020\\200320_RK_CRC_tissue_TMT1.raw",
+"D:\\Anastasia\\March2020\\RK_TMT_APAF_150min_600nl_120min_35ACN_781e4698-2db8-4b08-a8d1-c7d1ee473508.meth"
+]
+}
+},
+"PXD012203": {
+"status": "ok",
+"file": "140725_Sunil_iTRAQ_AD_01_A.raw",
+"models": [
+"Q Exactive - Orbitrap MS"
+],
+"methods": [
+"C:\\Xcalibur\\Data\\140725_Sunil_iTRAQ_AD\\R60PBHO_ca109f27-f6b3-4f7a-a1fe-fd5016ee9ece..meth",
+"C:\\Xcalibur\\methods\\FR\\R60PBHO.meth"
+],
+"labels": {
+"iTRAQ": [
+"C:\\Xcalibur\\Data\\140725_Sunil_iTRAQ_AD\\140725_Sunil_iTRAQ_AD_01_A.raw&",
+"C:\\Xcalibur\\Data\\140725_Sunil_iTRAQ_AD",
+"C:\\Xcalibur\\Data\\140725_Sunil_iTRAQ_AD\\R60PBHO_ca109f27-f6b3-4f7a-a1fe-fd5016ee9ece..meth"
+]
+}
+}
+}
+}

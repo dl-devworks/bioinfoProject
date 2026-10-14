@@ -1,10 +1,10 @@
 # Labelling check: results on the full AI-annotated SDRF corpus
 
-*Run 2026-10-13 with `sdrf-audit labels` on bigbio/sdrf-annotated-datasets commit `a5c1623` (2026-10-12) and PRIDE Archive v3 metadata fetched the same day. Full outputs are in `results/labels/`.*
+*Run 2026-10-13/14 with `sdrf-audit labels` and `sdrf-audit rawheaders` on bigbio/sdrf-annotated-datasets commit `a5c1623` (2026-10-12), PRIDE Archive v3 metadata, and raw-file headers fetched on the same days. Full outputs are in `results/labels/`.*
 
 ## Headline
 
-**About 1 in 9 audited datasets (≈11%) is annotated as label-free even though the experiment was labelled (TMT, SILAC, iTRAQ or dimethyl).** That is roughly 1,320 datasets. Most labelled experiments in the corpus are affected: the corpus annotates only 654 SDRFs as labelled, so about two thirds of the labelled datasets we can detect carry a label-free annotation.
+**About 1 in 8 audited datasets (≈12%, about 1,370 datasets; conservative range 9.8–12.3%) is annotated as label-free even though the experiment was labelled with TMT, SILAC, iTRAQ or dimethyl.** For 905 of them, the deposited raw file's own acquisition method or sample name states the label, e.g. `TMTpro16_MS3_SPS10_90min…meth`. Most labelled experiments in the corpus are affected: only 654 SDRFs are annotated as labelled, so roughly two thirds of the labelled datasets we can detect carry a label-free annotation.
 
 A reanalysis pipeline using these SDRFs would treat each multiplexed run as one label-free sample and would not search for the label modification. Quantification would then be meaningless for those datasets.
 
@@ -80,11 +80,38 @@ The strong and probable "annotated as label-free" flags cover **1,417 accessions
   - PXD065186: the protocol states phospho dimethyl labelling, PRIDE also lists label-free quantification, and the raw header names no label.
 - **Precision is 93% (28/30), with a 95% Wilson interval of 79–98%.**
 
-**Estimated number of real errors.** 1,417 × 0.93 ≈ **1,320 accessions, with a range of about 1,115–1,390. That is 9.6–11.9% of audited accessions.** This is a lower bound on the true rate: it excludes the 133 weak flags, and labelled datasets whose metadata never mentions the label are not detected at all.
+### Raw-header confirmation
+
+The first 256 KB of a deposited Thermo `.raw` file contain the acquisition method path, the original file path and the sample description. `sdrf-audit rawheaders` reads them with an HTTP range request and looks for label words: TMT, iTRAQ, SILAC, dimethyl. Operators choose these names, so a label word is evidence of labelling but its absence proves nothing.
+
+**Calibration** on control groups the label check did not flag:
+
+| Control group | Headers read | Header names a label |
+|---|---:|---:|
+| Correctly label-free datasets (random 150) | 131 | 2 (1.5%; 95% CI 0.4–5.4%) |
+| Correctly labelled datasets (random 150) | 141 | 95 (67.4%; 95% CI 59–75%) |
+
+One of the two label-free hits is a reused tune file named `…TMT_200mi.LTQTune`. The other may be a missed error.
+
+**Flagged datasets.** Headers were readable for 1,528 of the 1,551 flagged accessions; 22 have no Thermo `.raw` file. The rate at which headers name the flagged label measures each tier's precision. True errors should name it at the labelled-control rate (67%), false alarms at the label-free-control rate (1.5%):
+
+| Tier (before header evidence) | Headers read | Header names the label | Estimated precision | Conservative range |
+|---|---:|---:|---:|---:|
+| strong | 1,274 | 855 (67.1%) | **99.6%** | 85–100% |
+| probable | 130 | 39 (30.0%) | 43% | 25–64% |
+| weak | 122 | 24 (19.7%) | 28% | 12–46% |
+
+The strong tier matches the hand check, which found 28 of 30 real errors. A single protocol mention (probable tier) is weaker evidence than the hand check suggested, so it should be treated as a review list rather than as confirmed errors.
+
+**Estimated number of real errors.** Each tier's flag count times its precision gives **≈1,370 accessions (11.8% of those audited). The conservative range is about 1,145–1,430 (9.8–12.3%).** This is still a lower bound on the true rate: labelled datasets whose metadata and file names never mention the label are not detected at all.
+
+With header evidence included, 59 flags moved up to strong and one moved down; 2 new flags come from headers alone. The current tiers are 1,341 strong, 101 probable and 109 weak.
+
+The assumption behind this estimate is that operators of mis-annotated datasets name their methods the way operators of correctly annotated labelled datasets do. Nothing suggests otherwise, but it has not been tested independently.
 
 ## Caveats
 
-- **Small precision sample.** 30 hand checks give a wide interval. A larger review, ideally by bigbio curators, would tighten it.
+- **Small hand-check sample.** 30 hand checks give a wide interval. The raw-header calibration is a larger, independent check, but it relies on the assumption stated above.
 - **Mixed-design projects.** Some projects combine label-free and labelled experiments in one PRIDE record. The sibling-SDRF rule handles the case where the corpus splits them, but a single SDRF covering only the label-free half could still be flagged. Both undetermined cases may be of this kind.
 - **Rules not yet hand-checked.** The "label modification missing" and "one row per file" rules have not been validated by hand.
 - **"Confirmed" means** checked against protocols, file names and raw headers, not with the submitters.
@@ -94,12 +121,16 @@ The strong and probable "annotated as label-free" flags cover **1,417 accessions
 ```bash
 sdrf-audit fetch path/to/sdrf-annotated-datasets --cache cache/pride   # ~1.5 h, cached
 sdrf-audit labels path/to/sdrf-annotated-datasets --cache cache/pride --out results/labels
+sdrf-audit rawheaders path/to/sdrf-annotated-datasets --from-findings results/labels/findings.json \
+    --cache cache/pride --raw-cache cache/rawheaders                     # ~1 h, 256 KB per dataset
+sdrf-audit labels path/to/sdrf-annotated-datasets --cache cache/pride \
+    --raw-cache cache/rawheaders --out results/labels                    # re-run with header evidence
 ```
 
-`results/labels/findings.csv` lists every flag with its quoted evidence. `audited.csv` lists every SDRF checked, and `skipped.json` lists what was skipped and why.
+`results/labels/findings.csv` lists every flag with its quoted evidence. `header_confirmed.csv` lists the 905 flags whose raw-file header names the label, which is the most actionable subset. `rawheader_calibration.json` holds the control-group headers. `audited.csv` lists every SDRF checked, and `skipped.json` lists what was skipped and why.
 
 ## Suggested next steps
 
-1. Share these results with bigbio, for example as an issue on `sdrf-annotated-datasets` with the strong-tier list. It is an actionable fix list and makes the case for adding `sdrf-audit` to their CI.
-2. Add a raw-header check as an automatic second opinion for flagged Thermo datasets. It resolved most ambiguous cases in the hand check.
-3. Hand-check the "label modification missing" rule, and handle mixed-design projects explicitly.
+1. Share these results with bigbio, for example as an issue on `sdrf-annotated-datasets` led by the header-confirmed list. It is an actionable fix list and makes the case for adding `sdrf-audit` to their CI.
+2. Hand-check the "label modification missing" rule, and handle mixed-design projects explicitly.
+3. Extend the header check to Bruker `.d` and SCIEX `.wiff` deposits, which this version cannot read.
